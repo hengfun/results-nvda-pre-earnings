@@ -1,0 +1,100 @@
+# Research Query: What ODM order books reveal about NVDA HGX/GB200 rack volumes for Q3–Q4?,Quanta; Wiwynn; Inventec monthly rev; Taiwan stock exchange,ODM order book HGX GB200 rack volume Q3 Q4 2025
+**Generated:** Wednesday, August 27, 2025 at 11:56:38 AM
+**Model:** gemini-2.5-flash
+
+## Search Queries Used
+- Quanta GB200 order book Q3 Q4 2025 last 3 months
+- Wiwynn GB200 order book Q3 Q4 2025 last 3 months
+- Inventec GB200 order book Q3 Q4 2025 last 3 months
+- ODM NVIDIA HGX GB200 rack volume Q3 Q4 2025 last 3 months
+- Quanta monthly revenue May June July 2025 AI server
+- Wiwynn monthly revenue May June July 2025 AI server
+- Inventec monthly revenue May June July 2025 AI server
+- Taiwan stock exchange ODM AI server outlook last 3 months
+
+## Sources Referenced
+- [taipeitimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCzyTBRbcKdviWs4yaZh9LbrvGYJS1xgKGteKUVLiTgfkIgz-EbqHFARQ45re3xP-53_GBO4BOsqP_rK521GptKzQLInGoMgksI-xx8rAdM7GX70BTjqH7-NtIE2RjUfRo696X2rttOBINN_QbGEdY4zES0rIh0ZOceVQSXQ==)
+- [taipeitimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS_J30YoQZKcljSrXYwqN7Hru6x8F0D5NfCGnKeW9XY1l9aXMV2IkVgUOpUvYEPWyC7mmlTMNKL0RwB-hz47EZfKVM3DpcoAy0RqBYZ6oY49UQZq5KQH4T3H12k8T0gh2YreISk74ZRIjVueEUOGiQnUZlFI09S-lqbX8oAA==)
+- [thehindu.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF57gffWw_gHGsMeYcw92KyHQyPRw_c-usRKNuclo8eOkH6yvwomQZW4zOVFR1XGXYkfP9fv-ZFn0fdMxmCB2zk9XX0EkbimrgFYC70Vu5vfPHo-kNVOhJyfmcHyOTXc1StwXJLAqLha0ktebq968K46RaKdeoLe_q4pffRb21HzPy9pzYq8GujrNs844zGgDhCtOkv9cVNbcXZvbyzvh-b8MeYZM-6KMnysk4LsLQDlEGARh5w5qRze6kt6Qvad2eqU0oTWg==)
+- [wiwynn.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyodqY3IRB7SCCOxcMgzp7BCtQsa2QxMEZ229-Zu5RvdFGvl6vBDCcDeT6i-PVsy0B1ti03mcEe-fmcy6XT2Ml4PTgdkFT6LmVmf8VCVzuJQNxkcW4oYh7eELD8AjYjak0PxQEOVRWh519MSK9nfQIAr4EyLXPltoJde7hCCO8uyyxSZITFlaeUmI=)
+- [dqindia.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZm3uRbB9JPMy7sTbYpwAWXHMyEElhHQKWhAL28AXmQBn2rPzmE3NAdw7dKp5oyVyM7VXed-iQjS7XC9LhZsw5hNWYshPZE99i4EEuoq695liiK87LIUwJPVnojffKG9P7lg_s2f4uRQC-V3y5cRSuqBbkJhPPeOlLEf6OOFoi-DTuvHS-IEk-5L9jfb4lq76oQPdEAZA9BCJ3_xMMFUus5LhX_VULHvs8-4-xdNIwgArC4FBeWxxDhjEbrJUCVCp9Jaz9S-jSp7tiuACbC8_xdxtORw==)
+- [trendforce.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0EUoh5ZiqAjvP49ApYDOMXCtlXwPOBwqhj4IpSRw5M3hszAYsA1IfFpuhaoDB5JneOxFRD_D4Q3F8T8S4kDm7TjyhBq9hiZTbuCHc-dxZSJpCmfFK-OU_-y33TzhKIcxLP2AOhkVKrFne5mTe0cc7HjW4WHu6EHuv)
+- [inventec.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6nVPMlKI1p_WTMh-b1xJaj5r4NsIar5krR2St8jtza_kaMICBpDaeoYLGbXF78ELfVA7lTRArYCoh7pOD21JTzsmIF6ET69khSWOs9zNEz-cfiuYQ6G2XY-Y8I34=)
+- [reddit.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQED68ch5YxQZJrIVmGAryX9nvVTthLySPwlOCiR_TAQfDgndAiXp_zn2qwZhon-J0YEpNwm1VJDhAJ7ALpBNpg4X8vFJ-RHo-WignGOtAuVkWrPqDPPHNA-P96e4ABaW2fuC_rEG3bMUpSMSsGAOFRYNJNeSoE51FwhhLmhs-J7V6JY3FbnThIRtVgi9ddWLZDo6MN_GDY6DFVe2NNcwBGK)
+- [io-fund.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxx4Q6kGafC6p0NN93t58yFigQ3nmIqiDqNGsoRRS9WRFuLVaxqTyte6xUA0EjQHjuNCc5EFbR_15nyqkLg3xcGjV4ndk3xaWrjG9-siOOv1Zm9wxRE2HfgUJtg7DVzYJ_KvIPCdSoIPflLMNaXL0-Ksy1Y-SHH4l5t8Ety_yls98EgKcEZwTp_Y47J1O1_0ZsWj3cp8-wKAfThlkhdD0=)
+
+---
+
+## Analysis
+
+Here's an analysis of NVIDIA's (NVDA) upcoming earnings, focusing on material, non-consensus information regarding HGX/GB200 rack volumes for Q3–Q4 FY2026 (calendar Q3–Q4 2025), based on web content published within the last three months.
+
+**Human-Readable Analysis:**
+
+The recent reports from major Taiwanese Original Design Manufacturers (ODMs) and industry research firm TrendForce paint a largely optimistic picture for NVIDIA's next-generation Blackwell platforms, including GB200 and GB300 racks, for the latter half of 2025. While earlier reports (outside our 3-month filter) hinted at potential delays and reduced shipment forecasts, the latest information suggests these challenges are being addressed, with a ramp-up observed in Q2 and continued growth expected.
+
+Quanta Computer, a key NVIDIA partner, has indicated a strong Q2 FY2026 for AI server revenue, expecting it to constitute 65-70% of its total server sales, and maintains a triple-digit growth outlook for AI server revenue this year. Crucially, Quanta aims to begin shipments of GB300 servers as early as September, with pilot runs by the end of Q3 and small shipments by Q4. This suggests that the transition to the even newer GB300 platform is on track, potentially boosting NVIDIA's revenue in the coming quarters. However, Quanta also noted a 16.6% sequential drop in July revenue due to a product transition, as customers shifted orders to new-generation AI servers, which could introduce some short-term volatility.
+
+Wiwynn Corporation also reported exceptional Q2 FY2026 results, with consolidated revenue surging 184.9% year-on-year, primarily driven by strong demand for both general and AI servers. Wiwynn remains optimistic about long-term data center market growth and is expanding its manufacturing capabilities, including a new facility in Texas slated for production by year-end 2025. This robust performance from another major ODM reinforces the strong underlying demand for NVIDIA's AI solutions.
+
+TrendForce's latest investigations confirm that shipments of Blackwell-based platforms, including GB200 racks and HGX B200, gradually ramped up in Q2 FY2026. The next-generation B300 and GB300 series are now in the sampling and validation phase. TrendForce projects that Blackwell GPUs will account for over 80% of NVIDIA's high-end GPU shipments in 2025, highlighting the significant market adoption expected for these new architectures. Specific ODM engagements, such as Quanta securing additional Oracle orders for GB200/GB300 racks and Wiwynn deepening collaborations with Meta and Microsoft, further underscore the strong customer pull.
+
+Inventec's monthly revenue data shows a sequential dip in July 2025 after strong May and June figures. While not explicitly tied to AI server transitions in the provided snippet, this trend mirrors Quanta's reported July dip due to product transitions, suggesting a broader, albeit temporary, impact across ODMs as the industry shifts to newer, more complex AI server configurations.
+
+Overall, the picture emerging from the supply chain is one of strong, sustained demand for NVIDIA's AI platforms, with the transition to the latest Blackwell architectures (GB200/GB300) progressing. While some short-term revenue fluctuations due to product transitions are noted, the long-term outlook for AI server growth remains highly positive, driven by hyperscaler demand and ODM expansion.
+
+---
+
+**Structured Findings:**
+
+**1. Quanta's GB300 Shipments and AI Server Revenue Outlook**
+*   **Snippet:** "Quanta Computer Inc (廣達) yesterday reported that revenue last month surged 70.6 percent year-on-year, and said it aims to begin shipments of Nvidia Corp's GB300 servers as early as September. Revenue last month reached NT$189.87 billion (US$6.53 billion), a record high for June, bringing first-half revenue to NT$989.79 billion, up 73.99 percent from a year earlier. ... AI server revenue in the second quarter is expected to contribute 65 to 70 percent of overall server sales, the official said, adding that the company would disclose the exact figure at its second-quarter earnings conference. The company's guidance for AI server revenue to grow by a triple-digit percentage from a year earlier remains unchanged, the official said. Meanwhile, Quanta shipped 5 million notebook computers last month and 12.1 million ... ramping up shipments of AI servers based on Nvidia's GB200 chips."
+*   **Date:** July 9, 2025
+*   **Source:** Taipei Times, "Quanta revenue jumps 70.6 percent on server demand", https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCzyTBRbcKdviWs4yaZh9LbrvGYJS1xgKGteKUVLiTgfkIgz-EbqHFARQ45re3xP-53_GBO4BOsqP_rK521GptKzQLInGoMgksI-xx8rAdM7GX70BTjqH7-NtIE2RjUfRo696X2rttOBINN_QbGEdY4zES0rIh0ZOceVQSXQ==
+*   **Impact:** High (95) - Provides specific forward-looking guidance on GB300 shipments starting in Q3 and strong Q2 AI server revenue contribution (65-70% of server sales), indicating robust and accelerating demand for NVIDIA's latest platforms. This granular detail on a key ODM's performance and outlook is highly material.
+*   **Consensus Check:** While strong AI server demand is generally known, the specific GB300 shipment timeline and the high Q2 AI server revenue percentage from a major ODM like Quanta could be non-consensus or provide stronger conviction than general market expectations.
+
+**2. Quanta's GB200/GB300 Production and Q3/Q4 Outlook**
+*   **Snippet:** "Quanta Computer Inc (廣達), which supplies artificial intelligence (AI) servers powered by Nvidia Corp chips, yesterday said that AI servers are on track to account for 70 percent of its total server revenue this year, thanks to improved yield rates and a better learning curve for Nvidia's GB300 chip-based servers. ... Shipments of new-generation AI servers powered by Nvidia's GB300 chips would undergo pilot runs by the end of this quarter, with small shipments to begin as early as the fourth quarter, Yang said. Sales last month dropped 16.6 percent from June due to product transition as some major customers shifted orders to new-generation AI servers from the current generation, the company said. AI server revenue would edge up this quarter from the previous quarter and continue to grow next quarter, as it starts shipping new-generation AI servers, Yang said."
+*   **Date:** August 13, 2025
+*   **Source:** Taipei Times, "Quanta says AI server plans on track", https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHS_J30YoQZKcljSrXYwqN7Hru6x8F0D5NfCGnKeW9XY1l9aXMV2IkVgUOpUvYEPWyC7mmlTMNKL0RwB-hz47EZfKVM3DpcoAy0RqBYZ6oY49UQZq5KQH4T3H12k8T0gh2YreISk74ZRIjVueEUOGiQnUZlFI09S-lqbX8oAA==
+*   **Impact:** High (90) - Confirms the transition to new-generation AI servers (GB300), with potential for Q4 GB300 shipments, and notes improved GB200 yield rates. The reported 16.6% dip in July revenue due to product transition is a key short-term data point that could impact Q3 guidance.
+*   **Consensus Check:** The specific impact of product transition on July sales and the detailed Q4 timeline for GB300 small shipments are likely more granular than general market expectations, offering non-consensus insight into near-term dynamics.
+
+**3. ODM AI Server Revenue Growth (Foxconn, Wistron, Quanta)**
+*   **Snippet:** "Taiwan's Foxconn, which rose to become a global tech manufacturing juggernaut by assembling millions of iPhones, can now say its main business is no longer Apple as it takes advantage of the AI-boom to diversify its income. Its revenue from making AI servers and other cloud and networking products, including for major customer Nvidia, surpassed smart consumer products such as iPhones for the first time in the second quarter, marking the culmination of a shift that began years ago and has swept through Taiwan's tech industry. ... Foxconn now expects its AI server revenue would grow more than 170% in the third quarter year-on-year. Nvidia partner Wistron's revenue for January to July rose 92.7%, while Quanta's grew 65.6% in the same period."
+*   **Date:** August 19, 2025
+*   **Source:** The Hindu, "Foxconn's Apple era fades as AI servers drive growth in Taiwan tech sector", https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF57gffWw_gHGsMeYcw92KyHQyPRw_c-usRKNuclo8eOkH6yvwomQZW4zOVFR1XGXYkfP9fv-ZFn0fdMxmCB2zk9XX0EkbimrgFYC70Vu5vfPHo-kNVOhJyfmcHyOTXc1StwXJLAqLha0ktebq968K46RaKdeoLe_q4pffRb21HzPy9pzYq8GujrNs844zGgDhCtOkv9cVNbcXZvbyzvh-b8MeYZM-6KMnysk4LsLQDlEGARh5w5qRze6kt6Qvad2eqU0oTWg==
+*   **Impact:** Medium-High (80) - While not directly about NVDA rack volumes, Foxconn's projected >170% YoY AI server revenue growth for Q3 and Wistron's 92.7% Jan-July growth, alongside Quanta's 65.6%, strongly indicate robust underlying demand for AI servers, which are heavily reliant on NVIDIA GPUs. This provides strong corroboration for NVIDIA's continued growth.
+*   **Consensus Check:** The general trend of AI server growth is known, but the specific, high percentage growth figures for these major ODMs, and Foxconn's shift away from Apple-centric revenue, could be non-consensus or provide stronger conviction.
+
+**4. Wiwynn's Strong Q2 and 2H25 Outlook**
+*   **Snippet:** "Following the Board of Directors meeting today (August 8), Wiwynn Corporation announced consolidated financial statements for the second quarter of 2025. In the second quarter ended June 30, 2025, consolidated revenue reached NT$220.744 billion, an increase of 184.9% year-over-year. Profit after tax (PAT) was NT$12.122 billion, up 158.3% year-over-year. Driven primarily by strong demand for general and AI servers, hardware product revenue grew significantly faster than product design and development income (one-time NRE engineering fees), resulting in a gross margin of 8.6%. ... The Company remains optimistic about long-term market demand and growth for data centers, and is committed to continuous investments to deepen AI, computing, thermal, and related technologies and product development. Looking ahead to the second half of 2025, amid uncertainties in the international landscape and various countries' tariff policies, the Company is building manufacturing facilities in Texas, USA. Production is scheduled to commence by the end of 2025 to strengthen production and supply chain resilience."
+*   **Date:** August 8, 2025
+*   **Source:** Wiwynn Press Release, "Wiwynn Reports Second Quarter 2025 Financial Results", https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyodqY3IRB7SCCOxcMgzp7BCtQsa2QxMEZ229-Zu5RvdFGvl6vBDCcDeT6i-PVsy0B1ti03mcEe-fmcy6XT2Ml4PTgdkFT6LmVmf8VCVzuJQNxkcW4oYh7eELD8AjYjak0PxQEOVRWh519MSK9nfQIAr4EyLXPltoJde7hCCO8uyyxSZITFlaeUmI=
+*   **Impact:** High (90) - Wiwynn's exceptional Q2 performance (184.9% YoY revenue growth, 158.3% YoY PAT growth), explicitly driven by strong AI server demand, provides strong evidence of robust market conditions for NVIDIA's products. The optimistic 2H25 outlook and Texas expansion signal long-term confidence.
+*   **Consensus Check:** While strong performance is anticipated, the magnitude of Wiwynn's YoY growth and its specific forward-looking statements for 2H25 could be non-consensus or provide a stronger signal than general market expectations.
+
+**5. Blackwell Platform Ramp-up and ODM Engagements (TrendForce)**
+*   **Snippet:** "TrendForce's latest investigations find that the overall server market has recently stabilized, with ODMs concentrating efforts on AI server development. Starting in Q2, shipments of new Blackwell-based platforms—such as the NVIDIA GB200 rack and HGX B200—have gradually ramped up, while next-generation B300 and GB300 series products have entered the sampling and validation phase. TrendForce projects that Blackwell GPUs will account for over 80% of NVIDIA's high-end GPU shipments in 2025. Oracle's expansion of AI data centers in North America has generated significant order growth for Foxconn, while also benefiting suppliers like Supermicro and Quanta. ... Quanta, leveraging its longstanding partnerships with major clients such as Meta, AWS, and Google, has successfully expanded its GB200/GB300 rack operations and recently won additional orders from Oracle, boosting its AI server performance notably. Meanwhile, Wiwynn is deepening its collaborations with Meta and Microsoft and is expected to see growth in the second half of the year."
+*   **Date:** July 25, 2025
+*   **Source:** DQI Bureau / TrendForce, "Blackwell to account for over 80% of NVIDIA's high-end GPU shipments in 2025: Liquid cooling adoption continues to rise", https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZm3uRbB9JPMy7sTbYpwAWXHMyEElhHQKWhAL28AXmQBn2rPzmE3NAdw7dKp5oyVyM7VXed-iQjS7XC9LhZsw5hNWYshPZE99i4EEuoq695liiK87LIUwJPVnojffKG9P7lg_s2f4uRQC-V3y5cRSuqBbkJhPPeOlLEf6OOFoi-DTuvHS-IEk-5L9jfb4lq76oQPdEAZA9BCJ3_xMMFUus5LhX_VULHvs8-4-xdxtORw==
+*   **Impact:** High (95) - Provides a comprehensive, third-party validation of Blackwell's Q2 ramp-up and the progress of B300/GB300. The projection of Blackwell GPUs accounting for over 80% of NVIDIA's high-end GPU shipments in 2025 is a strong indicator of future revenue. Specific ODM client wins (Quanta with Oracle, Wiwynn with Meta/Microsoft) are highly material.
+*   **Consensus Check:** The specific details on Q2 ramp-up, B300/GB300 validation, and individual ODM client wins could be non-consensus or provide more detailed insights into the supply chain's current state and future expectations.
+
+**6. Inventec Monthly Revenue (May, June, July 2025)**
+*   **Snippet:** "Inventec | Consolidated Operating Revenue. ... TWD in Thousands, JAN, FEB, MAR, APR, MAY, JUN, JUL, AUG, SEP, OCT, NOV, DEC, TOTAL. 2025, 45,841,662, 51,670,733, 59,521,941, 62,100,043, 61,203,003, 63,274,343, 54,420,542, ---, ---, ---, ---, ---, 398,032,267."
+*   **Date:** Data up to July 2025 (published on or after July 2025)
+*   **Source:** Inventec Investor Relations, "Consolidated Operating Revenue", https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6nVPMlKI1p_WTMh-b1xJaj5r4NsIar5krR2St8jtza_kaMICBpDaeoYLGbXF78ELfVA7lTRArYCoh7pOD21JTzsmIF6ET69khSWOs9zNEz-cfiuYQ6G2XY-Y8I34=
+*   **Impact:** Medium (60) - Shows a sequential decline in Inventec's July revenue (NT$54.4B) compared to June (NT$63.3B) and May (NT$61.2B). While not explicitly tied to AI servers in this snippet, this mirrors Quanta's reported July dip due to product transitions (Snippet 2), suggesting a potential industry-wide, short-term impact as ODMs shift to newer, more complex AI server configurations. This could impact Q3 guidance.
+*   **Consensus Check:** Raw monthly revenue data is publicly available, but interpreting the sequential dip in July in the context of AI server transitions and comparing it across ODMs might be a non-consensus read, highlighting potential short-term headwinds.
+
+---
+
+**Contradictions and Gaps:**
+
+*   **Contradictions:** There are no direct contradictions among the *recent* (last 3 months) snippets. However, the current positive outlook and ramp-up for GB200/GB300 from July/August 2025 sources (Quanta, Wiwynn, TrendForce) implicitly contradict earlier reports (outside the 3-month filter, e.g., March 2025 Reddit post or February 2025 IO Fund article) that suggested significant delays and reduced shipment forecasts for GB200/GB300 racks for 2025. This suggests that earlier reported issues may have been largely resolved or that market expectations have adjusted.
+*   **Gaps:**
+    *   **Specific Rack Volume Numbers for Q3-Q4 2025:** While the snippets confirm a ramp-up and expected growth, concrete, quantifiable rack volume numbers for GB200/GB300 from individual ODMs for Q3 and Q4 2025 are still largely absent. TrendForce projects Blackwell GPUs to account for over 80% of NVIDIA's high-end GPU shipments in 2025, but this is a GPU unit projection, not a rack volume.
+    *   **Detailed Inventec AI Server Outlook:** While Inventec's overall monthly revenue is available, specific commentary on its GB200/GB300 rack volumes or AI server revenue contribution for Q3-Q4 2025 is not as detailed as for Quanta and Wiwynn in the recent snippets. Its July revenue dip, while potentially linked to product transitions, lacks explicit confirmation for AI servers.
+    *   **Full Impact of Product Transitions:** Quanta explicitly mentioned a July revenue dip due to product transitions. While Inventec also saw a July dip, the full extent and financial impact of these transitions across all ODMs, and how they might affect NVIDIA's Q3 guidance, remains a gap.

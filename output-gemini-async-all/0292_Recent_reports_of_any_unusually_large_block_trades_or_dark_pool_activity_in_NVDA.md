@@ -1,0 +1,75 @@
+# Research Query: Recent reports of any unusually large block trades or "dark pool" activity in NVDA stock.
+**Generated:** Wednesday, August 27, 2025 at 12:07:40 PM
+**Model:** gemini-2.5-flash
+
+## Search Queries Used
+- NVDA large block trades May 2025 August 2025
+- NVDA dark pool activity May 2025 August 2025
+- NVIDIA institutional buying selling May 2025 August 2025
+- NVDA unusual options activity May 2025 August 2025
+- NVDA off-exchange trading volume May 2025 August 2025
+- NVDA block trade analysis recent
+- NVIDIA dark pool volume trends recent
+
+## Sources Referenced
+- [nasdaq.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqkEBSyPU_HKBVrjHcSitd1_Tp7DZnqKEDNA6UBhHbeS_hT3wmLrwZfG21xVketMTOfvIRmSmingubRfoiruLcKU70fCDiV6WRI_hMCtpembDcQ_1yo4TDZKMQ_MlOQUXcPZdqsyAgrhwrOO-aAD752Ir2dDHqISYrd3NZl4LHATl-sc22ZG5uilnv7DRT5eoBXp2lWh8IdXOHt0FniUK4iG8CNt1gxrdLFXZw6rKn)
+- [cheddarflow.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAGjcawWTmtjf3s-m-LIDznUzcAYjhWUH0fkwPNd3U8vquBjYmUBIVwGUb5bUtsAQkxhZL899rluk35BiWX3Ej5GG23dtmTHoUh6dVfonM15VyIZdd6xqKjTU5uqccuvrTwhgouv-_2F4aKPLgDPVMg-spBHddQUyQ1TYsl_Xo2lK84cecT0jLOGwjKgDy9Tm48gfUsy0T2LgpzCVRlMM15JjSbk8Cbooc6oPa1kq_Dwvcevw=)
+- [moomoo.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDikwZtWwxhycAM16D4IPj8etrZQZ9g7eZF2eKX_uqUgXmuRNbltPpkI2iPzaMawKh-T9K5Tl4ZcXZCEssyuc9utxYQlreqRFBB1fwnKPgHOxI16GrcmsXe8JvCERmrCP40JVlZoh3OpprENojeTn5o70GcPY7OkhyoKltgdD6D-Pm-Ntl0t87HbdEfla-NQqkK0A754376T7XjNVe9yxmYn8Voco=)
+- [marketchameleon.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8dpkE0EBthV01YmL9Va5QRRMHslwrEI40tjDpnE85RKK926xpQQfzCpHxr9yxV-y05EqWHsubE-I8K2bL31LuI_O9X5LhFnS8deGaimSRG4gALQ3e0NX0VFQj_8DZPsMJs7EBhtXmJ3qmXBsaMILhPYkVz9aVmcZ0_a0oS2p9dK-UVFOpZCmSDesEAZURzzsyP-jP3ocdejsj2p5EGgGQ-TZjguVDknKEuFr85vL-Ju1W0kA5KwZDkxUIZC0gTVVl4AHz-PslIjV-NbU=)
+- [economictimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrrGTE6c8sIpcKdqhaU3wy_X_jwgeRzx3nMydNE8uSobxFFuKHD_u8pw6uNkFSyb5yNTB0a2hNoZOlWdv04LjKEzf1L2s_A-RKCQCCVOfDPi1fyNQi2Qy2KXpxwiZbiLbZvIqmEjRI15f8M1oWOlzK9ruTpMN_KZhAwrHLWMM52SiMt7wPgoBKAf32xeaL9I_pbiepZTUhKTNg8Nh0yjMqFsRoNvyklmbSmbzo7P4C2QbffhbYCtSNWAThrh9QSxxBDGaQwBHAui3seViALC-M6Gwmor55p_yFMuu9UYVHDGoEC9kixnpwcWTNRXoI_JvTbRD7EACMSZu6t_XAPrG3vTWhC7pJr_XN)
+- [cheddarflow.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHluoZDAPC57vhZ1ADu2EkrzeXgecaEoStluv7waxoLVTWMNaU3h4SPDv2bItx2OoGwS6BagcawhIhknELi4fcMktYmKrj_uX1pkrsCo2u6UZSDRhyYcBckBdGdO8jdmPWLT8Ut1rHIHn6_DGHcgpR3ub8nnMIzLR_6gFe8w4ZTxdS9Loiz_obI7nGpdG8lrjMv9l1EWr2g3va15dZ4JAYORJV6NkN4LVqMeh-IKUE1)
+
+---
+
+## Analysis
+
+As NVIDIA (NVDA) prepares to report its Q2 FY2026 earnings after market close today, August 27, 2025, a review of recent trading activity reveals several instances of significant institutional positioning, primarily through large options trades and a notable stock purchase by a prominent hedge fund. While explicit, detailed "dark pool" block trade information remains largely opaque without premium data access, the observed unusual options activity often serves as a proxy for institutional sentiment and large-scale positioning.
+
+The findings suggest a predominantly bullish institutional bias leading into earnings, with several large call option purchases and a substantial increase in a billionaire investor's stake. However, a smaller, recent institutional sell-off provides a counterpoint, highlighting potential caution among some investors.
+
+### Structured Findings:
+
+-   **Snippet:** "AI hardware stocks were on the menu for Appaloosa's billionaire chief. ... Nvidia: 1,450,000 shares purchased (483% increase from March 31, 2025)."
+-   **Date:** August 25, 2025
+-   **Source:** Nasdaq, [https://www.nasdaq.com/articles/billionaire-david-tepper-piled-into-nvidia-tsmc-and-intel-and-sold-shares-of-the-no.-1-artificial-intelligence-ai-stock-among-billionaire-fund-managers](https://www.nasdaq.com/articles/billionaire-david-tepper-piled-into-nvidia-tsmc-and-intel-and-sold-shares-of-the-no.-1-artificial-intelligence-ai-stock-among-billionaire-fund-managers)
+-   **Impact:** High. David Tepper's Appaloosa significantly increasing its NVDA stake by 483% (1,450,000 shares) during Q2 FY2026 indicates strong conviction from a major institutional player. This large-scale buying suggests a belief in continued upside for NVIDIA, potentially based on non-public research or a contrarian view.
+-   **Consensus Check:** Overlooked. While Tepper's moves are eventually public, the timing and magnitude of such a substantial increase just before earnings could be non-consensus, especially if it reflects a more aggressive stance than the broader market.
+
+-   **Snippet:** "NVDA experienced two major call sweep trades for August 2025 expiration, with traders paying a combined $5.5 million in premiums. Both the $175 and $180 strikes saw single-day volumes exceeding 10,000 contracts combined, with volume-to-open-interest ratios above 0.31. These metrics suggest strong interest, likely from institutions seeking upside exposure with only a month to expiry."
+-   **Date:** July 17, 2025
+-   **Source:** Cheddar Flow, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAGjcawWTmtjf3s-m-LIDznUzcAYjhWUH0fkwPNd3U8vquBjYmUBIVwGUb5bUtsAQkxhZL899rluk35BiWX3Ej5GG23dtmTHoUh6dVfonM15VyIZdd6xqKjTU5uqccuvrTwhgouv-_2F4aKPLgDPVMg-spBHddQUyQ1TYsl_Xo2lK84cecT0jLOGwjKgDy7Tm48gfUsy0T2LgpzCVRlMM15JjSbk8Cbooc6oPa1kq_Dwvcevw=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAGjcawWTmtjf3s-m-LIDznUzcAYjhWUH0fkwPNd3U8vquBjYmUBIVwGUb5bUtsAQkxhZL899rluk35BiWX3Ej5GG23dtmTHoUh6dVfonM15VyIZdd6xqKjTU5uqccuvrTwhgouv-_2F4aKPLgDPVMg-spBHddQUyQ1TYsl_Xo2lK84cecT0jLOGwjKgDy7Tm48gfUsy0T2LgpzCVRlMM15JjSbk8Cbooc6oPa1kq_Dwvcevw=)
+-   **Impact:** High. These substantial bullish call sweep trades, likely from institutions, indicate a strong expectation of NVDA's stock price rising significantly by the August expiration. The large premium paid and high volume-to-open-interest ratios suggest aggressive positioning for an upside move, potentially driven by positive earnings expectations.
+-   **Consensus Check:** Overlooked. While options activity is public, the specific details of these large, aggressive sweeps and their implied conviction might not be fully priced into the consensus view, especially given the proximity to earnings.
+
+-   **Snippet:** "Another option trade worth noting is a trade on $NVIDIA (NVDA.US)$ call contracts with a volume of 30,000, far exceeding its open interest of 66 with a V/OI ratio of 454.55. The premium, or cost, of the trade was $125.49 million. The strike price of this contract is $100.000 and the expiration date is July 3rd, 2025, 20 days later."
+-   **Date:** June 13, 2025
+-   **Source:** Moomoo, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDikwZtWwxhycAM16D4IPj8etrZQZ9g7eZF2eKX_uqUgXmuRNbltPpkI2iPzaMawKh-T9K5Tl4ZcXZCEssyuc9utxYQlreqRFBB1fwnKPgHOxI16GrcmsXe8JvCERmrCP40JVlZoh3OpprENojeTn5o70GcPY7OkhyoKltgdD6D-Pm-Ntl0t87HbdEfla-NQqkK0A754376T7XjNVe9yxmYn8Voco=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDikwZtWwxhycAM16D4IPj8etrZQZ9g7eZF2eKX_uqUgXmuRNbltPpkI2iPzaMawKh-T9K5Tl4ZcXZCEssyuc9utxYQlreqRFBB1fwnKPgHOxI16GrcmsXe8JvCERmrCP40JVlZoh3OpprENojeTn5o70GcPY7OkhyoKltgdD6D-Pm-Ntl0t87HbdEfla-NQqkK0A754376T7XjNVe9yxmYn8Voco=)
+-   **Impact:** High. A call option trade with a premium of $125.49 million and a V/OI ratio of 454.55 is an exceptionally large and aggressive bullish bet. This indicates a very strong conviction from a large trader or institution for NVDA to be above $100 by early July. While the expiration has passed, this reflects significant bullish sentiment during the quarter leading up to the current earnings.
+-   **Consensus Check:** Overlooked. The sheer size and V/OI ratio of this trade suggest a highly concentrated and potentially non-consensus bullish view at the time it was executed.
+
+-   **Snippet:** "The Aug-29-25 $180 call traded a remarkable 36,932 contracts as of 11:36 AM—representing 5.1% of all NVDA option volume so far. ... Today's data shows a clear tilt toward professional activity: 55% of the contract's volume was attributed to large or institutional trades, versus 45% from retail-sized orders. The overall order flow skews bullish, with 68.2% of contracts bought on the ask or above midpoint, compared to 31.8% sold."
+-   **Date:** August 27, 2025
+-   **Source:** Market Chameleon, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8dpkE0EBthV01YmL9Va5QRRMHslwrEI40tjDpnE85RKK926xpQQfzCpHxr9yxV-y05EqWHsubE-I8K2bL31LuI_O9X5LhFnS8deGaimSRG4gALQ3e0NX0VFQj_8DZPsMJs7EBhtXmJ3qmXBsaMILhPYkVz9aNmcZ0_a0oS2p9dK-UVFOpZCmSDesEAZURzzsyP-jP3ocdejsj2p5EGgGQ-TZjguVDknKEuFr85vL-Ju1W0kA5KwZDkxUIZC0gTVVl4AHz-PslIjV-NbU=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8dpkE0EBthV01YmL9Va5QRRMHslwrEI40tjDpnE85RKK926xpQQfzCpHxr9yxV-y05EqWHsubE-I8K2bL31LuI_O9X5LhFnS8deGaimSRG4gALQ3e0NX0VFQj_8DZPsMJs7EBhtXmJ3qmXBsaMILhPYkVz9aNmcZ0_a0oS2p9dK-UVFOpZCmSDesEAZURzzsyP-jP3ocdejsj2p5EGgGQ-TZjguVDknKEuFr85vL-Ju1W0kA5KwZDkxUIZC0gTVVl4AHz-PslIjV-NbU=)
+-   **Impact:** High. This is extremely recent, occurring on the day of earnings. The massive volume in the August 29, 2025, $180 call, with a clear institutional and bullish bias (68.2% bought on the ask), signals aggressive positioning for an immediate upside move post-earnings. This suggests that a significant portion of institutional money anticipates a positive surprise or strong guidance.
+-   **Consensus Check:** Overlooked. While the options market reflects expectations, the specific details of such a large, last-minute institutional bullish push might not be fully incorporated into broader analyst consensus or retail sentiment.
+
+-   **Snippet:** "Adding intrigue, UK-based wealth manager Brown Shipley disclosed it sold 3,351 Nvidia shares this week, worth about $18.5 million — a relatively small stake reduction, but one that landed just before earnings."
+-   **Date:** August 27, 2025
+-   **Source:** The Economic Times, [https://economictimes.indiatimes.com/markets/stocks/news/nvidia-earnings-on-deck-today-45b-revenue-target-brown-shipley-trims-stake-can-nvda-quiet-ai-bubble-fears/articleshow/112879007.cms](https://economictimes.indiatimes.com/markets/stocks/news/nvidia-earnings-on-deck-today-45b-revenue-target-brown-shipley-trims-stake-can-nvda-quiet-ai-bubble-fears/articleshow/112879007.cms)
+-   **Impact:** Medium. While the dollar value ($18.5 million) is relatively small for a company of NVIDIA's size, any institutional selling just before earnings can be interpreted as a cautious or de-risking move. It provides a contrasting data point to the prevalent bullish sentiment.
+-   **Consensus Check:** Widely known, but the interpretation might be non-consensus. The article itself highlights this as "adding intrigue" and a potential "early warning of fatigue in the AI trade," suggesting it's noted but its significance is debated.
+
+-   **Snippet:** "Today we came across a few notable bullish call option trades for NVIDIA (NVDA), reflecting aggressive positioning ahead of key summer expiration dates. The largest trade involves 17,000 contracts on the $149 strike expiring June 13th, 2025. The trade executed at $0.88 per contract, putting the total premium at $1.5M. The trade was labeled as a Block trade—often indicative of institutional activity. Additionally, a 12,500-contract block at the $200 strike expiring August 15, 2025, was filled at $0.42, adding $525K in premium."
+-   **Date:** June 5, 2025
+-   **Source:** Cheddar Flow, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHluoZDAPC57vhZ1ADu2EkrzeXgecaEoStluv7waxoLVTWMNaU3h4SPDv2bItx2OoGwS6BagcawhIhknELi4fcMktYmKrj_uX1pkrsCo2u6UZSDRhyYcBckBdGdO8jdmPWLT8Ut1rHIHn6_DGHcgpR3ub8nnMIzLR_6gFe8w4ZTxdS9Loiz_obI7nGpdG8lrjMv9l1EWr2g3va15dZ4JAYORJV6NkN4LVqMeh-IKUEU](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHluoZDAPC57vhZ1ADu2EkrzeXgecaEoStluv7waxoLVTWMNaU3h4SPDv2bItx2OoGwS6BagcawhIhknELi4fcMktYmKrj_uX1pkrsCo2u6UZSDRhyYcBckBdGdO8jdmPWLT8Ut1rHIHn6_DGHcgpR3ub8nnMIzLR_6gFe8w4ZTxdS9Loiz_obI7nGpdG8lrjMv9l1EWr2g3va15dZ4JAYORJV6NkN4LVqMeh-IKUEU)
+-   **Impact:** High. These block call option trades, particularly the 17,000 contracts on the $149 strike, represent significant institutional bullish positioning earlier in the quarter. While the June expiration has passed, the August 15, 2025, $200 strike block trade is directly relevant to the current earnings period and indicates a belief in substantial upside.
+-   **Consensus Check:** Overlooked. These specific block trades, while public, are often buried in options flow data and may not be widely disseminated or factored into broader market sentiment.
+
+### Contradictions and Gaps:
+
+*   **Contradiction in Sentiment:** The overwhelming bullishness indicated by large institutional call option purchases and David Tepper's increased stake contrasts with the small, but notable, share sale by Brown Shipley. This suggests a divergence in institutional opinion, or at least a degree of caution from some players.
+*   **Gap in Direct Dark Pool Block Trade Details:** While several sources mention "dark pool" activity and "off-exchange" volume, specific details of unusually large *stock* block trades executed in dark pools (e.g., exact size, price, participant) are not readily available without specialized, often subscription-based, data services. The options activity serves as the closest proxy for large, non-public institutional positioning.
+*   **Lack of Specific Bearish Block Trades:** The research primarily uncovered bullish institutional activity. There was no clear evidence of unusually large *bearish* block trades or put option sweeps of similar magnitude to the bullish call activity, which could indicate a one-sided institutional bet or simply that bearish positions are being taken through other, less visible means.
+*   **"Non-Consensus" Interpretation:** While the data points are factual, their "non-consensus" nature is an interpretation. The market is aware of general options activity and institutional filings, but the *implications* of these specific, large, and often aggressive trades, especially those occurring very close to earnings, may not be fully appreciated or priced in by all market participants.
+
+In summary, the pre-earnings research indicates a strong, aggressive bullish stance from several institutional players in NVIDIA, primarily expressed through large call option purchases and a significant increase in a hedge fund's equity stake. This suggests expectations for a positive earnings surprise or strong forward guidance. The minor institutional selling provides a slight counter-narrative, but the overall picture points to a market anticipating upside.

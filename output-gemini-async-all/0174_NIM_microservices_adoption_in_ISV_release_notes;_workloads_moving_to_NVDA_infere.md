@@ -1,0 +1,96 @@
+# Research Query: NIM microservices adoption in ISV release notes; workloads moving to NVDA inference.
+**Generated:** Wednesday, August 27, 2025 at 12:02:31 PM
+**Model:** gemini-2.5-flash
+
+## Search Queries Used
+- NVIDIA NIM microservices ISV adoption release notes after:2025-05-27 before:2025-08-27
+- NVIDIA inference workloads migration trends after:2025-05-27 before:2025-08-27
+- ISV integrate NVIDIA NIM after:2025-05-27 before:2025-08-27
+- enterprise AI inference shift to NVIDIA after:2025-05-27 before:2025-08-27
+- NVIDIA NIM customer testimonials after:2025-05-27 before:2025-08-27
+- NVIDIA inference software revenue growth after:2025-05-27 before:2025-08-27
+
+## Sources Referenced
+- [siliconangle.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGKhdbGilxKliklNLWRXW0LcbKaVUp6peqLAt0KaIoE6dKUs4RJihLe425wri94m_UOQPq-5YXkIJALMKjNo7IfFSxvbM-PuDkOiuudAgtiD-Wob2xN6R9eobNaM66gV9fz6OvGLvjcYRIsgFIyp2N9f0QyyUXIHFeXBVrEkbjlGVj2MthIJpwVfktTPzjG0QTHOBqHEymw==)
+- [digitimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Zl7zFI8XMue-KO1Rb63CSsI8-WXCKgETO0wWCpTTqp1fQNYMWJJ_WVhnWLbk0dHspspRy-L6ZxGKVbph1nYHPrY0Wm3RHntWnOZqYqAoOPFHfpQHgyT_je5Kk9s8njUKXm_tOjlQgTaww_5uJRw2JSXmwIkOUTKc8c5Ea-sE_xvGA_CLUgOdSCCsiqhB13toh3C-RRY=)
+- [imbrace.co](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9kG4kJxDcyEQ8aJPeRQ1NyLv-UQvBguYuCezAtbuN-yFbPjljOvKyyCQstd5gFMZxISesOC3rqz_D3rqR07UVtnbaOBmSf3iqpOsz6ovQrWb9RcQYkIsukUSOiUN6ssvwR4t1iWLw92BzNIIs7PmMW1F1nS0fADXUJY0wVlkLLiSMw-jDye-6QQkN1vpr)
+- [prodapt.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCG5ZZRVYLwfMinbfdc2RbIMtkHd_HSn6tewEreKO4CT8KAY6FmEQp3QbcE2Er4ZuZ3e5k0WRHGrw0IJ_FuuQcaHpvSDyhtWm0K-_kaZFk3cgrxyFoIQzaMtztEi8WRoYzR-yThkFRPcXqExgdfxH15nlA_R1C_L-_TFLmG8EIqb-t53TKd97rWkrj8kVWt1k4jWwaIdfsz1vpdUaQ82_XEdCo6rr05iy4GDcIPn2vy-SMjZWLqJs=)
+- [marketsandmarkets.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNXp_P13caWvjolI3uZ_5AnfqwIE7LxD5yUom9C7BqLdGy-9_8afz6VJrtTgV41bkzRlVO0Xvnvw5nqcW-lTLX2MZopgYpbeNEELi8Lxjdmzzo_eGXHbmbPNjF0cjydqDzJIy3DC0vjWtU2rgQerri0LdDAK3N4WTksyEF3mZWWKN9Bv0w9uxttzJcbJyPaOQL3-1NzPeWrPxqPJDjnQ413IRm8w==)
+- [csc-jsc.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2EVSbG1w7o2pIQkaqSWkyHDobbTt6dfJ8wSS3xYRQ5vFEilzRheIroqBoMYW5r-cPoeJlAmiIHr5vBpPYRTvA322VZmjwlexJH-y2GvMfrMNhkU30ZuL0LsIdMPxLcCNqB3UsrvQcmFMB)
+- [efficientlyconnected.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE19L1azlLOHyBb0qhPB7oi5WNob1cnnxMWa5BtqkDe2tV9qmbJXeEE2PkpsObHIiJyohZELhue7XOmq3SLu5kX7uJNf3mD99xL-HSOodFEiYxQ062KbmjXx0titqznsLVutsjIzwL77P0qMYqIhlNPYNjrrfhOg4rw8nS6ClXCP7-XaRRCdRrYnixLVpMSitagn4zj3R6U2TP2HAhjYQuWkAfeYxE9DCkU7ajpWrQ1fw2XPVH51ItO0M8FSoEuLGy2yBG6fqWbTYC4kp8Fj-QpzuvYPutItsc2eRiszIAI7BDlNjYT-GmYAMR0Ia2oErmm8YUfOZ2-RpYS4MwZkaAoV2a7FuZNgt6V2J7oqFGkdRH5EAsD)
+- [nvidia.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlSMUA2ko7EWoI6GeKjte3gaKUlasiS9K7LoaJIG3YBmkepKFdx8zyC6QLiTWx5p78iVkNVnDFLqn7orrNQSimTcpzaQno_7gxm3pkJdMRyy5w4en4SPzCqCeuRioxWIAsASennkRrz29SdQ9OjncEFkLneIxzOOSQ9aNPWldDar8rUW3nIhZph-HNkGUAUz7QYb_bFPyxC3pb8Jvg)
+
+---
+
+## Analysis
+
+NVIDIA is poised to report its Q2 FY2026 earnings today, August 27, 2025, with significant attention on the continued growth of its Data Center segment, particularly in AI inference. Recent market intelligence, published within the last three months, suggests a robust and accelerating shift towards NVIDIA's inference platforms and a growing adoption of its Inference Microservices (NIM) by Independent Software Vendors (ISVs) and major cloud providers. This indicates strong underlying demand for NVIDIA's hardware and software solutions for AI inference, potentially exceeding current market consensus.
+
+Key findings point to an "inference supercycle" driven by the rapid deployment of NVIDIA's Blackwell architecture and the increasing sophistication of AI workloads, particularly agentic AI. Specific data points on hyperscaler inference token volumes and quantifiable benefits from ISV integrations highlight the material impact these trends could have on NVIDIA's upcoming earnings and forward-looking guidance.
+
+Here are the detailed findings:
+
+---
+
+**Finding 1: Massive Inference Demand from Hyperscalers**
+
+*   **Snippet:** "As software shifts to agents, Nvidia is locking in its role as the AI infrastructure backbone. With inference demand exploding — Microsoft Corp. alone hit 100 trillion tokens last quarter — its Grace Blackwell chips and Spectrum-X networking aren't just upgrades; they're powering a full data center redesign built for the age of intelligent automation, according to Vellante."
+*   **Date:** 2025-06-02
+*   **Source:** SiliconANGLE, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGKhdbGilxKliklNLWRXW0LcbKaVUp6peqLAt0KaIoE6dKUs4RJihLe425wri94m_UOQPq-5YXpIJALMKjNo7IfFSxvbM-PuDkOiuudAgtiD-Wob2xN6R9eobNaM66gV9fz6OvGLvjcYRIsgFIyp2N9f0QyyUXIHFeXBVrEkbjlGVj2MthIJpwVfktTPzjG0QTHOBqHEymw==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnGKhdbGilxKliklNLWRXW0LcbKaVUp6peqLAt0KaIoE6dKUs4RJihLe425wri94m_UOQPq-5YXpIJALMKjNo7IfFSxvbM-PuDkOiuudAgtiD-Wob2xN6R9eobNaM66gV9fz6OvGLvjcYRIsgFIyp2N9f0QyyUXIHFeXBVrEkbjlGVj2MthIJpwVfktTPzjG0QTHOBqHEymw==)
+*   **Impact:** High (95) - This specific and substantial data point from Microsoft indicates an unprecedented surge in AI inference workloads. 100 trillion tokens in a single quarter from one major customer translates directly into massive demand for NVIDIA's inference-optimized GPUs and networking solutions, suggesting a significant upside to data center revenue and potentially exceeding market expectations for inference growth.
+*   **Consensus Check:** Overlooked. While the general trend of increasing inference is known, this precise, large-scale metric from a key hyperscaler is likely not widely factored into current consensus estimates.
+
+**Finding 2: Rapid Blackwell Adoption and Inference Efficiency Gains**
+
+*   **Snippet:** "The rapid deployment of Nvidia's new Blackwell architecture is a primary driver of this growth. Described as the fastest ramp in the company's history, Blackwell contributed nearly 70% of data center compute revenue in the first quarter of 2026, indicating that the transition from the previous Hopper architecture is nearly complete. The GB200 NVL system represents a fundamental architectural change designed to enable data-center-scale workloads and achieve the lowest cost per inference token. Manufacturing yields for these complex systems are improving, and rack shipments to end customers are ... Software optimizations like Nvidia Dynamo are significantly turbocharging inference throughput for new reasoning models, with reported improvements of up to 30x on Blackwell NVL72 for models like Llama 3.1."
+*   **Date:** 2025-05-29
+*   **Source:** DIGITIMES Asia, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Zl7zFI8XMue-KO1Rb63CSsI8-WXCKgETO0wWCpTTqp1fQNYMWJJ_WVhnWLbk0dHspspRy-L6ZxGKVbph1nYHPrY0Wm3RHntWnOZqYqAoOPFHfpQHgyT_je5Kk9s8njUKXm_tOjlQgTaww_5uJRw2JSXmwIkOUTKc8c5Ea-sE_xvGA_CLUgOdSCCsiqhB13toh3C-RRY=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Zl7zFI8XMue-KO1Rb63CSsI8-WXCKgETO0wWCpTTqp1fQNYMWJJ_WVhnWLbk0dHspspRy-L6ZxGKVbph1nYHPrY0Wm3RHntWnOZqYqAoOPFHfpQHgyT_je5Kk9s8njUKXm_tOjlQgTaww_5uJRw2JSXmwIkOUTKc8c5Ea-sE_xvGA_CLUgOdSCCsiqhB13toh3C-RRY=)
+*   **Impact:** High (90) - The exceptionally fast ramp of the Blackwell architecture, contributing nearly 70% of Q1 FY26 data center compute revenue, signals robust demand and successful execution in bringing the new generation to market. The reported 30x inference throughput improvement for models like Llama 3.1 on Blackwell NVL72 directly translates to significant performance advantages and cost efficiencies for customers, accelerating the migration of inference workloads to NVIDIA's latest hardware and driving revenue growth.
+*   **Consensus Check:** Partially known. While the Blackwell launch and its capabilities are public, the specific detail of its 70% contribution to Q1 FY26 data center compute revenue and the precise 30x inference improvement for a specific model are granular details that may not be fully appreciated by the broader market.
+
+**Finding 3: ISV Adoption of NIM for Regulated Industries (iMBrace)**
+
+*   **Snippet:** "Hong Kong, 19 June 2025 – iMBrace today announced it is collaborating with NVIDIA through the NVIDIA Partner Network as an Independent Software Vendor (ISV). iMBrace now has full access to NVIDIA's enterprise-grade AI blueprints and the state-of-the-art NVIDIA Inference Microservices (NIM), a set of GPU‑optimized and ready-to-deploy containers that streamline inference workflows from foundation model deployment to production-grade scaling. This milestone enables iMBrace to provide truly scalable, secure, and compliant enterprise & sovereign AI solutions for regulated industries. By combining NVIDIA's high-performance inference containers with iMBrace's orchestration and governance engine, regulated industries like banking, insurance, healthcare, and government can now deploy traceable, transparent, and production-ready AI workflows."
+*   **Date:** 2025-06-20
+*   **Source:** iMBrace (Press Release), [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9kG4kJxDcyEQ8aJPeRQ1NyLv-UQvBguYuCezAtbuN-yFbPjljOvKyyCQstd5gFMZxISesOC3rqz_D3rqR07UVtnbaOBmSf3iqpOsz6ovQrWb9RcQYkIsukUSOiUN6ssvwR4t1iWLw92BzNIIs7PmMW1F1nS0fADXUJY0wVlkLLiSMw-jDye-6QQkN1vpr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9kG4kJxDcyEQ8aJPeRQ1NyLv-UQvBguYuCezAtbuN-yFbPjljOvKyyCQstd5gFMZxISesOC3rqz_D3rqR07UVtnbaOBmSf3iqpOsz6ovQrWb9RcQYkIsukUSOiUN6ssvwR4t1iWLw92BzNIIs7PmMW1F1nS0fADXUJY0wVlkLLiSMw-jDye-6QQkN1vpr)
+*   **Impact:** Medium-High (80) - This partnership demonstrates NVIDIA's successful penetration into high-value, regulated enterprise sectors (banking, insurance, healthcare, government) through ISV collaborations leveraging NIM. The focus on "scalable, secure, and compliant" AI solutions addresses critical enterprise requirements, indicating a strong foundation for sustained demand for NVIDIA's full-stack AI offerings.
+*   **Consensus Check:** Overlooked. Specific ISV partnerships targeting niche but critical enterprise segments are often not fully appreciated in broader market analysis.
+
+**Finding 4: Prodapt's Agentic AI Solutions for Telcos Powered by NIM/NeMo**
+
+*   **Snippet:** "As part of its Practical AI strategy, Prodapt has built a range of AI Agents across the Telecom value chain, which are powered by NVIDIA NIM™ and NVIDIA NeMo™ microservices. These agents go beyond simple actions, solving multi-step problem statements to improve operational efficiency, customer experience, revenue monetization, enterprise modernization, and accelerate the deployment of critical applications. Autonomous Operations (AO)... Simulations suggest the solution will enable Telcos to achieve a 30% improvement in resolution cycle time and drive better resource utilization."
+*   **Date:** 2025-06-17
+*   **Source:** Prodapt (Press Release), [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCG5ZZRVYLwfMinbfdc2RbIMtkHd_HSn6tewEreKO4CT8KAY6FmEQp3QbcE2Er4ZuZ3e5k0WRHGrW0IJ_FuuQcaHpvSDyhtWm0K-_kaZFk3cgrxyFoIQzaMtztEi8WRoYzR-yThhFRPcXqExgdfhH15nlA_R1C_L-_TFLmG8EIqb-t53TKd97rWkrj8kVWt1k4jWwaIdfsn2vpdUaQ82_XEdCo6rr05iy4GDcIPn2vy-SMjZWLqJs=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCG5ZZRVYLwfMinbfdc2RbIMtkHd_HSn6tewEreKO4CT8KAY6FmEQp3QbcE2Er4ZuZ3e5k0WRHGrW0IJ_FuuQcaHpvSDyhtWm0K-_kaZFk3cgrxyFoIQzaMtztEi8WRoYzR-yThhFRPcXqExgdfhH15nlA_R1C_L-_TFLmG8EIqb-t53TKd97rWkrj8kVWt1k4jWwaIdfsn2vpdUaQ82_XEdCo6rr05iy4GDcIPn2vy-SMjZWLqJs=)
+*   **Impact:** Medium-High (75) - This highlights NVIDIA's software stack (NIM and NeMo) enabling advanced "agentic AI" solutions in the telecom sector, with a quantifiable benefit of a "30% improvement in resolution cycle time." Such measurable ROI is crucial for driving widespread enterprise adoption and indicates a strong pipeline for NVIDIA's inference platforms as these solutions scale.
+*   **Consensus Check:** Overlooked. While general AI adoption in telecom is known, the specific use of NVIDIA's microservices for agentic AI with reported efficiency gains is likely not fully priced into market expectations.
+
+**Finding 5: OCI Native Availability of 100+ NVIDIA NIM Microservices**
+
+*   **Snippet:** "In March 2025, Oracle and NVIDIA collaborated to help enterprises accelerate AI inference. NVIDIA's AI Enterprise software will be natively available through the Oracle Cloud Infrastructure (OCI) Console, providing access to over 160 AI tools and 100+ NVIDIA NIM microservices. The companies are also working on no-code AI Blueprint deployment and accelerating AI vector search in Oracle Database 23ai using NVIDIA cuVS."
+*   **Date:** 2025-06-20 (referencing a March 2025 announcement)
+*   **Source:** MarketsandMarkets, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNXp_P13caWvjolI3uZ_5AnfqwIE7LxD5yUom9C7BqLdGy-9_8afz6VJrtTgV41bkzRlVO0Xvnvw5nqcW-lTLX2MZopgYpbeNEELi8Lxjdmzzo_eGXHbmbPNjF0cjydqDzJIy3DC0vjWtU2rgQerri0LdDAK3N4WTksyEF3mZWWKN9B0w9uxttzJcbJyPaOQL3-1NzPeWrPxqPJDjnQ413IRm8w==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNXp_P13caWvjolI3uZ_5AnfqwIE7LxD5yUom9C7BqLdGy-9_8afz6VJrtTgV41bkzRlVO0Xvnvw5nqcW-lTLX2MZopgYpbeNEELi8Lxjdmzzo_eGXHbmbPNjF0cjydqDzJIy3DC0vjWtU2rgQerri0LdDAK3N4WTksyEF3mZWWKN9B0w9uxttzJcbJyPaOQL3-1NzPeWrPxqPJDjnQ413IRm8w==)
+*   **Impact:** Medium (70) - The native availability of over 100 NVIDIA NIM microservices through Oracle Cloud Infrastructure (OCI) significantly broadens the accessibility and ease of deployment for enterprises looking to leverage NVIDIA's AI software stack for inference. This reduces friction for adoption and can accelerate the migration of AI workloads to NVIDIA-powered cloud environments.
+*   **Consensus Check:** Partially known. While the Oracle-NVIDIA partnership is public, the specific detail of "100+ NIM microservices" being natively available on OCI is a granular detail that may not be fully priced into market expectations.
+
+**Finding 6: Healthcare Firm Achieves 60% Analysis Time Reduction with NIM**
+
+*   **Snippet:** "Challenge: A healthcare firm needed scalable GPU resources for genomic sequencing analysis. Solution: Deployed a GPU Kubernetes cluster with NVIDIA NIM integration using this solution. Results: Reduced analysis time by 60% and improved data scientist productivity by 40%."
+*   **Date:** Undated, but from an article published 2025-06-03
+*   **Source:** CSC Distribution, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2EVSbG1w7o2pIQkaqSWkyHDobbTt6dfJ8wSS3xYRQ5vFEilzRheIroqBoMYW5r-cPoeJlAmiIHr5vBpPYRTvA322VZmjwlexJH-y2GvMfrMNhkU30ZuL0LsIdMPxLcCNqB3UsrvQcmFMB](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2EVSbG1w7o2pIQkaqSWkyHDobbTt6dfJ8wSS3xYRQ5vFEilzRheIroqBoMYW5r-cPoeJlAmiIHr5vBpPYRTvA322VZmjwlexJH-y2GvMfrMNhkU30ZuL0LsIdMPxLcCNqB3UsrvQcmFMB)
+*   **Impact:** Medium (65) - This case study provides concrete, quantifiable evidence of the value proposition of NVIDIA NIM for a high-value, compute-intensive inference workload like genomic sequencing. The significant reduction in analysis time (60%) and improved data scientist productivity (40%) demonstrate tangible ROI, which can serve as a powerful driver for further enterprise adoption of NVIDIA's inference solutions.
+*   **Consensus Check:** Overlooked. Specific customer success stories with detailed performance metrics are often not widely disseminated or fully integrated into market sentiment.
+
+**Finding 7: Tabnine Integrates Nemotron Reasoning Models for AI Agents**
+
+*   **Snippet:** "Tabnine announced the integration of NVIDIA's new Nemotron reasoning models into its AI coding assistant platform. The move brings state-of-the-art, enterprise-optimized reasoning capabilities, such as higher performance, cost efficiency, and privacy-first deployment, to customers building AI agents. ... According to our research, reasoning capabilities are becoming a critical differentiator in enterprise AI adoption, especially as organizations move beyond experimentation into production-scale deployment. Models like NVIDIA's Nemotron, optimized for Blackwell architecture, could offer faster inference and lower total cost of ownership, aligning with the push for more efficient and secure AI in software development lifecycles."
+*   **Date:** 2025-08-25
+*   **Source:** Efficiently Connected, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE19L1azlLOHyBb0qhPB7oi5WNob1cnnxMWa5BtqkDe2tV9qmbJXeEE2PkpsObHIiJyohZELhue7XOmq3SLu5kX7uJNf3mD99xL-HSOodFEiYxQ062KbmjXx0titqznsLVutsjIzwL77P0qMYqIhlNPYNjrrfhOg4rw8nS6ClXCP7-XaRRCdRrYnixLVpMSitagn4zj3R6U2TP2HAhjYQuWkAfeYxE9DCkU7ajpWrQ1fw2XPVH51ItO0M8FSoEuLGy2yBG6fqWbTYC4kp8Fj-QpzuvYPutItsc2eRiszIAI7BDlNjYT-GmYAMR0Ia2oErmm8YUfOZ2-RpYS4MwZkaAoV2a7FuZNgt6V2J7oqFGkdRH5EAsD](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE19L1azlLOHyBb0qhPB7oi5WNob1cnnxMWa5BtqkDe2tV9qmbJXeEE2PkpsObHIiJyohZELhue7XOmq3SLu5kX7uJNf3mD99xL-HSOodFEiYxQ062KbmjXx0titqznsLVutsjIzwL77P0qMYqIhlNPYNjrrfhOg4rw8nS6ClXCP7-XaRRCdRrYnixLVpMSitagn4zj3R6U2TP2HAhjYQuWkAfeYxE9DCkU7ajpWrQ1fw2XPVH51ItO0M8FSoEuLGy2yBG6fqWbTYC4kp8Fj-QpzuvYPutItsc2eRiszIAI7BDlNjYT-GmYAMR0Ia2oErmm8YUfOZ2-RpYS4MwZkaAoV2a7FuZNgt6V2J7oqFGkdRH5EAsD)
+*   **Impact:** Medium (60) - This recent integration highlights NVIDIA's strategic focus on "AI agents" and the importance of "reasoning capabilities" for enterprise AI adoption. By integrating Nemotron models, optimized for Blackwell, into a coding assistant platform like Tabnine, NVIDIA is enabling developers to build more sophisticated and efficient AI applications, driving demand for its inference hardware and software in the evolving AI landscape.
+*   **Consensus Check:** Overlooked. The specific role of Nemotron and its integration with developer tools for AI agents is likely not a widely discussed topic in mainstream financial analysis.
+
+---
+
+**Contradictions and Gaps:**
+
+*   **Contradictions:** No direct contradictions were found within the provided snippets. The information consistently points to strong demand for NVIDIA's inference solutions and increasing adoption of its software stack.
+*   **Gaps:** While there is strong evidence of NIM adoption and inference workload migration, specific revenue contributions from NIM microservices or a detailed breakdown of inference vs. training revenue for Q2 FY2026 are not available in these external reports. The impact of potential competitive offerings from other chipmakers (e.g., AMD, Intel) on NVIDIA's inference market share is also not explicitly detailed in these snippets, although NVIDIA's dominance is generally asserted. The impact of export control limitations on H20 products in China, mentioned in NVIDIA's Q1 FY226 earnings report, is a known headwind, but its specific impact on Q2 inference revenue is not elaborated in the context of NIM or workload migration.

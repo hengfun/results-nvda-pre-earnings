@@ -1,0 +1,11 @@
+Chunk Summary
+==================================================
+Total valid files: 593
+Total chunks: 2
+Max tokens per chunk: 100,000
+Total characters: 1,085,317
+Files were shuffled randomly before chunking
+
+Chunk files:
+  - chunk_001.txt
+  - chunk_002.txt

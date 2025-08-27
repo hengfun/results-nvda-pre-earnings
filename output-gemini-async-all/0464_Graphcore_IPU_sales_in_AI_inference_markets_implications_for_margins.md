@@ -1,0 +1,71 @@
+# Research Query: Graphcore IPU sales in AI inference markets implications for margins
+**Generated:** Wednesday, August 27, 2025 at 12:15:26 PM
+**Model:** gemini-2.5-flash
+
+## Search Queries Used
+- Graphcore IPU sales AI inference market share Q2 FY2026
+- Graphcore NVIDIA competition AI inference margins Q2 FY2026
+- Graphcore IPU pricing strategy impact on NVIDIA Q2 FY2026
+- Graphcore financial performance recent news May-Aug 2025
+- Graphcore market share AI inference May-Aug 2025
+
+## Sources Referenced
+- [morningstar.co.uk](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySoughrk9bpnQzRY9rSbAvFP5Ut1azgsPfSc1NflRKvdxXJJJbu5bk4VTXSO4Pibom74CJqrrOnLIEbwKySETTOVpFZIq7q4vdUxGd5pi4XZhTKfVOAunhA203DQ3d5NJxKzaPfa72dzCvaAxSpjLSZw0KDJ5ebESqhZMOnCWfbfDvIwDvB5w60_UzFKrlzVEGPMQOys1uS_7rEdqDt0RNTrD13uf7ggeKF7RBk6mR4TtDDKEpNUkKZi9JfAq)
+- [observer.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq3jOXCMewqJTESDhnHS_bdip-amI_HXRjcVZKAxrMn8-IatAWg0Q09VTSnUoTkViiUsvsNQkMIfsjvQUZMtY9QkHZeTc5ymblFzf2P8TWO36waHu_Zv0rzfcsxQc1rUfH2iuW6_QdqVNPp1Ccs9d5ILM=)
+- [tomshardware.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjwvfx9MyXizKbcdaY7W-7QOfUuXKqC4H56ge_s1po-IKaTa9gRS05X-cWj33eHVrATClxetBAgp0x9KuBmOE1CXUXNjVVeIZ3lZ4O8mSR3y0LhdbKZYtAtqNl8Ab4C-AurB-Wszf73667MxUkcUHixgRTTrmhDYU8PU0jSqCXicp0eqszToCzsFbxePfWuMJybT4WUQmeepyHUkSRZpUhB5tqYLIr9_OTYRZNKyF5QvKMwUsm6dDdJDS6mesQtlrMEaAkqXG4iosKCAlBoJCuEv94rnKy8qethDLLLDoMLc7MBJFC4Q==)
+- [ainvest.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGe6_UvzQ_FQ3me9hW-1_5A4RlPGvcKfyZswK70Zq0sSoO6Iz3I04INr3vRTy_lD9nnktRTKXuygmuNEoGl8NFw5siEicTLK7mgcucVYagLUiGD35uhNaT07hhHz33FZebjvJfKXFIiqbXcKbN-DpFza72YipLAkoUEcoYb8yw9ILhAzIERUI6Wse9Q34f-kQf2RoT0ZvaYKPSO0V-z)
+- [ig.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4jI5dHg1FGRE8Vzr012ZHOFTpD0Nx0Z3Gner2znWN5oY1-6DhfXFbRjNr3W0FpTVi2_5TCT2BPkfW-JWGl-rWWGz00MjC7IquX7MwCg4gQgLemgKHad_-_4iBDWt-AA2qCB8V0VpB0zKlVpZi-FYGJycGVAju8PeUY-tEv1Za5eDa1v1o_vzTSYW5ZfT-s1PwLmjCybHnfuEMSK0dF7k88eDweiECJJM8ZLbB0NT2OyAfFqjNkpc=)
+- [futurememorystorage.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExffU2i261Ty_pl02yGnL6pErxv7pMCiQpj22TNhFj8VMR5JW8nNaJ0zi8LI-P-JzlCgo5mY8MIJA9yt-DilF1LUWmkcv4AyIIcnr8HNSuplgTwynKpgseKIO7cuNEkt893c7FdIsQqvHfr0iiE48--ruZ2oSYpMd8FcTLSo7OizXxSQ3pjga_twDW9Wbo)
+- [graphcore.ai](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIU7co-CNdjh5Xi9cSHxBKlgSNpSRpS0RQ9usYxmnmDBgcuMCHNq7x9lIVMl8SA4WknSslaaEv3W0cWyV6hLoFv7l5ji0Qfn7rDpgamT-yVlnfxYMLIbF3MyTWkhZ4U87PG4j-WodNxrDD-rV4-5dMbVh96O_EOJVJzKYEu0Ui8nSmcTtyLfKx-z0xndJadiNRdC84KJ7VdjXA)
+
+---
+
+## Analysis
+
+NVIDIA (NVDA) is set to report its Q2 FY226 earnings today, August 27, 2025. As a pre-earnings research analyst, the focus is on identifying material, non-consensus information regarding Graphcore IPU sales in AI inference markets and their potential implications for NVIDIA's margins.
+
+Recent web content published within the last three months indicates that while Graphcore, backed by SoftBank, aims to be a rival to NVIDIA, its current market penetration and financial performance suggest a limited immediate impact on NVIDIA's Q2 FY2026 earnings or forward-looking guidance. The competitive threat appears to be a longer-term strategic play by SoftBank rather than a significant factor for the current quarter's results.
+
+**Key Findings:**
+
+*   **SoftBank's Acquisition of Graphcore:** SoftBank Group acquired Graphcore, an AI chipmaker, in July 2024, with the stated intent to position it as an NVIDIA rival. This move provides Graphcore with significant financial backing and strategic support.
+*   **Graphcore's Past Financial Struggles:** Prior to the SoftBank acquisition, Graphcore faced considerable financial difficulties. In 2022, the company recorded a pre-tax loss of USD 205 million and sales of only USD 2.7 million. This indicates a very limited market presence and revenue generation before the acquisition.
+*   **NVIDIA's Continued Dominance and Strong Outlook:** NVIDIA's Q2 FY2026 earnings preview projects robust performance, with expected revenue of $45.8 billion and an anticipated recovery in gross margins to 71.8%. The company's Blackwell chips for 2025 production are already sold out, demonstrating strong demand for its high-end AI accelerators. Data center revenue, comprising over 80% of total sales, is projected to grow by 54% year-over-year.
+*   **Limited Current Market Share for Competitors:** Market analysis from August 2024 (forecasting into 2025) suggests that "Others" (a category that would include Graphcore) hold a very small estimated market share in AI chip shipments for both training and inference. For AI inference (low-end), "Others" are projected to have only about 1.2% market share in 2025.
+*   **Outdated Performance Benchmarks:** While Graphcore released benchmarks in December 2020 claiming its MK2 IPU systems significantly outperformed NVIDIA's A100 DGX in certain AI inference and training workloads, these comparisons are against older NVIDIA architectures. The AI chip market has evolved considerably since then with newer NVIDIA generations like Hopper and the upcoming Blackwell.
+
+**Human-Readable Analysis:**
+
+The acquisition of Graphcore by SoftBank is a notable development in the AI chip landscape, signaling SoftBank's ambition to challenge NVIDIA's dominance. However, for NVIDIA's upcoming Q2 FY2026 earnings report, the immediate material impact from Graphcore's sales in the AI inference market is likely to be minimal. Graphcore's historical financial performance indicates a very small market footprint before the SoftBank deal. While SoftBank's backing provides a long-term strategic advantage for Graphcore, the time required to significantly ramp up production, expand market share, and directly compete with NVIDIA's latest, highly demanded architectures (like Blackwell, which is sold out for 2025) suggests that Graphcore's influence on NVIDIA's current quarter's margins will be negligible. The broader market data also supports this, showing a very small market share for non-major players in the AI chip segment. Investors should view Graphcore's resurgence as a potential long-term competitive factor rather than an immediate threat to NVIDIA's near-term financial performance.
+
+**Structured Findings:**
+
+*   **Snippet:** "Bristol-based artificial intelligence firm Graphcore Ltd has been bought by Tokyo-based investment firm SoftBank Group Corp in its latest move to cash in on the next-generation technology. ... Graphcore was valued at USD2.8 billion in 2020 after raising hundreds of millions of dollars from investors. However, it has struggled financially and recorded a pre-tax loss of USD205 million in 2022, and sales of just USD2.7 million – the most recent year for publicly-available financial results."
+    *   **Date:** 2024-07-12
+    *   **Source:** Morningstar, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySoughrk9bpnQzRY9rSbAvFP5Ut1azgsPfSc1NflRKvdxXJJJbu5bk4VTXSO4Pibom74CJqrrOnLIEbwKySETTOVpFZIq7q4vdUxGd5pi4XZhTKfVOAunhA203DQ3d5NJxKzaPfa72dzCvaAxSpjLSZw0KDJ5ebESqhZMOnCWfbfDvIwDvB5w60_UzFKrlvVEGPMQOys1uS_7rEdqDt0RNTrD13uf7ggeKF7RBk6mR4TtDDKEpNUkKZi9JfAq](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEySoughrk9bpnQzRY9rSbAvFP5Ut1azgsPfSc1NflRKvdxXJJJbu5bk4VTXSO4Pibom74CJqrrOnLIEbwKySETTOVpFZIq7q4vdUxGd5pi4XZhTKfVOAunhA203DQ3d5NJxKzaPfa72dzCvaAxSpjLSZw0KDJ5ebESqhZMOnCWbbfDvIwDvB5w60_UzFKrlvVEGPMQOys1uS_7rEdqDt0RNTrD13uf7ggeKF7RBk6mR4TtDDKEpNUkKZi9JfAq)
+    *   **Impact:** Low. While the acquisition by SoftBank is material for Graphcore's future, its past financial struggles and minimal sales in 2022 suggest it has not been a significant competitor to NVIDIA in the recent past. The impact on NVIDIA's Q2 FY2026 margins from Graphcore's sales is likely negligible given the time needed to scale operations post-acquisition.
+    *   **Consensus Check:** Widely known that SoftBank acquired Graphcore. The extent of Graphcore's historical financial struggles and their implication for *current* NVIDIA earnings might be overlooked by those focusing solely on the "rival" narrative.
+
+*   **Snippet:** "On the semiconductor front, SoftBank is the majority owner of chip designer Arm and last year acquired Graphcore to position it as a Nvidia rival."
+    *   **Date:** 2025-08-19
+    *   **Source:** Observer, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq3jOXCMewqJTESDhnHS_bdip-amI_HXRjcVZKAxrMn8-IatAWg0Q09VTSnUoTkViiUsvsNQkMIfsjvQUZMtY9QkHZeTc5ymblFzf2P8TWO36waHu_Zv0rzfcsxQc1rUfH2iuW6_QdqVNPp1Ccs9d5ILm=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEq3jOXCMewqJTESDhnHS_bdip-amI_HXRjcVZKAxrMn8-IatAWg0Q09VTSnUoTkViiUsvsNQkMIfsjvQUZMtY9QkHZeTc5ymblFzf2P8TWO36waHu_Zv0rzfcsxQc1rUfH2iuW6_QdqVNPp1Ccs9d5ILm=)
+    *   **Impact:** Medium. This confirms SoftBank's strategic intent to position Graphcore as a direct competitor to NVIDIA. While this is a long-term threat, it signals increased competition in the AI chip market, which could eventually pressure NVIDIA's margins. However, the immediate impact on Q2 FY2026 is likely low.
+    *   **Consensus Check:** Widely known that SoftBank is building a portfolio of AI-related companies and sees Graphcore as a rival to NVIDIA. The *timing* of its material impact on NVIDIA's *current* earnings is likely non-consensus, as the market might overstate immediate competitive pressure.
+
+*   **Snippet:** "Analysts expect Q2 revenue of $45.8 billion, representing 52.4% year-on-year (YoY) growth, which is a significant deceleration from previous quarters. NVIDIA's guidance suggests revenue between $44.1 billion and $45.9 billion. GAAP net income is forecast at $23.2 billion, marking a 39.6% growth versus the prior year. Export restrictions on H20 chips will continue impacting Q2 results. While gross margins suffered significantly last quarter, recovery to 71.8% is anticipated as management targets mid-70% margins despite operational headwinds. Data centre revenue, comprising over 80% of total sales, is projected to moderate from Q1's 73% growth to 54%."
+    *   **Date:** 2025-08-21
+    *   **Source:** NVIDIA Q2 2026 earnings preview: AI growth, China chip deal, analyst forecast, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4jI5dHg1FGRE8Vzr012ZHOFTpD0Nx0Z3Gner2znWN5oY1-6DhfXFbRjNr3W0FpTVi2_5TCT2BPkfW-JWGl-rWWGz00MjC7IquX7MwCg4gQgLemgKHad_-_4iBDWt-AA2qCB8V0VpB0zKlVpZi-FYGJycGVAju8PeUY-tEv1Za5eDa1v1o_vzTSYW5ZfT-s1PwLmjCybHnfuEMSK0dF7k88eDweiECJJM8ZLbB0NT2OyAfFqjNkpc=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4jI5dHg1FGRE8Vzr012ZHOFTpD0Nx0Z3Gner2znWN5oY1-6DhfXFbRjNr3W0FpTVi2_5TCT2BPkfW-JWGl-rWWGz00MjC7IquX7MwCg4gQgLemgKHad_-_4iBDWt-AA2qCB8V0VpB0zKlVpZi-FYGJycGVAju8PeUY-tEv1Za5eDa1v1o_vzTSYW5ZfT-s1PwLmjCybHnfuEMSK0dF7k88eDweiECJJM8ZLbB0NT2OyAfFqjNkpc=)
+    *   **Impact:** High. This snippet provides direct analyst expectations for NVIDIA's Q2 FY2026, indicating continued strong growth in data center revenue and anticipated margin recovery. This suggests that any competitive pressure from Graphcore is not expected to materially impact NVIDIA's overall financial performance for the current quarter.
+    *   **Consensus Check:** This is consensus information, representing analyst expectations for NVIDIA's upcoming earnings. It serves as a baseline against which any non-consensus competitive impact from Graphcore would be measured.
+
+*   **Snippet:** "Estimated AI Chip Shipment M/S... Others(Google, AWS, etc.) AI Training (High-end) ... 2025F: 15.4% ... AI Inference (low-end) ... 2025F: 23.1% ... Major AI Chip Suppliers Include NVIDIA, AMD, Intel, and CSPs." (Note: Graphcore would fall under "Others" or "ASIC" if not a CSP).
+    *   **Date:** August 2024 (referring to 2025 forecasts)
+    *   **Source:** See Generative AI's Impact on the AI Server Market to 2025 - Flash Memory Summit, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExffU2i261Ty_pl02yGnL6pErxv7pMCiQpj22TNhFj8VMR5JW8nNaJ0zi8LI-P-JzlCgo5mY8MIJA9yt-DilF1LUWmkcv4AyIIcnr8HNSuplPwCpgseKIO7cuNEkt893c7FdIsQqvHfr0iiE48--ruZ2oSYpMd8FcTLSo7OizXxSQ3pjga_twDW9Wbo](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExffU2i261Ty_pl02yGnL6pErxv7pMCiQpj22TNhFj8VMR5JW8nNaJ0zi8LI-P-JzlCgo5mY8MIJA9yt-DilF1LUWmkcv4AyIIcnr8HNSuplPwCpgseKIO7cuNEkt893c7FdIsQqvHfr0iiE48--ruZ2oSYpMd8FcTLSo7OizXxSQ3pjga_twDW9Wbo)
+    *   **Impact:** Low. This data indicates that non-major players (including Graphcore) have a very small market share in AI chip shipments. This reinforces the idea that Graphcore's sales volume is not currently substantial enough to materially impact NVIDIA's margins in the immediate term (Q2 FY2026).
+    *   **Consensus Check:** This granular market share data for "Others" might be overlooked by general market observers, making it a non-consensus indicator of Graphcore's current limited impact.
+
+**Contradictions and Gaps:**
+
+*   **Contradiction:** While Graphcore's 2020 benchmarks claimed significant performance advantages over NVIDIA's A100, these claims are outdated given NVIDIA's subsequent architectural advancements (Hopper, Blackwell). There is no recent, independent data comparing Graphcore's latest IPUs against NVIDIA's current generation GPUs.
+*   **Gap:** There is a significant lack of recent (within the last 3 months) specific sales figures for Graphcore IPUs in the AI inference market post-SoftBank acquisition. The most recent sales data found is from 2022, which is not representative of its current potential under new ownership. Without this, it's difficult to quantify any direct impact on NVIDIA's Q2 FY2026 margins.
+*   **Gap:** Detailed information on Graphcore's current pricing strategy for its IPUs in the AI inference market, especially in comparison to NVIDIA's offerings, is not available in the search results. This would be crucial for assessing potential margin pressure.

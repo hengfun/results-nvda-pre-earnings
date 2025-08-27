@@ -1,0 +1,609 @@
+Processing Summary
+==================================================
+Timestamp: Wednesday, August 27, 2025 at 12:23:05 PM
+Model: gemini-2.5-flash
+Queries: 598
+Successful: 594
+Failed: 4
+Duration: 1632.2s
+Effective TPS: 0.37
+
+Results:
+  1. [✓] 0001_What_recent_Taiwan_trade_press_estimates_TSMC_CoWoS_monthly_capacity_and_NVIDIA'.md
+  2. [✓] 0002_Have_TSMC_earnings_call_transcripts_or_supplier_briefings_indicated_CoWoS_bottle.md
+  3. [✓] 0003_Do_industry_pieces_quantify_CoWoS_lead_times_for_GB200Blackwell_vs_H100H200,Nikk.md
+  4. [✓] 0004_Are_there_Taiwan_environmental_filings_or_permits_indicating_new_CoWoS_lines_com.md
+  5. [✓] 0005_Do_ABF_substrate_capacity_expansions_at_UnimicronKinsusNanya_PCBIbidenShinko_ali.md
+  6. [✓] 0006_What_OSAT_partner_assignments_(ASE,_Amkor)_for_GB200_are_cited_and_how_do_they_a.md
+  7. [✓] 0007_Have_local_HsinchuKaohsiung_media_reported_powerwater_constraints_affecting_TSMC.md
+  8. [✓] 0008_Any_supplier_shipment_disclosures_indicating_TSMC_reticlephotomask_orders_specif.md
+  9. [✓] 0009_What_do_CapEx_trackers_say_about_TSMC_CoWoS_capex_in_2025_vs_2024_and_NVIDIA's_s.md
+ 10. [✓] 0010_Are_industry_forums_discussing_yieldthroughput_differences_between_GB200_and_H10.md
+ 11. [✓] 0011_What_Korean_trade_press_reports_on_HBM3E_yield_at_SK_hynix_vs_Samsung_and_implic.md
+ 12. [✓] 0012_Have_SK_hynix_investor_Q&A_or_interviews_provided_unit_volumes_or_allocations_to.md
+ 13. [✓] 0013_Any_Micron_commentary_in_regional_media_on_HBM_ramp_pace_and_NVIDIA_design_wins,.md
+ 14. [✓] 0014_Do_HBM_substrate_makers_indicate_panel_capacity_constraints_limiting_NVDA_Q3Q4_s.md
+ 15. [✓] 0015_Are_there_HBM3E_contract_price_changes_that_could_impact_NVIDIA_margins,TrendFor.md
+ 16. [✓] 0016_What_Korean_customsexport_data_signals_HBM_volume_spikes_to_Taiwan_(TSMCOSAT)_mo.md
+ 17. [✓] 0017_Any_component_shortage_alerts_for_HBM_interposersunderfillthermal_materials_cite.md
+ 18. [✓] 0018_What_government_incentives_(K‑Chips,_Japan_subsidies)_are_accelerating_HBM_capac.md
+ 19. [✓] 0019_Do_supplier_decks_state_NVIDIA-specific_HBM_capacity_reservations,SK_hynixMicron.md
+ 20. [✓] 0020_Do_teardown_reports_quantify_HBM_stacks_per_GB200_and_material_cost_trends,TechI.md
+ 21. [✓] 0021_What_do_Ajinomoto_ABF_updates_suggest_about_ABF_film_constraints_affecting_NVIDI.md
+ 22. [✓] 0022_Have_ASEAmkor_disclosed_new_lines_or_sites_for_NVIDIA-related_SiPflip‑chip_capac.md
+ 23. [✓] 0023_Any_government_filings_on_constructionpermits_for_OSAT_expansions_tied_to_NVIDIA.md
+ 24. [✓] 0024_What_freight_forwarder_data_shows_spikes_in_GPU_pallet_shipments_from_Taiwan_to_.md
+ 25. [✓] 0025_Are_there_portairport_customs_logs_listing_HS_codes_matching_NVIDIA_accelerators.md
+ 26. [✗] FAILED
+ 27. [✓] 0027_Any_SMTPCBA_manufacturer_notes_about_board_assembly_throughput_for_HGX_platforms.md
+ 28. [✓] 0028_What_thermal_solution_vendors_reveal_about_lead_times_for_cold_platesheatsinks_o.md
+ 29. [✓] 0029_Are_NVLink_switchcable_suppliers_citing_backlogs_impacting_cluster_deliveries,Am.md
+ 30. [✓] 0030_Do_optical_module_makers_indicate_800G_module_shortages_limiting_GPU_cluster_sca.md
+ 31. [✓] 0031_What_ODM_order_books_reveal_about_NVDA_HGXGB200_rack_volumes_for_Q3–Q4,Quanta;_W.md
+ 32. [✓] 0032_Have_Supermicro_channel_partners_posted_lead_times_or_allocation_notices_for_GB2.md
+ 33. [✓] 0033_Do_DellHPELenovo_partner_portals_reference_extended_NVIDIA_system_lead_times_or_.md
+ 34. [✓] 0034_Any_Chinese_commerce_media_on_Inspur_winning_domestic_AI_tenders_with_NVIDIA‑com.md
+ 35. [✓] 0035_What_DC_infrastructure_resellers_list_as_current_ship_dates_for_H100H200GB200_SK.md
+ 36. [✓] 0036_Are_ODM_monthly_revenue_spikes_aligning_with_NVIDIA_builds,TWSE_monthly_sales_bu.md
+ 37. [✓] 0037_Have_integrators_posted_case_studies_or_customer_logos_for_GB200_clusters_delive.md
+ 38. [✓] 0038_Any_RFP_awards_specifying_GPU_counts_and_delivery_windows_tied_to_NVIDIA,US_stat.md
+ 39. [✓] 0039_What_liquid‑cooling_integrators_signal_on_availabilitybacklogs_for_NVIDIA_racks,.md
+ 40. [✓] 0040_Do_rack_power_distribution_vendors_cite_backorders_specific_to_AI_rack_densities.md
+ 41. [✓] 0041_What_public_procurement_docs_show_cloud_GPU_reservations_(counts,_SKUs,_term)_wi.md
+ 42. [✓] 0042_Are_cloud_spot_price_trackers_showing_GPU_hourly_rates_rising_or_falling_post‑Ju.md
+ 43. [✓] 0043_Any_CoreWeaveLambda_posts_citing_capacity_waitlists_or_new_regions_with_GB200_av.md
+ 44. [✓] 0044_Do_AzureAWSGCP_roadmaps_or_partner_blogs_list_new_GB200_instance_families_and_GA.md
+ 45. [✓] 0045_What_data_center_REIT_filings_state_power_expansions_earmarked_for_hyperscaler_A.md
+ 46. [✓] 0046_Are_regional_media_(UAESaudi)_reporting_milestones_tied_to_NVIDIA_deployments_(M.md
+ 47. [✓] 0047_What_cloud_marketplace_listings_show_sold‑out_or_backordered_NVIDIA_GPU_instance.md
+ 48. [✓] 0048_Do_customer_case_studies_state_training_runs_migrating_to_GB200_with_performance.md
+ 49. [✓] 0049_Any_Open_Compute_Project_docs_detailing_reference_designs_for_GB200_racks_adopte.md
+ 50. [✓] 0050_Are_utility_interconnection_queues_showing_data_center_hookups_aligned_with_hype.md
+ 51. [✓] 0051_Which_university_HPC_procurement_minutes_specify_NVIDIA_GPU_quantities,_delivery.md
+ 52. [✓] 0052_Are_EU_public_tender_portals_awarding_AI_compute_contracts_with_listed_NVIDIA_ha.md
+ 53. [✓] 0053_What_national_lab_press_releases_confirm_GPU_countsship_windows_for_new_NVIDIA‑b.md
+ 54. [✓] 0054_Any_pharmaauto_consortium_notes_about_in‑house_LLM_training_clusters_hardware_(N.md
+ 55. [✓] 0055_Do_financial_services_tech_blogs_reveal_on‑prem_GPU_deployments_(rack_counts,_ve.md
+ 56. [✓] 0056_Are_hospitalhealth_system_RFPs_specifying_NVIDIA_GPUs_for_imagingAI_hubs_with_de.md
+ 57. [✓] 0057_Which_citystate_data_center_initiatives_reference_NVIDIA‑backed_AI_projects_(pow.md
+ 58. [✓] 0058_Any_defense_procurement_records_indicating_NVIDIA_accelerators_in_AIISR_programs.md
+ 59. [✓] 0059_Do_telco_operators_publish_edge_AI_rollouts_listing_NVIDIA_L40H200GB200_for_infe.md
+ 60. [✓] 0060_Are_foundation_model_labs_disclosing_cluster_specs_implying_NVIDIA_share_of_trai.md
+ 61. [✓] 0061_What_Chinese_business_media_report_on_BIS_license_approvals_for_NVIDIA_in_Aug–Se.md
+ 62. [✓] 0062_Are_China_customs_import_logs_showing_NVIDIA‑class_GPU_arrivals_post‑license_(po.md
+ 63. [✓] 0063_Any_MOFMIIT_notices_or_SOE_tenders_specifying_H20HX‑class_NVIDIA_chips,MIIT;_MOF.md
+ 64. [✓] 0064_Do_provincial_announcements_reference_AI_compute_centers_using_NVIDIA_hardware_w.md
+ 65. [✓] 0065_What_HuaweiBirenMoore_Threads_shipments_or_benchmarks_are_cited_that_could_displ.md
+ 66. [✓] 0066_Are_channeldistributor_memos_in_China_discussing_NVIDIA_pricing,_availability,_a.md
+ 67. [✓] 0067_Any_university_procurement_in_China_switching_from_NVIDIA_to_domestic_accelerato.md
+ 68. [✓] 0068_Do_gray‑market_trackers_show_H100H20_pricing_trends_post‑policy_changes,Taobao;_.md
+ 69. [✓] 0069_What_US_BISCommerce_updates_detail_scope_of_the_15%_fee_and_margin_implications_.md
+ 70. [✓] 0070_Are_HKTW_freight_logs_indicating_airlift_spikes_for_AI_server_kits_into_mainland.md
+ 71. [✓] 0071_Which_enterprise_case_studies_cite_migrations_from_CUDA_to_ROCm_with_TCOperforma.md
+ 72. [✓] 0072_Do_Google_TPU_whitepapers_or_customer_blogs_show_workload_shifts_away_from_NVIDI.md
+ 73. [✓] 0073_Any_MetaAppleTesla_internal_silicon_notes_suggesting_reduced_future_dependence_o.md
+ 74. [✓] 0074_Are_CerebrasGroq_customers_publishing_traininginference_metrics_displacing_NVIDI.md
+ 75. [✓] 0075_What_cloud_instance_adoption_stats_show_AMD_MI300_share_changes_vs_NVIDIA_H100H2.md
+ 76. [✓] 0076_Do_developer_forum_threads_quantify_ecosystem_friction_moving_off_CUDA_(bugs,_pe.md
+ 77. [✓] 0077_Any_benchmark_repositories_indicating_meaningful_AMDTPU_gains_vs_NVIDIA_since_Ju.md
+ 78. [✗] FAILED
+ 79. [✓] 0079_Do_AI_startup_launches_list_non‑NVIDIA_hardware_in_production,_implying_partial_.md
+ 80. [✓] 0080_What_open‑source_toolchains_added_ROCmTPU_optimizations_recently_that_reduce_CUD.md
+ 81. [✓] 0081_What_are_current_distributor_price_sheets_for_H100H200GB200_vs_Q2,_and_any_disco.md
+ 82. [✓] 0082_Do_VAR_forums_report_queue_positionsETA_changes_for_NVIDIA_clusters,Spiceworks;_.md
+ 83. [✓] 0083_Are_eBaysecondary_brokers_listing_H100H200_with_ask_prices_up_or_down_vs_July,eB.md
+ 84. [✓] 0084_Any_credit_terms_changes_offered_by_OEMsSIs_for_NVIDIA_systems_indicating_push_o.md
+ 85. [✓] 0085_What_RMADOA_rates_or_field_notices_exist_for_GB200_early_shipments_(quality_sign.md
+ 86. [✓] 0086_Do_colocation_providers_publish_GPU_lease_rates_trending_up_or_down_since_July,C.md
+ 87. [✓] 0087_Are_NVLink_switchesadapters_a_limiting_factor_per_channel_chatter,_delaying_full.md
+ 88. [✓] 0088_Any_optical_transceiver_lead_times_(800GDR8)_from_distributors_indicating_new_co.md
+ 89. [✓] 0089_What_liquid_cooling_component_lead_times_(manifolds,_CDU,_pumps)_are_cited_in_HV.md
+ 90. [✓] 0090_Are_energytransformer_lead_times_for_AI_racks_still_9–12_months_per_electrical_c.md
+ 91. [✓] 0091_Do_utility_interconnection_queues_show_new_data_center_projects_with_AI_loads_ti.md
+ 92. [✓] 0092_Any_transformerswitchgear_supply_updates_that_accelerate_or_delay_AI_data_center.md
+ 93. [✓] 0093_What_statelocal_planning_commission_minutes_approve_large_AI_data_centers_(power.md
+ 94. [✓] 0094_Are_cooling_waterpermit_constraints_delaying_hyperscaler_sites,_potentially_push.md
+ 95. [✓] 0095_Do_REIT_filings_cite_pre‑leased_AI_halls_that_lock_in_NVIDIA‑based_tenants,Equin.md
+ 96. [✓] 0096_Any_Middle_East_tenders_or_sovereign_fund_disclosures_on_AI_megaproject_timeline.md
+ 97. [✓] 0097_Are_EU_HPC_exascale_project_updates_confirming_GPU_delivery_windows_this_fall,Eu.md
+ 98. [✓] 0098_What_insurancerisk_disclosures_by_DC_builders_could_delay_NVIDIA‑dependent_sites.md
+ 99. [✓] 0099_Do_freight_capacity_reports_indicate_peak_season_constraints_affecting_GPU_serve.md
+100. [✓] 0100_Are_grid_upgradecurtailment_notices_forcing_staged_commissioning_of_AI_halls,_th.md
+101. [✓] 0101_Leaked_OEMreseller_quotation_sheets_(Aug_2025)_showing_per‑GPU_ASP_for_H100H200G.md
+102. [✓] 0102_EUUS_public_procurement_award_PDFs_listing_unit_prices_for_NVIDIA_HGXGB200_serve.md
+103. [✓] 0103_VAR_newsletters_indicating_quarter‑end_discountingSPIFs_for_NVDA_systems;_any_te.md
+104. [✓] 0104_Financinglease_providers_(DLL,_HPEFS,_Dell_FS)_marketing_AI_server_leases;_terms.md
+105. [✓] 0105_Reseller_margin_chatter_(rsysadmin,_STH)_on_gross_margin_%_for_GB200_vs_H100;_si.md
+106. [✓] 0106_Channel_price‑protection_clauses_in_contract_addenda;_are_vendors_guaranteeing_A.md
+107. [✓] 0107_OEM_bundle_offers_(DGX_+_Spectrum‑X_+_NIM)_on_partner_portals;_do_bundles_pull_r.md
+108. [✓] 0108_Expedite_fee_schedules_for_rush_buildsair_freight_on_GB200_racks;_how_often_appl.md
+109. [✓] 0109_Cross‑region_price_variance_(US_vs_EU_vs_MEA)_for_identical_NVDA_configs_in_tend.md
+110. [✓] 0110_Warrantyextended_support_attach_rates_published_by_resellers;_do_higher_service_.md
+111. [✓] 0111_ODM_20‑Fquarterlies_on_purchase_obligations_referencing_a_large_North_American_G.md
+112. [✓] 0112_Supplier_prepayment_disclosures_(TSMCASEAmkor)_indicating_NVDA_advancescapacity_.md
+113. [✓] 0113_Freight_forwarder_capacity_bookings_(Taiwan→USEU)_peaking_late_JulyAug;_correlat.md
+114. [✓] 0114_Acceptance‑certificate_timelines_in_universitynational‑lab_procurements;_any_sli.md
+115. [✓] 0115_OEM_revenue‑recognition_policies_for_customer_site_acceptance;_evidence_of_incom.md
+116. [✓] 0116_Cancellationdeferral_notices_in_public_minutes_(boarduniversity)_for_AI_compute_.md
+117. [✓] 0117_Partner_backorder_dashboardsscreens_(CDWSHITD_Synnex)_showing_open_POs_aging;_tr.md
+118. [✓] 0118_Customs_clearance_delays_(USUKEU)_causing_FOB_shipped_not_received_situations;_i.md
+119. [✓] 0119_NREtooling_prepayments_disclosed_by_OSATs_tied_to_GB200;_implication_for_future_.md
+120. [✓] 0120_Book‑to‑bill_ratios_cited_by_component_vendors_(cablesopticscold_plates)_that_tr.md
+121. [✓] 0121_BESIASMPTK&S_order_backlogs_tagged_to_CoWoSdie‑attach_tools_for_ASEAmkor;_lead_t.md
+122. [✓] 0122_CamtekOrbotech_AOI_shipments_to_substrate_makers_(UnimicronIbiden);_any_inspecti.md
+123. [✓] 0123_Disco_dicing__TEL_bonding_shipment_logs_for_HBM_interposers;_change_since_May..md
+124. [✓] 0124_AdvantestTeradyne_test_cell_capacity_additions_at_OSATs;_correlation_to_GB200_va.md
+125. [✓] 0125_Yield‑learning_curve_chatter_(SemiWikiWeibo)_for_large‑reticle_CoWoS_packages;_r.md
+126. [✓] 0126_Factory_uptimemaintenance_windows_at_TSMCASE_that_interrupted_August_output;_loc.md
+127. [✓] 0127_Underfillencapsulant_supply_notices_(Shin‑EtsuHenkel)_signaling_allocation_to_NV.md
+128. [✓] 0128_TIM_(thermal_interface)_supply_to_HGX_integrators;_spec_changes_for_GB200_noted_.md
+129. [✓] 0129_X‑rayCT_inspection_cycle_times_per_module_at_OSAT;_evidence_of_test_bottlenecks..md
+130. [✓] 0130_ESDhandling_incident_reports_(supplier_bulletins)_causing_containment_on_a_GB200.md
+131. [✓] 0131_ABF_film_capacity_updates_from_Ajinomoto_specific_to_HBM_substrates;_risk_of_fil.md
+132. [✓] 0132_Copper_foilresin_input_price_spikes_cited_by_substrate_vendors;_BOM_margin_impac.md
+133. [✓] 0133_Industrial_gases_(N₂NeAr)_supply_disruptions_near_HBM_fabs_(KoreaJapan);_any_out.md
+134. [✓] 0134_Glass‑core_substrate_pilots—any_evidence_NVDA_evaluating_glass_for_future_packag.md
+135. [✓] 0135_Underfill_voidingdelamination_field_notes_(RMA_boards)_for_HBM3E_at_high_humidit.md
+136. [✓] 0136_Thermal‑cycling_reliability_results_(JEDEC)_for_HBM3E;_early_wear‑out_rates_from.md
+137. [✓] 0137_Panel‑level_substrate_conversion_timelines_at_IbidenShinko_that_could_unlock_cap.md
+138. [✓] 0138_HBM_TSV_yield_anecdotes_by_stack_height_on_Korean_tech_forums;_impact_on_effecti.md
+139. [✓] 0139_Helium_supply_to_leak‑test_equipment_at_OSATs;_any_allocation_notices_impacting_.md
+140. [✓] 0140_Water‑recycling_project_delays_at_IcheonCheongju;_potential_gov't_curbs_on_HBM_o.md
+141. [✓] 0141_ConnectX‑89_NIC_distributor_ATP_dates;_are_NICs_gating_GB200_shipments.md
+142. [✓] 0142_Quantum‑34_InfiniBand_switch_lead_times_vs_Spectrum‑X_Ethernet—evidence_of_fabri.md
+143. [✓] 0143_800G1.6T_optics_(DR82×FR4)_backlog_at_CoherentLumentumInnoLight;_allocation_to_G.md
+144. [✓] 0144_PCIe_Gen5Gen6_switch_availability_(Broadcom_PEX)_limiting_GPU_density_in_certain.md
+145. [✓] 0145_NVLink‑C2C_adoption_notes_in_OEM_whitepapers;_effect_on_CPUGPU_mix_and_ASPnode..md
+146. [✓] 0146_BlueField‑34_DPU_attach_rates_from_channel_data;_shortages_delaying_systems.md
+147. [✓] 0147_Contractor_forums_noting_structured‑cabling_backlogs_for_AI_rows;_install_lead_t.md
+148. [✓] 0148_Fabric_failure_post‑mortems_from_customer_clusters;_reliability_issues_with_new_.md
+149. [✓] 0149_OCPSONiC_adoption_in_NVDA‑adjacent_Ethernet_fabrics;_case_studies_showing_cost‑d.md
+150. [✓] 0150_DGX_firmware_update_cadence;_any_urgent_advisories_causing_shipment_holds..md
+151. [✓] 0151_GOES_transformer_shortages_in_USEU_utility_updates;_energization_slips_for_AI_ha.md
+152. [✓] 0152_CDU_(CoolITAsetekBoyd)_lead_times_posted_by_integrators;_are_CDUs_gating_deliver.md
+153. [✓] 0153_Plate_heat‑exchanger_supplier_capacity_(Alfa_LavalSPX);_new_AI_orders_and_ship_w.md
+154. [✓] 0154_Chilled‑water_permitswater_rights_disputes_(US_Southwest)_impacting_AI_DC_commis.md
+155. [✓] 0155_Fire_suppression_(NovecInergen)_availability;_AHJ_inspection_backlogs_delaying_C.md
+156. [✓] 0156_UPSbattery_vendor_notices_(EatonVertiv)_on_AI_density_impacts;_delivery_pushouts.md
+157. [✓] 0157_PUE_reports_from_new_AI_halls—actual_vs_planned;_implications_for_opexutilizatio.md
+158. [✓] 0158_Pumpvalve_lead_times_for_immersionwarm‑water_loops_(HVAC_forums);_bottlenecks..md
+159. [✓] 0159_Utility_curtailment_events_(ERCOTPJM)_limiting_commissioning_runs_in_Aug;_impact.md
+160. [✓] 0160_Harmonic_distortionpower_quality_issues_reported_by_electrical_contractors;_rewo.md
+161. [✓] 0161_Credit‑insurance_(AtradiusEuler_Hermes)_limit_changes_for_AI_VARs;_counterparty_.md
+162. [✓] 0162_DSODPO_spikes_in_ODM_financials_tied_to_AI_server_builds;_cash_conversion_squeez.md
+163. [✓] 0163_RebateMDF_program_updates_at_OEMs;_increased_contra‑revenue_near_quarter_end.md
+164. [✓] 0164_Sell‑through_vs_sell‑in_mismatch_(channel_inventory)_from_distributor_dashboards.md
+165. [✓] 0165_ReturnRMA_policy_relaxtighten_notices;_signals_on_quality_or_demand..md
+166. [✓] 0166_Extended_payment_terms_(Net‑90120)_appearing_in_award_notices;_buyer_funding_str.md
+167. [✓] 0167_Channel_stuffing_red_flags_large_EOM_shipments_then_returns;_anecdotal_reports..md
+168. [✓] 0168_Leasing_residual_values_for_NVDA_servers_in_lessor_filings;_risk_of_ASP_declines.md
+169. [✓] 0169_Used_GPU_market_(eBaybrokers)_volumesprices_for_A100H100;_trend_vs_July..md
+170. [✓] 0170_Warranty_accrual_increases_at_OEMs_with_heavy_NVDA_mix;_proxy_for_field_reliabil.md
+171. [✓] 0171_condapip_download_trends_for_cuda‑toolkitcuDNNTensorRT_since_June;_install‑base_.md
+172. [✓] 0172_NGC_container_pull_stats_for_GB200_images;_surge_post‑availability.md
+173. [✓] 0173_NVIDIA_AI_Enterprise_case_studies_naming_seat_countsrevenue_impact;_new_logos_si.md
+174. [✓] 0174_NIM_microservices_adoption_in_ISV_release_notes;_workloads_moving_to_NVDA_infere.md
+175. [✓] 0175_DGX_Cloud_utilization_anecdotes_(engineering_blogs);_capacity_constraintsregion_.md
+176. [✓] 0176_CUDA_licenseEULA_enforcement_changes_(legalIT_forums);_potential_software_revenu.md
+177. [✓] 0177_MLPerf_new_submissions_using_GB200;_perfW_gains_for_TCO_assumptions..md
+178. [✓] 0178_Hugging_Face_hardware_telemetry_(SpacesInference_Endpoints)_NVDA_share_vs_altern.md
+179. [✓] 0179_PyTorch_nightly_breakage_rates_on_CUDA_vs_ROCm;_dev_friction_indicating_lock‑in_.md
+180. [✓] 0180_Omniversedigital_twin_lighthouse_wins_(manufacturingauto)_that_diversify_softwar.md
+181. [✓] 0181_India_MeitYPLI_approvals_&_tenders_specifying_NVDA_GPUs;_delivery_dates..md
+182. [✓] 0182_Japan_METIRapidus_grants;_partners_listing_NVDA‑based_compute_expansions..md
+183. [✓] 0183_EU_AI_Act_compliance_tooling_that_prefers_NVDA_acceleration;_procurement_hints..md
+184. [✓] 0184_Middle_East_(PIFMubadala)_project_milestones_with_integrators_naming_GPU_countsC.md
+185. [✓] 0185_LatAm_cloud_region_launches_advertising_GPU_instances;_instance_types_imply_ship.md
+186. [✓] 0186_Export‑control_docket_(Regulations.gov)_comment_letters_by_NVDAcustomers;_clues_.md
+187. [✓] 0187_HS‑code_reclassificationtariff_changes_on_accelerators_in_EUIndia;_effective_dat.md
+188. [✓] 0188_Port_strikesrail_disruptions_(USEU)_impacting_server_imports;_durationvolumes..md
+189. [✓] 0189_Cross‑strait_insurancepremium_shifts_for_shipments;_cost_impact..md
+190. [✓] 0190_Data‑residency_mandates_(EUGCCIndia)_forcing_local_AI_regions—procurement_indica.md
+191. [✓] 0191_GPU_utilization_dashboards_from_HPC_centers_(queue_wait_times);_MoM_trend_since_.md
+192. [✓] 0192_Cloud_spotmarketplace_snapshots_for_H100H200GB200_instances_by_region;_sold‑out_.md
+193. [✓] 0193_Enterprise_IT_budget_committee_minutes_(public_entities)_approvingdeferring_AI_c.md
+194. [✓] 0194_FinOps_cost_reportsblogs_showing_GPU_cost_per_model_trends;_evidence_of_optimiza.md
+195. [✓] 0195_AI_startup_funding_press_listing_hardware_commitments_(GPU_counts)_in_LOIs;_conv.md
+196. [✓] 0196_ISVML_platform_release_notes_announcing_GB200_support;_timing_vs_hardware_availa.md
+197. [✓] 0197_Customer_posts_on_migration_prototype→production_on_NVDA;_time‑to‑deploy_data_po.md
+198. [✓] 0198_GPU‑cloud_churndowngrade_signs_(CoreWeaveLambda)_via_pricingqueue_changes;_deman.md
+199. [✓] 0199_Public_HPC_acceptance_failuresre‑tenders_due_to_powercooling_shortfalls;_shipmen.md
+200. [✓] 0200_Academicenterprise_shifting_inference_to_lower‑end_GPUsCPUs_(cost‑down)_—_eviden.md
+201. [✓] 0201_Recent_reports_from_Chinese_tech_media_(e.g.,_Caixin,_36Kr)_on_the_impact_of_the.md
+202. [✓] 0202_Whisper_numbers_or_unofficial_estimates_for_NVIDIA's_Q3_revenue_guidance_excludi.md
+203. [✓] 0203_Analysis_of_Huawei_Ascend_910C_production_yields_at_SMIC_in_the_last_quarter..md
+204. [✓] 0204_Latest_government_tenders_from_China_for_AI_servers_specifying_domestic_vs._fore.md
+205. [✓] 0205_Sell-through_rate_of_NVIDIA_H20_chips_at_major_Chinese_cloud_providers_in_the_la.md
+206. [✓] 0206_Recent_statements_from_Alibaba_Cloud_or_Tencent_Cloud_regarding_their_AI_hardwar.md
+207. [✓] 0207_Analysis_of_the_financial_impact_of_the_15%_US_revenue_sharing_agreement_on_NVID.md
+208. [✓] 0208_Discussions_on_Chinese_developer_forums_(e.g.,_CSDN,_Zhihu)_about_the_usability_.md
+209. [✓] 0209_Latest_customs_data_for_semiconductor_importsexports_between_the_US_and_China..md
+210. [✓] 0210_Recent_pricing_trends_for_NVIDIA_H20_and_Huawei_Ascend_910C_in_the_Chinese_spot_.md
+211. [✓] 0211_Analyst_estimates_for_the_size_of_the_gray_market_for_NVIDIA_GPUs_in_China..md
+212. [✓] 0212_Recent_travel_and_meeting_logs_of_NVIDIA_executives_with_Chinese_officials_or_cu.md
+213. [✓] 0213_Analysis_of_the_stock_performance_of_key_Chinese_AI_software_companies_in_the_la.md
+214. [✓] 0214_Latest_reports_on_the_progress_of_China's_National_AI_Team_and_its_impact_on_NVI.md
+215. [✓] 0215_Discussions_on_the_potential_for_a_new,_compliant_NVIDIA_chip_for_the_Chinese_ma.md
+216. [✓] 0216_Recent_commentary_from_US_officials_on_the_effectiveness_of_the_current_chip_exp.md
+217. [✓] 0217_Analysis_of_the_risk_of_further_US_restrictions_on_NVIDIA's_business_in_China..md
+218. [✓] 0218_Latest_data_on_the_number_of_active_CUDA_developers_in_China_vs._the_rest_of_the.md
+219. [✓] 0219_Recent_reports_on_the_adoption_of_RISC-V_architecture_for_AI_accelerators_in_Chi.md
+220. [✓] 0220_Latest_reports_from_DigiTimes_or_TrendForce_on_TSMC's_CoWoS_capacity_utilization.md
+221. [✓] 0221_Recent_analyst_checks_on_the_production_ramp_and_yields_of_NVIDIA's_Blackwell_B2.md
+222. [✓] 0222_Latest_updates_on_Samsung's_HBM3E_qualification_status_with_NVIDIA..md
+223. [✓] 0223_Current_spot_price_and_lead_times_for_HBM3E_memory_from_SK_Hynix_and_Samsung..md
+224. [✓] 0224_Recent_commentary_from_semiconductor_equipment_suppliers_(e.g.,_Lam_Research,_Ap.md
+225. [✓] 0225_Latest_data_on_air_freight_volumes_for_high-value_electronics_from_Taiwan_to_the.md
+226. [✓] 0226_Recent_earnings_call_transcripts_from_key_NVIDIA_suppliers_(e.g.,_Murata,_Delta_.md
+227. [✓] 0227_Analysis_of_the_power_consumption_and_thermal_management_requirements_of_the_GB2.md
+228. [✓] 0228_Latest_reports_on_the_availability_and_lead_times_for_high-speed_copper_and_opti.md
+229. [✓] 0229_Recent_commentary_from_contract_manufacturers_(e.g.,_Foxconn,_Wistron)_on_their_.md
+230. [✓] 0230_Analysis_of_the_bill_of_materials_(BOM)_for_a_Blackwell_B200_server_to_identify_.md
+231. [✓] 0231_Latest_data_on_the_inventory_levels_of_NVIDIA's_previous_generation_(Hopper)_GPU.md
+232. [✓] 0232_Recent_reports_on_the_development_of_next-generation_cooling_technologies_(e.g.,.md
+233. [✓] 0233_Analysis_of_the_potential_for_a_product_transition_gap_between_the_Hopper_and_Bl.md
+234. [✓] 0234_Latest_data_on_the_number_of_Blackwell-ready_server_designs_from_major_OEMs..md
+235. [✓] 0235_Recent_commentary_on_the_software_and_firmware_development_status_for_the_Blackw.md
+236. [✓] 0236_Analysis_of_the_power_delivery_network_requirements_for_a_GB200-based_data_cente.md
+237. [✓] 0237_Latest_reports_on_the_availability_of_skilled_labor_for_data_center_construction.md
+238. [✓] 0238_Recent_data_on_the_cost_of_electricity_in_key_data_center_markets..md
+239. [✓] 0239_Analysis_of_the_potential_for_a_bifurcation_of_the_AI_market_between_training_(B.md
+240. [✓] 0240_Latest_updates_on_the_procurement_and_deployment_timeline_for_Saudi_Arabia's_and.md
+241. [✓] 0241_Recent_announcements_from_other_countries_(e.g.,_India,_Japan,_Canada)_regarding.md
+242. [✓] 0242_Latest_earnings_call_transcripts_from_major_enterprise_software_companies_(e.g.,.md
+243. [✓] 0243_Recent_commentary_from_specialized_cloud_providers_(e.g.,_CoreWeave,_Lambda_Labs.md
+244. [✓] 0244_Analysis_of_the_order_backlogs_for_AI_servers_at_Dell,_HPE,_and_Super_Micro_in_t.md
+245. [✓] 0245_Latest_data_on_the_growth_of_the_AI_model_training_market_and_the_demand_for_lar.md
+246. [✓] 0246_Recent_reports_on_the_adoption_of_NVIDIA's_AI_Enterprise_software_suite_by_Fortu.md
+247. [✓] 0247_Analysis_of_the_return_on_investment_(ROI)_for_enterprise_AI_projects_and_its_im.md
+248. [✓] 0248_Latest_data_on_the_growth_of_the_AI_inference_market_and_the_demand_for_NVIDIA's.md
+249. [✓] 0249_Recent_commentary_from_NVIDIA's_DGX_and_SuperPOD_customers_on_their_expansion_pl.md
+250. [✓] 0250_Analysis_of_the_demand_for_NVIDIA's_professional_visualization_(RTX)_products_in.md
+251. [✓] 0251_Latest_data_on_the_adoption_of_NVIDIA's_Omniverse_platform_for_industrial_digita.md
+252. [✓] 0252_Recent_reports_on_the_use_of_NVIDIA's_GPUs_in_the_healthcare_and_life_sciences_s.md
+253. [✓] 0253_Analysis_of_the_demand_for_NVIDIA's_automotive_solutions_(DRIVE)_and_the_progres.md
+254. [✓] 0254_Latest_data_on_the_growth_of_the_edge_AI_market_and_the_demand_for_NVIDIA's_Jets.md
+255. [✓] 0255_Recent_commentary_from_financial_services_companies_on_their_use_of_NVIDIA's_GPU.md
+256. [✓] 0256_Analysis_of_the_demand_for_NVIDIA's_networking_solutions_(InfiniBand,_Spectrum-X.md
+257. [✓] 0257_Latest_data_on_the_number_of_AI_startups_that_have_recently_raised_significant_f.md
+258. [✓] 0258_Recent_reports_on_the_use_of_NVIDIA's_GPUs_for_scientific_research_and_climate_m.md
+259. [✓] 0259_Analysis_of_the_potential_for_a_capex_digestion_phase_among_hyperscalers_after_a.md
+260. [✓] 0260_Latest_independent_benchmarks_of_AMD's_Instinct_MI350_vs._NVIDIA's_Blackwell_B20.md
+261. [✓] 0261_Recent_commentary_from_major_cloud_providers_on_their_plans_to_offer_AMD's_MI300.md
+262. [✓] 0262_Analysis_of_the_developer_sentiment_and_adoption_rate_of_AMD's_ROCm_software_sta.md
+263. [✓] 0263_Latest_updates_on_the_progress_of_Google's_TPU_v6,_Amazon's_Trainium_2,_and_Micr.md
+264. [✗] FAILED
+265. [✓] 0265_Analysis_of_the_pricing_and_availability_of_AMD's_MI300X_and_Intel's_Gaudi_3_in_.md
+266. [✓] 0266_Latest_data_on_the_market_share_of_Cerebras,_SambaNova,_and_other_AI_hardware_st.md
+267. [✓] 0267_Recent_commentary_on_the_progress_of_the_UXL_Foundation's_open-source_alternativ.md
+268. [✓] 0268_Analysis_of_the_patent_filings_for_novel_AI_accelerator_architectures_in_the_las.md
+269. [✓] 0269_Latest_reports_on_the_performance_of_Apple's_M-series_chips_for_on-device_AI_and.md
+270. [✓] 0270_Recent_commentary_on_the_potential_for_a_good_enough_AI_hardware_market_to_emerg.md
+271. [✓] 0271_Analysis_of_the_total_cost_of_ownership_(TCO)_for_running_AI_workloads_on_NVIDIA.md
+272. [✓] 0272_Latest_data_on_the_number_of_open-source_AI_models_that_are_optimized_for_non-NV.md
+273. [✓] 0273_Recent_reports_on_any_M&A_activity_in_the_AI_chip_sector..md
+274. [✓] 0274_Analysis_of_the_long-term_threat_of_quantum_computing_to_NVIDIA's_dominance_in_h.md
+275. [✓] 0275_Latest_analyst_revisions_to_NVIDIA's_Q3_revenue_and_EPS_guidance_in_the_last_24_.md
+276. [✓] 0276_Consensus_vs._whisper_number_for_NVIDIA's_Data_Center_revenue_in_the_just-report.md
+277. [✓] 0277_Recent_commentary_from_high-accuracy_NVIDIA_analysts_(e.g.,_from_Rosenblatt,_HSB.md
+278. [✓] 0278_Analysis_of_NVIDIA's_gross_margin_guidance_in_light_of_the_HBM_supply_situation_.md
+279. [✓] 0279_Latest_estimates_for_NVIDIA's_operating_expenses_and_the_impact_of_R&D_spending_.md
+280. [✓] 0280_Recent_commentary_on_NVIDIA's_capital_allocation_strategy,_including_stock_buyba.md
+281. [✓] 0281_Analysis_of_NVIDIA's_inventory_levels_and_accounts_receivable_for_any_signs_of_s.md
+282. [✓] 0282_Latest_data_on_the_institutional_ownership_of_NVIDIA_stock_and_any_recent_large_.md
+283. [✓] 0283_Recent_commentary_on_the_potential_for_a_stock_split_and_its_impact_on_retail_in.md
+284. [✓] 0284_Analysis_of_the_currency_exchange_rate_fluctuations_and_their_impact_on_NVIDIA's.md
+285. [✓] 0285_Latest_estimates_for_the_growth_of_NVIDIA's_recurring_revenue_from_software_and_.md
+286. [✓] 0286_Recent_commentary_on_the_valuation_of_NVIDIA's_stock_and_the_sustainability_of_i.md
+287. [✓] 0287_Analysis_of_the_tax_implications_of_the_CHIPS_Act_and_other_government_subsidies.md
+288. [✓] 0288_Latest_data_on_the_short_interest_in_NVIDIA's_stock_and_the_cost_to_borrow_share.md
+289. [✓] 0289_Recent_commentary_on_the_potential_for_any_one-time_charges_or_accounting_adjust.md
+290. [✓] 0290_Latest_implied_volatility_and_expected_move_for_NVDA_stock_based_on_the_options_.md
+291. [✓] 0291_Analysis_of_the_putcall_ratio_and_skew_for_NVDA_options_expiring_this_week..md
+292. [✓] 0292_Recent_reports_of_any_unusually_large_block_trades_or_dark_pool_activity_in_NVDA.md
+293. [✓] 0293_Latest_sentiment_analysis_of_social_media_platforms_(TwitterX,_Reddit,_StockTwit.md
+294. [✓] 0294_Analysis_of_the_options_activity_in_key_NVIDIA_suppliers_(e.g.,_SMCI,_VRT)_and_c.md
+295. [✓] 0295_Recent_commentary_from_technical_analysts_on_the_key_support_and_resistance_leve.md
+296. [✓] 0296_Latest_data_on_the_flow_of_funds_into_and_out_of_technology-focused_ETFs_that_ha.md
+297. [✓] 0297_Analysis_of_the_historical_correlation_between_NVIDIA's_earnings_surprises_and_t.md
+298. [✓] 0298_Recent_reports_of_any_new_activist_investor_positions_in_NVIDIA_or_its_key_partn.md
+299. [✓] 0299_Latest_Google_Trends_data_for_searches_related_to_buy_NVIDIA_stock_vs._sell_NVID.md
+300. [✓] 0300_Latest_analyst_commentary_on_NVIDIA_H20_chip_inventory_levels_in_China..md
+301. [✓] 0301_Recent_reports_from_Chinese_tech_media_(e.g.,_Caixin,_36Kr)_on_the_impact_of_the.md
+302. [✓] 0302_Whisper_numbers_or_unofficial_estimates_for_NVIDIA's_Q3_revenue_guidance_excludi.md
+303. [✓] 0303_Analysis_of_Huawei_Ascend_910C_production_yields_at_SMIC_in_the_last_quarter..md
+304. [✓] 0304_Latest_government_tenders_from_China_for_AI_servers_specifying_domestic_vs._fore.md
+305. [✓] 0305_Sell-through_rate_of_NVIDIA_H20_chips_at_major_Chinese_cloud_providers_in_the_la.md
+306. [✓] 0306_Recent_statements_from_Alibaba_Cloud_or_Tencent_Cloud_regarding_their_AI_hardwar.md
+307. [✓] 0307_Analysis_of_the_financial_impact_of_the_15%_US_revenue_sharing_agreement_on_NVID.md
+308. [✓] 0308_Discussions_on_Chinese_developer_forums_(e.g.,_CSDN,_Zhihu)_about_the_usability_.md
+309. [✓] 0309_Latest_customs_data_for_semiconductor_importsexports_between_the_US_and_China..md
+310. [✓] 0310_Recent_pricing_trends_for_NVIDIA_H20_and_Huawei_Ascend_910C_in_the_Chinese_spot_.md
+311. [✓] 0311_Analyst_estimates_for_the_size_of_the_gray_market_for_NVIDIA_GPUs_in_China..md
+312. [✓] 0312_Recent_travel_and_meeting_logs_of_NVIDIA_executives_with_Chinese_officials_or_cu.md
+313. [✓] 0313_Analysis_of_the_stock_performance_of_key_Chinese_AI_software_companies_in_the_la.md
+314. [✓] 0314_Latest_reports_on_the_progress_of_China's_National_AI_Team_and_its_impact_on_NVI.md
+315. [✓] 0315_Discussions_on_the_potential_for_a_new,_compliant_NVIDIA_chip_for_the_Chinese_ma.md
+316. [✓] 0316_Recent_commentary_from_US_officials_on_the_effectiveness_of_the_current_chip_exp.md
+317. [✓] 0317_Analysis_of_the_risk_of_further_US_restrictions_on_NVIDIA's_business_in_China..md
+318. [✓] 0318_Latest_data_on_the_number_of_active_CUDA_developers_in_China_vs._the_rest_of_the.md
+319. [✓] 0319_Recent_reports_on_the_adoption_of_RISC-V_architecture_for_AI_accelerators_in_Chi.md
+320. [✓] 0320_Latest_reports_from_DigiTimes_or_TrendForce_on_TSMC's_CoWoS_capacity_utilization.md
+321. [✓] 0321_Recent_analyst_checks_on_the_production_ramp_and_yields_of_NVIDIA's_Blackwell_B2.md
+322. [✓] 0322_Latest_updates_on_Samsung's_HBM3E_qualification_status_with_NVIDIA..md
+323. [✓] 0323_Current_spot_price_and_lead_times_for_HBM3E_memory_from_SK_Hynix_and_Samsung..md
+324. [✓] 0324_Recent_commentary_from_semiconductor_equipment_suppliers_(e.g.,_Lam_Research,_Ap.md
+325. [✓] 0325_Latest_data_on_air_freight_volumes_for_high-value_electronics_from_Taiwan_to_the.md
+326. [✓] 0326_Recent_earnings_call_transcripts_from_key_NVIDIA_suppliers_(e.g.,_Murata,_Delta_.md
+327. [✓] 0327_Analysis_of_the_power_consumption_and_thermal_management_requirements_of_the_GB2.md
+328. [✓] 0328_Latest_reports_on_the_availability_and_lead_times_for_high-speed_copper_and_opti.md
+329. [✓] 0329_Recent_commentary_from_contract_manufacturers_(e.g.,_Foxconn,_Wistron)_on_their_.md
+330. [✓] 0330_Analysis_of_the_bill_of_materials_(BOM)_for_a_Blackwell_B200_server_to_identify_.md
+331. [✓] 0331_Latest_data_on_the_inventory_levels_of_NVIDIA's_previous_generation_(Hopper)_GPU.md
+332. [✓] 0332_Recent_reports_on_the_development_of_next-generation_cooling_technologies_(e.g.,.md
+333. [✓] 0333_Analysis_of_the_potential_for_a_product_transition_gap_between_the_Hopper_and_Bl.md
+334. [✓] 0334_Latest_data_on_the_number_of_Blackwell-ready_server_designs_from_major_OEMs..md
+335. [✓] 0335_Recent_commentary_on_the_software_and_firmware_development_status_for_the_Blackw.md
+336. [✓] 0336_Analysis_of_the_power_delivery_network_requirements_for_a_GB200-based_data_cente.md
+337. [✓] 0337_Latest_reports_on_the_availability_of_skilled_labor_for_data_center_construction.md
+338. [✓] 0338_Recent_data_on_the_cost_of_electricity_in_key_data_center_markets..md
+339. [✓] 0339_Analysis_of_the_potential_for_a_bifurcation_of_the_AI_market_between_training_(B.md
+340. [✓] 0340_Latest_updates_on_the_procurement_and_deployment_timeline_for_Saudi_Arabia's_and.md
+341. [✓] 0341_Recent_announcements_from_other_countries_(e.g.,_India,_Japan,_Canada)_regarding.md
+342. [✓] 0342_Latest_earnings_call_transcripts_from_major_enterprise_software_companies_(e.g.,.md
+343. [✓] 0343_Recent_commentary_from_specialized_cloud_providers_(e.g.,_CoreWeave,_Lambda_Labs.md
+344. [✓] 0344_Analysis_of_the_order_backlogs_for_AI_servers_at_Dell,_HPE,_and_Super_Micro_in_t.md
+345. [✓] 0345_Latest_data_on_the_growth_of_the_AI_model_training_market_and_the_demand_for_lar.md
+346. [✓] 0346_Recent_reports_on_the_adoption_of_NVIDIA's_AI_Enterprise_software_suite_by_Fortu.md
+347. [✓] 0347_Analysis_of_the_return_on_investment_(ROI)_for_enterprise_AI_projects_and_its_im.md
+348. [✓] 0348_Latest_data_on_the_growth_of_the_AI_inference_market_and_the_demand_for_NVIDIA's.md
+349. [✓] 0349_Recent_commentary_from_NVIDIA's_DGX_and_SuperPOD_customers_on_their_expansion_pl.md
+350. [✓] 0350_Analysis_of_the_demand_for_NVIDIA's_professional_visualization_(RTX)_products_in.md
+351. [✓] 0351_Latest_data_on_the_adoption_of_NVIDIA's_Omniverse_platform_for_industrial_digita.md
+352. [✓] 0352_Recent_reports_on_the_use_of_NVIDIA's_GPUs_in_the_healthcare_and_life_sciences_s.md
+353. [✓] 0353_Analysis_of_the_demand_for_NVIDIA's_automotive_solutions_(DRIVE)_and_the_progres.md
+354. [✓] 0354_Latest_data_on_the_growth_of_the_edge_AI_market_and_the_demand_for_NVIDIA's_Jets.md
+355. [✓] 0355_Recent_commentary_from_financial_services_companies_on_their_use_of_NVIDIA's_GPU.md
+356. [✓] 0356_Analysis_of_the_demand_for_NVIDIA's_networking_solutions_(InfiniBand,_Spectrum-X.md
+357. [✓] 0357_Latest_data_on_the_number_of_AI_startups_that_have_recently_raised_significant_f.md
+358. [✓] 0358_Recent_reports_on_the_use_of_NVIDIA's_GPUs_for_scientific_research_and_climate_m.md
+359. [✓] 0359_Analysis_of_the_potential_for_a_capex_digestion_phase_among_hyperscalers_after_a.md
+360. [✓] 0360_Latest_independent_benchmarks_of_AMD's_Instinct_MI350_vs._NVIDIA's_Blackwell_B20.md
+361. [✓] 0361_Recent_commentary_from_major_cloud_providers_on_their_plans_to_offer_AMD's_MI300.md
+362. [✓] 0362_Analysis_of_the_developer_sentiment_and_adoption_rate_of_AMD's_ROCm_software_sta.md
+363. [✓] 0363_Latest_updates_on_the_progress_of_Google's_TPU_v6,_Amazon's_Trainium_2,_and_Micr.md
+364. [✓] 0364_Recent_reports_on_any_major_customer_wins_for_AMD_or_Intel_in_the_AI_accelerator.md
+365. [✓] 0365_Analysis_of_the_pricing_and_availability_of_AMD's_MI300X_and_Intel's_Gaudi_3_in_.md
+366. [✓] 0366_Latest_data_on_the_market_share_of_Cerebras,_SambaNova,_and_other_AI_hardware_st.md
+367. [✓] 0367_Recent_commentary_on_the_progress_of_the_UXL_Foundation's_open-source_alternativ.md
+368. [✓] 0368_Analysis_of_the_patent_filings_for_novel_AI_accelerator_architectures_in_the_las.md
+369. [✓] 0369_Latest_reports_on_the_performance_of_Apple's_M-series_chips_for_on-device_AI_and.md
+370. [✓] 0370_Recent_commentary_on_the_potential_for_a_good_enough_AI_hardware_market_to_emerg.md
+371. [✓] 0371_Analysis_of_the_total_cost_of_ownership_(TCO)_for_running_AI_workloads_on_NVIDIA.md
+372. [✓] 0372_Latest_data_on_the_number_of_open-source_AI_models_that_are_optimized_for_non-NV.md
+373. [✓] 0373_Recent_reports_on_any_M&A_activity_in_the_AI_chip_sector..md
+374. [✓] 0374_Analysis_of_the_long-term_threat_of_quantum_computing_to_NVIDIA's_dominance_in_h.md
+375. [✓] 0375_Latest_analyst_revisions_to_NVIDIA's_Q3_revenue_and_EPS_guidance_in_the_last_24_.md
+376. [✓] 0376_Consensus_vs._whisper_number_for_NVIDIA's_Data_Center_revenue_in_the_just-report.md
+377. [✓] 0377_Recent_commentary_from_high-accuracy_NVIDIA_analysts_(e.g.,_from_Rosenblatt,_HSB.md
+378. [✓] 0378_Analysis_of_NVIDIA's_gross_margin_guidance_in_light_of_the_HBM_supply_situation_.md
+379. [✓] 0379_Latest_estimates_for_NVIDIA's_operating_expenses_and_the_impact_of_R&D_spending_.md
+380. [✓] 0380_Recent_commentary_on_NVIDIA's_capital_allocation_strategy,_including_stock_buyba.md
+381. [✓] 0381_Analysis_of_NVIDIA's_inventory_levels_and_accounts_receivable_for_any_signs_of_s.md
+382. [✓] 0382_Latest_data_on_the_institutional_ownership_of_NVIDIA_stock_and_any_recent_large_.md
+383. [✓] 0383_Recent_commentary_on_the_potential_for_a_stock_split_and_its_impact_on_retail_in.md
+384. [✓] 0384_Analysis_of_the_currency_exchange_rate_fluctuations_and_their_impact_on_NVIDIA's.md
+385. [✓] 0385_Latest_estimates_for_the_growth_of_NVIDIA's_recurring_revenue_from_software_and_.md
+386. [✓] 0386_Recent_commentary_on_the_valuation_of_NVIDIA's_stock_and_the_sustainability_of_i.md
+387. [✓] 0387_Analysis_of_the_tax_implications_of_the_CHIPS_Act_and_other_government_subsidies.md
+388. [✓] 0388_Latest_data_on_the_short_interest_in_NVIDIA's_stock_and_the_cost_to_borrow_share.md
+389. [✓] 0389_Recent_commentary_on_the_potential_for_any_one-time_charges_or_accounting_adjust.md
+390. [✓] 0390_Latest_implied_volatility_and_expected_move_for_NVDA_stock_based_on_the_options_.md
+391. [✓] 0391_Analysis_of_the_putcall_ratio_and_skew_for_NVDA_options_expiring_this_week..md
+392. [✓] 0392_Recent_reports_of_any_unusually_large_block_trades_or_dark_pool_activity_in_NVDA.md
+393. [✓] 0393_Latest_sentiment_analysis_of_social_media_platforms_(TwitterX,_Reddit,_StockTwit.md
+394. [✓] 0394_Analysis_of_the_options_activity_in_key_NVIDIA_suppliers_(e.g.,_SMCI,_VRT)_and_c.md
+395. [✓] 0395_Recent_commentary_from_technical_analysts_on_the_key_support_and_resistance_leve.md
+396. [✓] 0396_Latest_data_on_the_flow_of_funds_into_and_out_of_technology-focused_ETFs_that_ha.md
+397. [✓] 0397_Analysis_of_the_historical_correlation_between_NVIDIA's_earnings_surprises_and_t.md
+398. [✓] 0398_Recent_reports_of_any_new_activist_investor_positions_in_NVIDIA_or_its_key_partn.md
+399. [✓] 0399_Latest_Google_Trends_data_for_searches_related_to_buy_NVIDIA_stock_vs._sell_NVID.md
+400. [✓] 0400_TSMC_Q2_2025_earnings_transcripts_mentions_of_NVIDIA_demand_effect_on_FY2026_rev.md
+401. [✓] 0401_NVIDIA_GPU_supply_bottlenecks_from_TSMC_partners_implications_for_Q3_FY2026_outl.md
+402. [✗] FAILED
+403. [✓] 0403_TSMC_executive_quotes_on_NVIDIA_order_fulfillment_risks_to_Q3_guidance_August_20.md
+404. [✓] 0404_Samsung_HBM_memory_supply_constraints_effect_on_NVIDIA_Q2_FY2026_EPS_and_forward.md
+405. [✓] 0405_NVIDIA_H20_chip_production_ramps_in_China_influence_on_Q3_revenue_guidance_sitea.md
+406. [✓] 0406_Micron_memory_earnings_signals_for_NVIDIA_Data_Center_demand_and_Q3_FY2026_outlo.md
+407. [✓] 0407_Rare_earth_material_disruptions_impact_on_NVIDIA_supply_chain_and_earnings_guida.md
+408. [✓] 0408_Broadcom_networking_chip_reports_indications_for_NVIDIA_AI_infrastructure_and_Q2.md
+409. [✓] 0409_NVIDIA_chip_yield_rates_discussions_impact_on_Q3_guidance_sitereddit.comrhardwar.md
+410. [✓] 0410_SK_Hynix_HBM3E_allocations_for_NVIDIA_effect_on_Blackwell_ramp_and_FY2026_guidan.md
+411. [✓] 0411_Taiwan_energy_shortages_impact_on_TSMC-NVIDIA_production_and_Q2_earnings_sitetai.md
+412. [✓] 0412_NVIDIA_supplier_inventory_levels_tangential_news_effect_on_Q3_guidance_July-Augu.md
+413. [✓] 0413_Amkor_packaging_updates_reflection_on_NVIDIA_Blackwell_timeline_and_earnings_imp.md
+414. [✓] 0414_Semiconductor_supply_reports_for_AI_chips_impact_on_NVIDIA_Q2_revenue_PDF_sitese.md
+415. [✓] 0415_Foxconn_assembly_expansions_indications_for_NVIDIA_hardware_and_Q3_guidance.md
+416. [✓] 0416_GlobalFoundries_analog_components_updates_for_NVIDIA_GPUs_effect_on_margins.md
+417. [✓] 0417_NVIDIA_supply_leaks_discussions_impact_on_earnings_guidance_sitereddit.comrhardw.md
+418. [✓] 0418_UMC_wafer_fab_utilizations_correlation_with_NVIDIA_orders_and_Q3_FY2026_outlook.md
+419. [✓] 0419_Microsoft_AI_capex_plans_mentions_of_NVIDIA_GPUs_impact_on_Q2_earnings_and_Q3_gu.md
+420. [✓] 0420_Alphabet_Q2_2025_cloud_earnings_GPU_usage_growth_effect_on_NVIDIA_FY2026_revenue.md
+421. [✓] 0421_Amazon_AWS_AI_spending_references_to_NVIDIA_implications_for_Q3_guidance_$30.9B_.md
+422. [✓] 0422_Oracle_cloud_earnings_calls_on_NVIDIA_integrations_impact_on_Data_Center_earning.md
+423. [✓] 0423_Meta_AI_training_clusters_using_NVIDIA_chips_effect_on_Q3_FY2026_guidance.md
+424. [✓] 0424_Tesla_Dojo_project_shifts_impact_on_NVIDIA_demand_and_earnings_guidance_2025.md
+425. [✓] 0425_IBM_quantum-AI_mentions_of_NVIDIA_hardware_implications_for_Q2_margins.md
+426. [✓] 0426_Adobe_earnings_signals_on_NVIDIA_GPUs_for_AI_tools_effect_on_guidance.md
+427. [✓] 0427_Salesforce_Einstein_AI_updates_ties_to_NVIDIA_and_Q3_revenue_impact.md
+428. [✓] 0428_Palantir_government_AI_contracts_mentioning_NVIDIA_effect_on_FY2026_outlook_Augu.md
+429. [✓] 0429_ByteDance_NVIDIA_purchases_from_Chinese_sources_impact_on_China_guidance.md
+430. [✓] 0430_SAP_ERP-AI_integrations_references_to_NVIDIA_adoption_and_earnings_effect.md
+431. [✓] 0431_Zoom_earnings_on_AI_features_powered_by_NVIDIA_implications_for_guidance.md
+432. [✓] 0432_Alibaba_cloud_use_of_NVIDIA_alternatives_impact_on_China_earnings_hit.md
+433. [✓] 0433_ServiceNow_IT_automation_AI_ties_to_NVIDIA_and_Q2_EPS_impact.md
+434. [✓] 0434_Netflix_recommendation_AI_hardware_from_NVIDIA_tangential_effect_on_guidance.md
+435. [✓] 0435_Uber_autonomous_driving_updates_impact_on_NVIDIA_chip_needs_and_Q3_outlook.md
+436. [✓] 0436_Dell_server_sales_driven_by_NVIDIA_GPUs_analyst_notes_PDF_effect_on_earnings.md
+437. [✓] 0437_HP_enterprise_PC_earnings_indications_for_NVIDIA_graphics_and_guidance.md
+438. [✓] 0438_Hyperscaler_NVIDIA_spend_discussions_impact_on_Q3_guidance_sitereddit.comrMachin.md
+439. [✓] 0439_U.S._Commerce_updates_on_NVIDIA_China_exports_impact_on_Q2_earnings_and_guidance.md
+440. [✓] 0440_Chinese_media_reports_on_NVIDIA_H20_approvals_effect_on_Q3_revenue_$6B_potential.md
+441. [✓] 0441_U.S.-Taiwan_relations_tangential_impacts_on_NVIDIA_supply_and_FY2026_guidance.md
+442. [✓] 0442_EU_antitrust_probes_into_NVIDIA_AI_dominance_implications_for_earnings_European_.md
+443. [✓] 0443_Biden_administration_quotes_on_semiconductor_policies_effect_on_NVIDIA_guidance.md
+444. [✓] 0444_Think_tank_reports_on_NVIDIA_geopolitics_impact_on_Q2_EPS_Brookings_PDF.md
+445. [✓] 0445_NVIDIA_China-specific_chip_developments_leaks_effect_on_guidance_local_forums.md
+446. [✓] 0446_Tariffs_on_NVIDIA_imports_impact_on_margins_and_Q3_outlook_trade_journals.md
+447. [✓] 0447_Huawei_competition_to_NVIDIA_in_China_leaks_implications_for_earnings.md
+448. [✓] 0448_Asia_Times_articles_on_NVIDIA_Asia-Pacific_revenue_risks_to_guidance_August_2025.md
+449. [✓] 0449_Japanese_tech_policies_effect_on_NVIDIA_partnerships_and_Q2_earnings.md
+450. [✓] 0450_NVIDIA_export_license_delays_impact_on_guidance_X_posts_August_2025.md
+451. [✓] 0451_South_Korean_media_on_Samsung-NVIDIA_tensions_implications_for_supply_guidance.md
+452. [✓] 0452_Government_filings_on_NVIDIA_foreign_investments_PDF_effect_on_FY2026_outlook.md
+453. [✓] 0453_Geopolitics_discussions_on_NVIDIA_AI_arms_race_impact_on_earnings_sitereddit.com.md
+454. [✓] 0454_AMD_MI300X_adoption_vs._NVIDIA_impact_on_Q2_Data_Center_earnings_and_guidance.md
+455. [✓] 0455_Intel_Gaudi_3_benchmarks_against_NVIDIA_H100_effect_on_Q3_outlook.md
+456. [✓] 0456_Google_TPU_v5_updates_reducing_NVIDIA_demand_implications_for_guidance.md
+457. [✓] 0457_Amazon_Graviton_AI_chip_progress_internal_leaks_impact_on_earnings.md
+458. [✓] 0458_Microsoft_Maia_chip_ramps_effect_on_NVIDIA_reliance_and_Q2_EPS.md
+459. [✓] 0459_Cerebras_wafer-scale_engines_competing_with_NVIDIA_implications_for_guidance.md
+460. [✓] 0460_Broadcom_custom_ASIC_developments_impact_on_NVIDIA_AI_market_share.md
+461. [✓] 0461_Competitor_patent_filings_targeting_NVIDIA_CUDA_effect_on_FY2026_outlook.md
+462. [✓] 0462_NVIDIA_vs._ARM-based_AI_chips_discussions_impact_on_earnings_sitereddit.comrchip.md
+463. [✓] 0463_Qualcomm_Snapdragon_AI_chips_effect_on_NVIDIA_edge_computing_guidance.md
+464. [✓] 0464_Graphcore_IPU_sales_in_AI_inference_markets_implications_for_margins.md
+465. [✓] 0465_SambaNova_systems_challenging_NVIDIA_tangential_impact_on_Q3_revenue.md
+466. [✓] 0466_AI_chip_startup_funding_vs._NVIDIA_reports_from_EE_Times_effect_on_guidance.md
+467. [✓] 0467_Tenstorrent_RISC-V_designs_indications_for_NVIDIA_competition_and_earnings.md
+468. [✓] 0468_Open-source_alternatives_benchmarks_vs._NVIDIA_impact_on_Q2_outlook_Phoronix.md
+469. [✓] 0469_NVIDIA_internal_earnings_prep_reviews_impact_on_Q3_guidance_Glassdoor_August_202.md
+470. [✓] 0470_Leaked_NVIDIA_Q3_guidance_from_supplier_contracts_effect_on_stock.md
+471. [✓] 0471_Blackwell_production_costs_analysis_impact_on_Q2_margins_and_guidance.md
+472. [✓] 0472_NVIDIA_energy_efficiency_claims_lab_verifications_effect_on_Data_Center_outlook.md
+473. [✓] 0473_R&D_spending_breakdowns_in_SEC_filings_for_AI_implications_for_FY2026_guidance.md
+474. [✓] 0474_NVIDIA_employee_stock_sales_pre-earnings_tangential_impact_on_confidence.md
+475. [✓] 0475_Vendor_invoices_revelations_about_NVIDIA_Q2_inventory_and_guidance.md
+476. [✓] 0476_Internal_Blackwell_testing_discussions_impact_on_earnings_sitereddit.comrNVIDIA.md
+477. [✓] 0477_NVIDIA_CUDA_software_adoption_metrics_effect_on_Q3_revenue_guidance.md
+478. [✓] 0478_NVIDIA_patent_activity_in_Q2_2025_non-obvious_signals_for_outlook.md
+479. [✓] 0479_Gross_margin_erosion_factors_analyst_PDFs_impact_on_Q2_EPS.md
+480. [✓] 0480_Omniverse_platform_revenues_trends_effect_on_guidance_industry_reports.md
+481. [✓] 0481_Automotive_Drive_segment_demand_from_EV_news_impact_on_earnings.md
+482. [✓] 0482_Gaming_segment_recoveries_from_retailer_data_implications_for_Q3.md
+483. [✓] 0483_Professional_visualization_segment_insights_from_CAD_forums_effect_on_guidance.md
+484. [✓] 0484_NVIDIA_earnings_bets_threads_impact_on_guidance_expectations_sitereddit.comrwall.md
+485. [✓] 0485_X_sentiment_on_NVIDIA_pre-earnings_guidance_from_influencers_August_2025.md
+486. [✓] 0486_NVIDIA_options_flow_unusual_activity_implications_for_Q3_outlook_StockTwits.md
+487. [✓] 0487_Retail_forum_leaks_on_institutional_NVIDIA_positioning_effect_on_earnings.md
+488. [✓] 0488_FOMO_indicators_from_meme_communities_tangential_to_guidance_impact.md
+489. [✓] 0489_NVIDIA_valuation_concerns_comments_effect_on_post-earnings_guidance_Seeking_Alph.md
+490. [✓] 0490_Trading_groups_discussions_on_NVIDIA_shorts_implications_for_outlook_Discord.md
+491. [✓] 0491_Retail_investor_surveys_on_NVIDIA_confidence_and_Q3_guidance.md
+492. [✓] 0492_NVIDIA_implied_moves_options_data_from_CBOE_impact_on_earnings_volatility.md
+493. [✓] 0493_Polls_on_post-earnings_reactions_tied_to_guidance_sitereddit.comrinvesting.md
+494. [✓] 0494_Historical_NVIDIA_earnings_reactions_to_China_restrictions_analogs_for_Q3_guidan.md
+495. [✓] 0495_Past_margin_compression_impacts_on_NVIDIA_stock_from_2020-2024_implications_for_.md
+496. [✓] 0496_AI_hype_cycle_analogs_2023-2024_for_NVIDIA_demand_and_FY2026_outlook.md
+497. [✓] 0497_Hyperscaler_capex_cuts_case_studies_affecting_NVIDIA_guidance.md
+498. [✓] 0498_Semiconductor_earnings_volatility_academic_papers_PDF_impact_on_NVIDIA_scenarios.md
+499. [✓] 0499_NVIDIA_data_center_energy_consumption_trends_impact_on_Q2_FY2026_earnings_margin.md
+500. [✓] 0500_Environmental_regulations_on_AI_hardware_effect_on_NVIDIA_Q2_FY2026_earnings_and.md
+501. [✓] 0501_NVIDIA_hiring_rates_for_AI_engineers_implications_for_R&D_spending_impact_on_Q2_.md
+502. [✓] 0502_Employee_turnover_at_NVIDIA_discussions_impact_on_innovation_and_Q3_guidance_Gla.md
+503. [✓] 0503_Patent_disputes_involving_NVIDIA_CUDA_effect_on_Q2_FY2026_EPS_and_legal_costs_in.md
+504. [✓] 0504_Open-source_AI_software_alternatives_to_NVIDIA_impact_on_software_revenue_and_Q3.md
+505. [✓] 0505_India_AI_market_demand_signals_for_NVIDIA_chips_effect_on_emerging_markets_reven.md
+506. [✓] 0506_European_Commission_AI_act_implications_for_NVIDIA_sales_impact_on_Q3_outlook_an.md
+507. [✓] 0507_Analyst_conference_notes_on_NVIDIA_Blackwell_delays_private_impact_on_Q2_FY2026_.md
+508. [✓] 0508_NVIDIA_options_implied_volatility_spikes_beyond_CBOE_effect_on_post-Q2_earnings_.md
+509. [✓] 0509_Pre-2010_NVIDIA_earnings_analogs_for_current_AI_cycle_implications_for_FY2026_gu.md
+510. [✓] 0510_Quantum_computing_threats_to_NVIDIA_GPUs_discussions_impact_on_long-term_Data_Ce.md
+511. [✓] 0511_Inflation_effects_on_hyperscaler_capex_budgets_implications_for_NVIDIA_Q2_revenu.md
+512. [✓] 0512_Interest_rate_cuts_Federal_Reserve_impact_on_tech_spending_and_NVIDIA_Q2_FY2026_.md
+513. [✓] 0513_NVIDIA_partnerships_with_startups_in_AI_effect_on_ecosystem_revenue_and_Q3_guida.md
+514. [✓] 0514_Venture_capital_funding_in_AI_hardware_competitors_implications_for_NVIDIA_marke.md
+515. [✓] 0515_Data_privacy_laws_GDPR_updates_effect_on_NVIDIA_AI_deployments_impact_on_Q3_earn.md
+516. [✓] 0516_Cybersecurity_risks_to_NVIDIA_supply_chain_impact_on_Q2_FY2026_margins_and_produ.md
+517. [✓] 0517_NVIDIA_Omniverse_adoption_in_Hollywood_effect_on_professional_visualization_reve.md
+518. [✓] 0518_Electric_vehicle_chip_demand_beyond_Tesla_implications_for_NVIDIA_automotive_seg.md
+519. [✓] 0519_NVIDIA_collaborations_with_universities_on_AI_research_impact_on_R&D_and_FY2026_.md
+520. [✓] 0520_Talent_poaching_from_NVIDIA_by_competitors_effect_on_innovation_outlook_sitelink.md
+521. [✓] 0521_Water_usage_in_data_centers_hosting_NVIDIA_chips_environmental_impact_on_operati.md
+522. [✓] 0522_Carbon_emission_reports_from_hyperscalers_using_NVIDIA_effect_on_sustainability_.md
+523. [✓] 0523_NVIDIA_metaverse_initiatives_updates_implications_for_gaming_segment_Q2_FY2026_e.md
+524. [✓] 0524_Blockchain_and_crypto_recovery_effect_on_NVIDIA_GPU_demand_and_Q3_guidance_reven.md
+525. [✓] 0525_5G_infrastructure_rollouts_impact_on_NVIDIA_edge_computing_and_Q2_earnings_guida.md
+526. [✓] 0526_Satellite_internet_providers_like_Starlink_using_NVIDIA_tech_effect_on_Q3_revenu.md
+527. [✓] 0527_Medical_AI_applications_of_NVIDIA_chips_hospital_reports_impact_on_healthcare_ve.md
+528. [✓] 0528_Defense_contracts_with_NVIDIA_for_AI_simulations_implications_for_government_rev.md
+529. [✓] 0529_Southeast_Asia_manufacturing_shifts_effect_on_NVIDIA_supply_costs_and_Q2_FY2026_.md
+530. [✓] 0530_Trade_agreements_US-India_impact_on_NVIDIA_exports_and_Q3_earnings_emerging_mark.md
+531. [✓] 0531_Analyst_whisper_numbers_for_NVIDIA_Q2_EPS_private_forums_August_2025_impact_on_b.md
+532. [✓] 0532_Insider_trading_patterns_at_NVIDIA_pre-earnings_effect_on_confidence_in_Q3_guida.md
+533. [✓] 0533_NVIDIA_software_licensing_changes_impact_on_recurring_revenue_and_FY2026_outlook.md
+534. [✓] 0534_Developer_forums_discussions_on_NVIDIA_API_limitations_effect_on_adoption_and_Q2.md
+535. [✓] 0535_Augmented_reality_hardware_demand_signals_for_NVIDIA_effect_on_visualization_seg.md
+536. [✓] 0536_Robotics_industry_adoption_of_NVIDIA_Jetson_chips_implications_for_Q3_guidance_a.md
+537. [✓] 0537_Financial_analyst_backtests_on_NVIDIA_valuation_models_impact_on_Q2_price_target.md
+538. [✓] 0538_Macro_oil_price_fluctuations_effect_on_energy_costs_for_NVIDIA_data_centers_and_.md
+539. [✓] 0539_NVIDIA_involvement_in_climate_modeling_AI_effect_on_new_market_revenue_and_Q3_gu.md
+540. [✓] 0540_Labor_strikes_in_semiconductor_industry_impact_on_NVIDIA_supply_timelines_and_Q2.md
+541. [✓] 0541_Currency_exchange_rates_USD-TWD_effect_on_TSMC-NVIDIA_costs_and_Q3_guidance_marg.md
+542. [✓] 0542_Antitrust_lawsuits_against_hyperscalers_implications_for_NVIDIA_demand_and_Q2_re.md
+543. [✓] 0543_NVIDIA_Grace_CPU_adoption_rates_effect_on_Data_Center_diversification_and_Q3_gui.md
+544. [✓] 0544_OpenAI_or_similar_LLM_training_costs_impact_on_NVIDIA_chip_orders_and_Q2_FY2026_.md
+545. [✓] 0545_Philanthropic_AI_initiatives_by_NVIDIA_effect_on_brand_and_Q3_earnings_sentiment.md
+546. [✓] 0546_Stock_buyback_program_updates_implications_for_NVIDIA_EPS_and_Q2_FY2026_guidance.md
+547. [✓] 0547_Dividend_policy_discussions_effect_on_investor_sentiment_and_Q3_outlook_post-ear.md
+548. [✓] 0548_NVIDIA_presence_at_SIGGRAPH_conference_August_2025_impact_on_professional_viz_gu.md
+549. [✓] 0549_Virtual_reality_headset_sales_trends_effect_on_NVIDIA_GPU_demand_and_Q2_gaming_e.md
+550. [✓] 0550_E-sports_industry_growth_implications_for_gaming_segment_Q2_FY2026_revenue.md
+551. [✓] 0551_Agricultural_AI_using_NVIDIA_tech_farm_reports_impact_on_new_verticals_and_Q3_gu.md
+552. [✓] 0552_Smart_city_projects_incorporating_NVIDIA_AI_effect_on_urban_revenue_and_earnings.md
+553. [✓] 0553_Pandemic_recovery_in_tech_spending_analogs_for_NVIDIA_FY2026_guidance_and_AI_gro.md
+554. [✓] 0554_Recession_indicators_impact_on_enterprise_AI_budgets_and_NVIDIA_Q2_earnings.md
+555. [✓] 0555_NVIDIA_Hopper_architecture_upgrades_effect_on_Q3_upgrade_cycle_and_guidance_reve.md
+556. [✓] 0556_Memory_bandwidth_bottlenecks_in_AI_training_implications_for_NVIDIA_innovations_.md
+557. [✓] 0557_Collaborative_filtering_AI_patents_by_competitors_effect_on_NVIDIA_IP_and_FY2026.md
+558. [✓] 0558_Supply_chain_diversification_away_from_Taiwan_impact_on_NVIDIA_risk_guidance_and.md
+559. [✓] 0559_NVIDIA_BlueField_DPU_sales_trends_effect_on_networking_revenue_and_Q2_Data_Cente.md
+560. [✓] 0560_Edge_AI_device_proliferation_implications_for_Q2_FY2026_earnings_beat_and_guidan.md
+561. [✓] 0561_Retail_investor_short_interest_in_NVDA_options_impact_on_post-Q2_volatility_and_.md
+562. [✓] 0562_Institutional_fund_flows_into_NVIDIA_pre-earnings_effect_on_stock_reaction_to_Q3.md
+563. [✓] 0563_Analyst_earnings_model_assumptions_on_China_recovery_implications_for_Q2_guidanc.md
+564. [✓] 0564_NVIDIA_Spectrum-X_networking_platform_adoption_effect_on_Data_Center_margins_and.md
+565. [✓] 0565_Photonics_integration_in_AI_chips_competitors_impact_on_NVIDIA_outlook_and_Q2_in.md
+566. [✓] 0566_3D_rendering_software_updates_relying_on_NVIDIA_effect_on_pro_viz_segment_guidan.md
+567. [✓] 0567_Autonomous_drone_technology_demand_for_NVIDIA_chips_implications_for_Q2_earnings.md
+568. [✓] 0568_Space_exploration_AI_with_NVIDIA_tech_NASA_reports_impact_on_Q3_guidance_and_rev.md
+569. [✓] 0569_NVIDIA_DGX_Cloud_usage_metrics_effect_on_subscription_revenue_and_FY2026_outlook.md
+570. [✓] 0570_Partner_ecosystem_expansions_like_with_VMware_implications_for_Q2_earnings_and_A.md
+571. [✓] 0571_Thermal_management_challenges_in_data_centers_effect_on_NVIDIA_chip_efficiency_a.md
+572. [✓] 0572_Export_controls_on_AI_software_impact_on_NVIDIA_international_guidance_and_China.md
+573. [✓] 0573_NVIDIA_Rapids_library_adoption_in_data_science_effect_on_software_earnings_and_Q.md
+574. [✓] 0574_Fintech_AI_applications_using_NVIDIA_implications_for_financial_sector_revenue_i.md
+575. [✓] 0575_Gaming_console_refresh_cycles_effect_on_NVIDIA_partnerships_and_Q3_guidance.md
+576. [✓] 0576_Metrology_and_inspection_tools_for_NVIDIA_fabs_impact_on_yield_rates_and_Q2_marg.md
+577. [✓] 0577_Biodiversity_AI_projects_with_NVIDIA_effect_on_environmental_verticals_and_earni.md
+578. [✓] 0578_NVIDIA_Isaac_platform_for_robotics_updates_implications_for_Q3_FY2026_earnings.md
+579. [✓] 0579_Supply_chain_finance_costs_effect_on_NVIDIA_working_capital_and_Q2_margins_guida.md
+580. [✓] 0580_Analyst_debates_on_AI_ROI_for_hyperscalers_impact_on_demand_and_Q3_guidance.md
+581. [✓] 0581_NVIDIA_Tegra_processor_in_automotive_updates_effect_on_Drive_segment_Q2_earnings.md
+582. [✓] 0582_Quantum-inspired_algorithms_competing_with_NVIDIA_implications_for_long-term_out.md
+583. [✓] 0583_Data_sovereignty_laws_in_Asia_effect_on_NVIDIA_cloud_deployments_and_China_guida.md
+584. [✓] 0584_NVIDIA_Maxine_AI_for_video_calls_adoption_effect_on_consumer_segment_Q2_earnings.md
+585. [✓] 0585_Infrastructure_bill_funding_for_AI_in_US_implications_for_NVIDIA_contracts_and_r.md
+586. [✓] 0586_Analyst_revisions_to_NVIDIA_free_cash_flow_models_impact_on_Q3_guidance.md
+587. [✓] 0587_NVIDIA_Broadcast_app_updates_effect_on_creator_market_revenue_and_earnings.md
+588. [✓] 0588_Geothermal_energy_for_data_centers_impact_on_NVIDIA_operational_costs_and_margin.md
+589. [✓] 0589_NVIDIA_Parabricks_for_genomics_sequencing_effect_on_healthcare_guidance_and_reve.md
+590. [✓] 0590_Supply_chain_cyber_insurance_costs_implications_for_NVIDIA_Q2_margins.md
+591. [✓] 0591_Analyst_scenarios_for_AI_winter_impact_on_long-term_NVIDIA_outlook_and_guidance.md
+592. [✓] 0592_NVIDIA_Clara_platform_in_medical_imaging_updates_effect_on_Q2_earnings.md
+593. [✓] 0593_Rare_metal_price_volatility_effect_on_NVIDIA_component_costs_and_Q3_margins.md
+594. [✓] 0594_Historical_dot-com_bubble_analogs_for_current_AI_hype_and_NVIDIA_Q2_guidance.md
+595. [✓] 0595_NVIDIA_Merlin_recommender_systems_adoption_effect_on_e-commerce_revenue_Q2.md
+596. [✓] 0596_Submarine_cable_expansions_impact_on_global_AI_connectivity_and_NVIDIA_earnings.md
+597. [✓] 0597_Analyst_takes_on_NVIDIA_debt_levels_implications_for_financial_health_and_Q3_gui.md
+598. [✓] 0598_Emerging_biotech_AI_tools_using_NVIDIA_effect_on_life_sciences_outlook_and_Q2_re.md

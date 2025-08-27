@@ -1,0 +1,75 @@
+# Research Query: NVIDIA Tegra processor in automotive updates effect on Drive segment Q2 earnings
+**Generated:** Wednesday, August 27, 2025 at 12:21:18 PM
+**Model:** gemini-2.5-flash
+
+## Search Queries Used
+- NVIDIA Tegra automotive updates Q2 FY2026 impact
+- NVIDIA Drive segment performance Q2 2025 non-consensus
+- NVIDIA automotive chip supply chain reports Q2 2025
+- Tegra T239 production ramp Q2 2025
+- NVIDIA Drive Thor adoption Q2 2025
+- NVIDIA automotive revenue outlook Q2 FY2026
+- NVIDIA automotive partnerships May-August 2025
+- NVIDIA Tegra automotive Q2 earnings impact May-August 2025
+
+## Sources Referenced
+- [nvidia.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQDG9Y8Mtjcom4XA-Hd7zjli_gEM17eQhmM6sdkiC4-uxnKdRQrB6KPTyf3d5B_uOZJpvOIMYdeHIYEFIOqw-2LVFIUhb6YwtzmhF5jLrydhgmWJB6FNPaX5j_or9dXSLxtoK5I7i0c6NQWU_WeK64T-LrJerUyCd2SwKTHr-7JmOB_4akAQsrgfR9rUn0HzBhRz12rc6VXdmi6ma0Rg==)
+- [nvidia.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLtMLCg-tdk8yVhuVE_M5tEwfPLMmTnXy6jqIss-85zAKT7n4hTcYjqHR6VXyzwwGmTq3NfPCY7qifz2oRFzrxSrqG74GyU6dEgZqCcvneFggnrbNUY0s6oK8OqrpPzMxmFgI2vfQ0Vj4Hpb1z4TOW5xKan6eK_HCsPzOF6305LphIxB4X8Q==)
+- [quiverquant.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwKey-Hk048cQ_oSPZkAyBuWcgIiaev5oMEsMSEZT77sM6X_AL2q7vxb7BBViAaYgbgK9ikSiubz7MsnpK1iT_vXeggm6-u8CbCX-VqhGVNglHzjLK4-dor507myjPUsCqBDR2v11HuvXBN-fsqQWCaYECzHvCWiZWGZQVxUqQfLPDFVZJndnLPaaTkzLEkqr4c9A9K1xxGRYfQIOcEon91VdItgZYjlWFP5MWKrAWBFjJXssLdlPgjAH3httfNGKJeYp8PzBQLza7RNj_7HQoR0WHAXLOS-GMDaiSOg==)
+- [coincentral.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa7SxnCi7tBWFa_rU6jIODeM3lW7t-pGa1gqDDD7iOvRxshZOY1vhnw7WtgGMMffbeara5RXFhLbLz8Srd35GWkGXW8qBWPT_JCfOVUmfeqnww1T_phLR9RzRhD2JBj45txoo0bqkx9tC1xkC_FGcL4TWSPxfmw0lFEdHJrXdD8fgVphHUDOfh4vUeoZesYr1UT8Rl)
+- [businessinsider.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZvqbBm-oXmv54Y2ZkIINSET0QL72I6kv40p0_QK9oh6Daw-aTSpANdzS7sodQx1xr-qXhybG7-8nrK-kvKVRg7VgnnrmrhADFxBomHlIB2s-uT9PqbTnnPHk_PPjNQDX2aNAwBqs5ZBtB9gevvAQ5zR3UDUp8o_VQ3ojhyJSmCdsxv8Wvvwgom1IAgO14bwV3kPJxRWyieWomXQ0RTiCsQdZR0cPQRX5y2KKrivWfGWerJCmzb_aMz2Kq6bexY8gthRcoxasQhBhchJXMVZ1lO-c=)
+- [investing.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZVAvQ_rZEL0CRc0Cs44N1S_ZNj2ZaVKOaMN4ekX2UhzNkSkMDxVWx_TmZlE8iNJsAib8wlayO9KYjf9E24ZzuiGBP-TWWqxHyOhST2WWEhvH3HekOf_3XefxP6X5J_9S2UQfFbQU5Y7LqZIM9vbOslUTBjOd_Z1dI_BWj5LKZgfFRkyhS6XNOzE862-B2OyRQ6ha4LDbETrJCM8lykaximN-0De-kTi7dWV5z77V3HJFjuL4a_4=)
+- [nvidia.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5T_UqR-vJO_LNa91XBhOv5RaKU8gwi_S0zg12drGudRYrbo_0XgOeg1q1izB380u8TFSxpKiPmx1IsCPIFtzGSctZl6-RD4hCox55HUfobjjHGld_WI3jKNNowDF5YB32FrbBchzf_D8KsY2nGgAxr76jvDM6Sdyu8ND02YESFEwg6pxe1Vf3FvWpOKut9X9rJMslaWCK0CoTLxQrWVBUXjtM--u34_q-JP07n1aiBpUCKXKRINHHQGYdZwasQmP1SCU=)
+- [ig.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnsXQ8F7oxBditTF6tiCuOI2dxkX9WKxA12_BOa-lfPoHfTvrB8EON7_2cIKpH06jV3ZvsFPAEW66Fj5pbI3B5DElxV7kiZwIvYlFiq3ZJsAG1XENuWOAo2IYN6Jv6SCwhvgZ2Cqk8PqrP1AwXu-fVY9L_Ea9g1kmGA1o0-csjIWIMRNB--oMdks-IwnNP_6LOzpAgzL1a71I6b4eNpc9WI-YA-ThVRIKo_nTUlS_aW-3U4vI0k5s=)
+
+---
+
+## Analysis
+
+NVIDIA is set to report its Q2 FY2026 earnings today, August 27, 2025. While the Data Center segment remains the primary revenue driver, the Automotive and Robotics segments are garnering significant attention due to their high growth rates and strategic importance for NVIDIA's future. Recent announcements, though largely occurring after the close of Q2 FY2026 (which ended July 2025), are highly material for the company's forward-looking guidance.
+
+Analyst consensus points to robust year-over-year growth for the Automotive and Robotics segments, with expectations ranging from 65% to 80%. This strong growth is anticipated to be fueled by new AI-driven platforms, including the NVIDIA DRIVE AGX Thor and Jetson AGX Thor, which are powered by the advanced Blackwell architecture. The recent availability of developer kits and production modules for these platforms, coupled with significant partnerships and adoption by major automotive and robotics players, suggests a strong pipeline for future revenue, even if direct Q2 revenue impact from these specific new product launches is limited due to their post-quarter announcement dates.
+
+**Key Findings:**
+
+*   **Snippet:** "First-quarter Automotive revenue was $567 million, down 1% from the previous quarter and up 72% from a year ago."
+    *   **Date:** 2025-05-28
+    *   **Source:** NVIDIA Announces Financial Results for First Quarter Fiscal 2026, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQDG9Y8Mtjcom4XA-Hd7zjli_gEM17eQhmM6sdkiC4-uxnKdRQrB6KPTyf3d5B_uOZJpvOIMYdeHIYEFIOqw-2LVFIUhb6YwtzmhF5jLrydhgmWJB6FNPaX5j_or9dXSLxtoK5I7i0c6NQWU_WeK64T-LrJerUyCd2SwKTHr-7JmOB_4akAQsrgfR9rUn0HzBhRz12rc6VXdmi6ma0Rg==
+    *   **Impact:** High. This provides the most recent reported actual performance for the Automotive segment, showing strong 72% year-over-year growth in Q1 FY2026. This sets a high baseline for expectations for Q2 and future quarters.
+    *   **Consensus Check:** Widely known (company reported financial results).
+
+*   **Snippet:** "The NVIDIA DRIVE AGX Thor developer kit — now available for preorder today, with delivery in September — provides developers and researchers worldwide an advanced platform to accelerate the design, testing and deployment of AVs and intelligent mobility solutions. ... The world's leading automotive companies are building on NVIDIA DRIVE AGX Thor, including BYD, GAC, IM Motors, Li Auto, Volvo Cars, Xiaomi and Zeekr."
+    *   **Date:** 2025-08-25
+    *   **Source:** NVIDIA Rolls Out DRIVE AGX Thor Developer Kit to World's Automotive Developers, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLtMLCg-tdk8yVhuVE_M5tEwfPLMmTnXy6jqIss-85zAKT7n4hTcYjqHR6VXyzwwGmTq3NfPCY7qifz2oRFzrxSrqG74GyU6dEgZqCcvneFggnrbNUY0s6oK8OqrpPzMxmFgI2vfQ0Vj4Hpb1z4TOW5xKan6eK_HCsPzOF6305LphIxB4X8Q==
+    *   **Impact:** High for *forward-looking guidance*. While the developer kit's pre-order availability and September delivery mean minimal direct Q2 FY2026 revenue, the announcement just before earnings, coupled with the extensive list of major automotive OEMs adopting the platform, strongly signals a robust future pipeline and significant market traction for NVIDIA's automotive solutions. This will likely be a key highlight in the earnings call and guidance.
+    *   **Consensus Check:** The news of the developer kit is widely reported, but the specific breadth of adoption by leading automotive companies and its direct implications for *future guidance* might be underappreciated by the broader market.
+
+*   **Snippet:** "NVIDIA today announced the general availability of the NVIDIA Jetson AGX Thor™ developer kit and production modules... Early adopters include industry leaders Agility Robotics, Amazon Robotics, Boston Dynamics, Caterpillar, Figure, Hexagon, Medtronic and Meta... The Jetson AGX Thor is positioned not only for humanoid robots but also for autonomous vehicles. Nvidia confirmed that Chinese automakers are expected to integrate Thor chips into self-driving platforms."
+    *   **Date:** 2025-08-25
+    *   **Source:** NVIDIA Announces General Availability of Jetson AGX Thor Developer Kit and Production Modules for Advanced Robotics Applications - Quiver Quantitative, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwKey-Hk048cQ_oSPZkAyBuWcgIiaev5oMEsMSEZT77sM6X_AL2q7vxb7BBViAaYgbgK9ikSiubz7MsnpK1iT_vXeggm6-u8CbCX-VqhGVNglHzjLK4-dor507myjPUsCqBDR2v11HuvXBN-fsqQWCaYECzHvCWiZWGZQVxUqQfLPDFVZJndnLPaaTkzLEkqr4c9A9K1xxGRYfQIOcEon91VdItgZYjlWFP5MWKrAWBFjJXssLdlPgjAH3httfNGKJeYp8PzBQLza7RNj_7HQoR0WHAXLOS-GMDaiSOg==; NVIDIA Corporation ($NVDA) Stock: Robotics Push with Jetson AGX Thor - CoinCentral, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEa7SxnCi7tBWFa_rU6jIODeM3lW7t-pGa1gqDDD7iOvRxshZOY1vhnw7WtgGMMffbeara5RXFhLbLz8Srd35GWkGXW8qBWPT_JCfOVUmfeqnww1T_phLR9RzRhD2JBj45txoo0bqkx9tC1xkC_FGcL4TWSPxfNU_6LOzpAgzL1a71I6b4eNpc9WI-YA-ThVRIKo_nTUlS_aW-3U4vI0k5s=; NVIDIA Blackwell-Powered Jetson Thor Now Available, Accelerating the Age of General Robotics | Markets Insider, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZvqbBm-oXmv54Y2ZkIINSET0QL72I6kv40p0_QK9oh6Daw-aTSpANdzS7sodQx1xr-qXhybG7-8nrK-kvKVRg7VgnnrmrhADFxBomHlIB2s-uT9PqbTnnPHk_PPjNQDX2aNAwBqs5ZBtB9gevvAQ5zR3UDUp8o_VQ3ojhyJSmCdsxv8Wvvwgom1IAgO14bwV3kPJxRWyieWomXQ0RTiCsQdZR0cPQRX5y2KKrivWfGWerJCmzb_aMz2Kq6bexY8gthRcoxasQhBhchJXMVZ1lO-c=
+    *   **Impact:** High for *forward-looking guidance*. Similar to DRIVE AGX Thor, the general availability of Jetson AGX Thor post-Q2 means its revenue impact will be in Q3 FY2026 and beyond. However, the broad adoption by major robotics companies and the specific mention of Chinese automakers integrating Thor chips into self-driving platforms highlight a significant expansion of NVIDIA's physical AI footprint, which will be crucial for future guidance.
+    *   **Consensus Check:** The news is public, but the specific details of adoption across both robotics and automotive (especially Chinese automakers) and the implications for the long-term growth trajectory of the Drive segment might be underappreciated.
+
+*   **Snippet:** "BlackBerry Limited's (NYSE:BB)(TSX:BB) QNX division... announced Wednesday it has become a key ecosystem partner for NVIDIA's newly available DRIVE AGX Thor development kit, a platform designed for autonomous vehicle development. ... The NVIDIA DRIVE AGX Thor development kit integrates QNX OS for Safety 8, combining NVIDIA's hardware capabilities with QNX's automotive-certified operating system."
+    *   **Date:** 2025-08-27
+    *   **Source:** BlackBerry's QNX partners with NVIDIA on autonomous driving platform By Investing.com, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-ZVAvQ_rZEL0CRc0Cs44N1S_ZNj2ZaVKOaMN4ekX2UhzNkSkMDxVWx_TmZlE8iNJsAib8wlayO9KYjf9E24ZzuiGBP-TWWqxHyOhST2WWEhvH3HekOf_3XefhP6X5J_9S2UQfFbQU5Y7LqZIM9vbOslUTBjOd_Z1dI_BWj5LKZgfFRkyhS6XNOzE862-B2OyRQ6ha4LDbETrJCM8lykaximN-0De-kTi7dWV5z77V3HJFjuL4a_4=
+    *   **Impact:** Medium-High for *forward-looking guidance*. Announced on the day of earnings, this partnership reinforces the safety and reliability aspects of NVIDIA's DRIVE platform, which are critical for automotive adoption. QNX's pre-certified OS enhances the appeal of DRIVE AGX Thor for automakers, potentially accelerating future deployments.
+    *   **Consensus Check:** Very recent news, likely to be discussed on the earnings call, and therefore potentially not fully priced in or widely understood by all market participants.
+
+*   **Snippet:** "General Motors and NVIDIA today announced they are collaborating on next-generation vehicles, factories and robots using AI, simulation and accelerated computing. ... GM will also build next-generation vehicles on NVIDIA DRIVE AGX, based on the NVIDIA Blackwell architecture, and running the safety-certified NVIDIA DriveOS™ operating system."
+    *   **Date:** 2025-03-18
+    *   **Source:** General Motors and NVIDIA Collaborate on AI for Next-Generation Vehicle Experience and Manufacturing, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5T_UqR-vJO_LNa91XBhOv5RaKU8gwi_S0zg12drGudRYrbo_0XgOeg1q1izB380u8TFSxpKiPmx1IsCPIFtzGSctZl6-RD4hCox55HUfobjjHGld_WI3jKNNowDF5YB32FrbBchzf_D8KsY2nGgAxr76jvDM6Sdyu8ND02YESFEwg6pxe1Vf3FvWpOKut9X9rJMslaWCK0CoTLxQrWVBUXjtM--u34_q-JP07n1aiBpUCKXKRINHHQGYdZwasQmP1SCU=
+    *   **Impact:** High. This significant collaboration with a major automotive OEM like General Motors, announced within the Q2 FY2026 period, demonstrates strong design wins and long-term commitment to NVIDIA's DRIVE platform. While specific Q2 revenue impact is not detailed, such a partnership underpins the growth narrative for the Drive segment and could have influenced pipeline development during the quarter.
+    *   **Consensus Check:** Likely known, but the full implications of GM building next-gen vehicles on Blackwell-based DRIVE AGX for NVIDIA's long-term automotive revenue stream might still be developing in market perception.
+
+*   **Snippet:** "Conversely, automotive and robotics segments are expected to accelerate to 80% YoY growth, powered by new products including NVIDIA Halos safety systems for autonomous vehicles and Isaac, the world's first open humanoid robot foundation model."
+    *   **Date:** 2025-08-21
+    *   **Source:** NVIDIA Q2 2026 earnings preview: AI growth, China chip deal, analyst forecast, https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnsXQ8F7oxBditTF6tiCuOI2dxkX9WKxA12_BOa-lfPoHfTvrB8EON7_2cIKpH06jV3ZvsFPAEW66Fj5pbI3B5DElxV7kiZwIvYlFiq3ZJsAG1XENuWOAo2IYN6Jv6SCwhvgZ2Cqk8PqrP1AwXu-fVY9L_Ea9g1kmGA1o0-csjIWIMRNB--oMdks-IwnNP_6LOzpAgzL1a71I6b4eNpc9WI-YA-ThVRIKo_nTUlS_aW-3U4vI0k5s=
+    *   **Impact:** Medium. This snippet reflects the strong consensus expectation for the Automotive and Robotics segments to be a significant growth driver, with an aggressive 80% YoY acceleration. While consensus, it highlights the high expectations the market has for this segment.
+    *   **Consensus Check:** Widely known (analyst consensus).
+
+**Contradictions and Gaps:**
+
+*   **Direct Q2 FY2026 Revenue Impact:** A significant gap is the lack of specific, non-consensus data points directly impacting Q2 FY2026 *revenue* for the Automotive segment. Most major product availability announcements (DRIVE AGX Thor, Jetson AGX Thor) occurred *after* the quarter ended (July 2025), meaning their direct revenue contribution will be in Q3 FY2026 and beyond. Therefore, any upside surprise in Q2 Automotive revenue would likely come from existing products or earlier-than-expected ramp-ups not explicitly detailed in these recent announcements.
+*   **Tegra Specifics:** While the query mentioned "NVIDIA Tegra processor," the recent news primarily focuses on the "DRIVE AGX Thor" and "Jetson AGX Thor" platforms, which are powered by the newer Blackwell architecture and Arm Neoverse V3AE CPUs. While Tegra SoCs are foundational to NVIDIA's automotive efforts, the current narrative emphasizes the broader platform and architecture rather than specific Tegra chip generations. This indicates a shift in focus to the integrated platform capabilities.
+*   **Non-Consensus Data:** Most information regarding the automotive segment's strong growth is largely consensus among analysts. The "non-consensus" aspect primarily lies in the *timing* of the new product availability announcements (post-Q2 but pre-earnings) and the *detailed lists of adopters*, which could provide more color to the market's understanding of the future pipeline.

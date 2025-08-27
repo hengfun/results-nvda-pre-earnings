@@ -1,0 +1,100 @@
+# Research Query: Which enterprise case studies cite migrations from CUDA to ROCm with TCO/performance comparisons?,Enterprise engineering blogs; case studies; ROCm forums,CUDA to ROCm migration TCO performance case study 2025
+**Generated:** Wednesday, August 27, 2025 at 11:58:35 AM
+**Model:** gemini-2.5-flash
+
+## Search Queries Used
+- CUDA to ROCm migration TCO performance case study 2025 OR OR OR OR OR OR OR OR after:2025-05-27
+- enterprise engineering blogs CUDA ROCm migration TCO performance after:2025-05-27
+- ROCm forums CUDA migration cost performance after:2025-05-27
+- AMD Instinct vs NVIDIA TCO enterprise 2025 after:2025-05-27
+
+## Sources Referenced
+- [techzine.eu](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF28_6-jl2LaFWZSrkmotPqrs15vl70yBQVUJBMpw0hoku9R636MjvkiLenEQdrF7yNRhDTl14hyiU2lxWhf2SjxQtVtXNl_i9bnlzUcZZzjLl2pBF1gR9fQmrlNq_2EcPLshj_0-SqcZQGuyOibG2CULNygj1kylnmfs0JwMEAgnbergnSb8TC6Fuajxave6X8uQ==)
+- [unlockgpu.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhjtEVydtk7UHjvqsfPUPHjtla248Ih_7gRT2uXi27fOeafZCW0Hs9VHRLinZzxNdIbGAF7HtqkWwLPWMj9zF6MxDOOsVIC7ZLcfhPhSgoveNmSnkVUeVjSVTprA==)
+- [hardforum.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGnZRuitGIGTZpuBcGl8bmoD3oJxbhpfzDKGiEwMW3Hr4syVrnqgu1e7ZPfJbW5r7wxVZOCsxkC4cQn43Utwe0AuRFB1MyIgPaNe8m24oVSATLmythjJ31fFGZUZD6WWoQ_-Noo6qSytsu5GedvyVi4OX8kZKYRS-fw3ZuLup_GAOLkUhEi2Jl2I4dl8aA41EiLiE-nQu8rMswtxkyB5g9I_ZsVP_btT9gXuoO6KWiLEUi7DIWeUr0ymiDrt_txtNATISRhmsU9VkQWCW1M4siCGCDWdOudWYQ6JW8Gw1SEOglhzNW2n5D5MFd8CIcoy4=)
+- [github.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXKd_B8EzTS6aV26aFVneJeNv9e9-gNrO1hOqiztd_oHmrzcY-T6YfSryfkSRJdoDdypY4n12NWaeLOtr_udvyYkcWGYUjx23DfT474y8VbvAyB-B21N6eUzfuKj28LDzi0jc=)
+- [uncoveralpha.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNey7gsV5MHYXAuIincT7MyQ0F_c6UePsCV3FkNGjxQvY2OfjVzXAjW4M1Zm2pX-DofiJ-OAjubGSiSjF32p3lb0dgBgPf6lAvVNqqZo8ATmCr97vnMDXP3o8aDkeOstBVUkMT7cSV4mB6fw_NSaAFvRAP4kip8Mg7Jg==)
+- [signal65.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjZ_xH6J-n5QTEMlgLuZgzhY04xdmz8YnI75XoKOyG2ozkezIvs1Th__cZDJ7BoDk8lB18uMw4hiLDLVVAiTNQCMsOBgM6UcIRSJKls906h7aDdESvAeEEG1K1m92VK8itNhZ_OIMtd23DV25YpKYHlWN9xYnHzpWM__P9EDgbOBagRPy5ev-WndbFTjZra6JgIKKzKNF3efbxHi6f1-TBMCc_85Prf_SEbXjXIr5U9IzNP1ubzFuepjHlqcYCgTBCi9SS-5fco5c=)
+- [seekingalpha.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2hDJjHID4DpXnwRJClIm7G_xYj20Sz4R_JqwMcXQLM0vcQCJesVLL50BdtQwuCetA7ff-gScF3YhP2UXj8CERaos4yl89fUsMlHMo6uSio2jejnIHPfKmm83uy56o3zH4G3XE1u_Sr07c5qYcbCVDQICQOEQYFwe2yHBy9bOtkx9k-VSfRJzHyV3E)
+- [economictimes.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Q-Xba6zBxZWeXR-Sq5cm6lhXqZ8ztHZwtHpo0AGvTtPzAGrPSj-dAyRpRs_Sp4BJenKuwrhRrqsOB05GcsdpF4bc6MxTjA7-AL77fkCraNoXEW_pIMzH_-WoaRld9PnGTbmTCI9XZY1n6en-X9qUg2BmNTZF_Q88rk7YOsIzz9Q_uNCoiEjdemNOt-DwMdR8bJoo-9kD9mVBUGDJqmPlMQRUhbsXP_wz-e_RJ9isskGpBz2MfvYUgOWmbh-y1hYyUSZKlgWBYeIXDW-AZL2ISQjt)
+
+---
+
+## Analysis
+
+Here's a pre-earnings research analysis on NVIDIA (NVDA), focusing on material, non-consensus information regarding CUDA to ROCm migrations and TCO/performance comparisons, based on web content published within the last three months.
+
+**Human-Readable Analysis:**
+
+The competitive landscape for AI accelerators, particularly concerning NVIDIA's dominant CUDA ecosystem, is showing signs of evolution, though with significant contradictions. AMD is aggressively positioning its Instinct GPUs and ROCm software stack as a viable, and in some cases, superior alternative, especially in terms of Total Cost of Ownership (TCO) and specific inference workloads.
+
+Recent claims from AMD's leadership and some analyst reports suggest that AMD's MI350/MI355X series can match or exceed NVIDIA's Blackwell (B200/GB200) performance in certain critical training and inference tasks, potentially at a significantly lower cost (e.g., 30% lower average selling price, 40% more tokens per dollar for inference). The narrative from AMD and its partners, like Modular, emphasizes ROCm's increasing maturity, improved stability, and enhanced portability (HIP programming model nearing CUDA in syntax), which is crucial for attracting hyperscalers and enterprise clients seeking to avoid vendor lock-in. The claim that "seven out of ten of the largest AI companies now use AMD Instinct 'at scale'" is a bold statement that, if accurate and not fully discounted, could signal a more rapid erosion of NVIDIA's market share than currently anticipated.
+
+However, a strong counter-narrative exists, particularly from more niche, developer-focused sources. These reports highlight persistent "last mile" optimization gaps in ROCm, with some users experiencing significantly lower performance (e.g., "1/3 of the performance on a much faster card") and even a "severe accuracy crisis" where 25% of tested models fail accuracy tests on AMD GPUs, making production deployment risky. While ROCm 7 is seen as a step forward, the broader consensus from these critical voices is that CUDA remains "a full lap ahead" due to NVIDIA's deeply integrated ecosystem, including CPUs and networking, which offers seamless scalability and a unified development experience. The challenges with ROCm's stability, Windows support, and the lack of a unified cross-architecture ISA further underscore the hurdles AMD faces in truly challenging NVIDIA's software moat.
+
+For NVIDIA's upcoming earnings, the key takeaway is the increasing pressure from AMD on TCO and specific performance benchmarks, particularly in inference. While NVIDIA's ecosystem remains robust, any tangible evidence of enterprises successfully migrating or adopting ROCm at scale due to TCO advantages, as claimed by AMD, could signal a potential headwind for NVIDIA's future guidance. Conversely, if the reported "accuracy crisis" and performance gaps in ROCm are more prevalent than AMD suggests, NVIDIA's competitive position, especially in mission-critical enterprise deployments, would remain strong. The market's perception of the speed and extent of ROCm's improvement and adoption, versus its lingering challenges, will be a material factor.
+
+**Structured Findings:**
+
+---
+**Finding 1:** AMD's Claim of Hyperscaler Adoption and TCO Focus
+- **Snippet:** "Seven out of ten of the largest AI companies now use AMD Instinct “at scale.” The current go-to market AMD Instinct strategy rests on four pillars. First and foremost, performance must be equivalent to or exceed that of Nvidia. The TCO must also be lower, which is essential for attracting customers when they have a free choice between Nvidia and AMD. Migration must also be easy, run on an open (source) basis as much as possible, and be customer-centric."
+- **Date:** June 12, 2025
+- **Source:** Techzine Global, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF28_6-jl2LaFWZSrkmotPqrs15vl70yBQVUJBMpw0hoku9R636MjvkiLenEQdrF7yNRhDTl14hyiU2lxWhf2SjxQtVtXNl_i3bnlzUcZZzjLl2pBF1gR9fQmrlNq_2EcPLshj_0-SqcZQGuyOibG2CULNygj1kylnmfs0JwMEAgnbergnSb8TC6Fuajxave6X8uQ==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF28_6-jl2LaFWZSrkmotPqrs15vl70yBQVUJBMpw0hoku9R636MjvkiLenEQdrF7yNRhDTl14hyiU2lxWhf2SjxQtVtXNl_i3bnlzUcZZzjLl2pBF1gR9fQmrlNq_2EcPLshj_0-SqcZQGuyOibG2CULNygj1kylnmfs0JwMEAgnbergnSb8TC6Fuajxave6X8uQ==)
+- **Impact:** High. If true, this indicates significant inroads by AMD into NVIDIA's core hyperscaler market, driven by TCO and ease of migration, directly impacting NVIDIA's future revenue and guidance.
+- **Consensus Check:** Overlooked. While AMD's competitive efforts are known, the specific claim of "seven out of ten largest AI companies" using Instinct "at scale" is a strong, potentially non-consensus data point that could surprise the market if validated.
+
+---
+**Finding 2:** ROCm's Improved Stability and Portability
+- **Snippet:** "Many industry experts are reporting that ROCm, with its recent update, has become much more stable. Even AMD has stated that ROCm 7 achieves a 3.5x improvement in inference throughput performance over ROCm 6. An Azure employee also emphasized AMD's recent kernel and compiler improvements: »I think from a platform perspective is the compiler and the kernel improvement. AMD's HIP programming model is coming very close to CUDA in terms of portability and syntax. That's something which they need to continue to do so that people who are using CUDA can actually easily migrate to ROCm if they want to do.«"
+- **Date:** August 22, 2025
+- **Source:** UncoverAlpha, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNey7gsV5MHYXAuIincT7MyQ0F_c6UePsCV3FkNGjxQvY2OfjVzXAjW4M1Zm2pX-DofiJ-OAjubGSiSjF32p3lb0dgBgPf6lAvVNqqZo8ATmCr97vnMDXP3o8aDkeOstBVUkMT7cSV4mB6fw_NSaAFvRAP4kip8Mg7Jg==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNey7gsV5MHYXAuIincT7MyQ0F_c6UePsCV3FkNGjxQvY2OfjVzXAjW4M1Zm2pX-DofiJ-OAjubGSiSjF32p3lb0dgBgPf6lAvVNqqZo8ATmCr97vnMDXP3o8aDkeOstBVUkMT7cSV4mB6fw_NSaAFvRAP4kip8Mg7Jg==)
+- **Impact:** Medium-High. Improved software stability and portability directly address NVIDIA's "CUDA moat." If developers find it genuinely easier to migrate, it lowers the barrier to AMD adoption, potentially impacting NVIDIA's long-term dominance.
+- **Consensus Check:** Overlooked. While AMD's efforts on ROCm are known, the extent of its recent improvements and the specific endorsement from an Azure employee regarding HIP's closeness to CUDA portability might be underestimated by the broader market.
+
+---
+**Finding 3:** AMD MI355X Performance Matching/Exceeding NVIDIA B200 in Benchmarks
+- **Snippet:** "The MI355X delivers up to 2.0x higher throughput on large-scale models like Llama3. 1 405B and DeepSeekR1. ... An 8-GPU MI355X system reached a throughput of 2,154 tokens/second/GPU, compared to 1,918 tokens/second/GPU for an 8-GPU B200 system. ... In evaluating the Llama3-70B pre-training workload using FP8 precisions, an 8 GPU MI355X system achieved similar performance as an 8 GPU NVIDIA B200. Specifically, the AMD system achieved a 3% higher token rate, as seen below in the chart. ... AMD's performance in terms of floating-point operations, memory bandwidth and capacity can match or exceed NVIDIA B200 GPUs across a range of measurements."
+- **Date:** June 4, 2025
+- **Source:** Signal65, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjZ_xH6J-n5QTEMlgLuZgzhY04xdmz8YnI75XoKOyG2ozkezIvs1Th__cZDJ7BoDk8lB18uMw4hiLDLVVAiTNQCMsOBgM6UcIRSJKls906h7aDdESvAeEEG1K1m92VK8itNhZ_OIMtd23DV25YpKYHlWN9xYnHzpWM__P9EDgbOBagRPy5ev-WndbFTjZra6JgIKKzKNF3efbxHi6f1-TBMCc_85Prf_SEbXjXIr5U9IzNP1ubzFuepjHlqcYCgTBCi9SS-5fco5c=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjZ_xH6J-n5QTEMlgLuZgzhY04xdmz8YnI75XoKOyG2ozkezIvs1Th__cZDJ7BoDk8lB18uMw4hiLDLVVAiTNQCMsOBgM6UcIRSJKls906h7aDdESvAeEEG1K1m92VK8itNhZ_OIMtd23DV25YpKYHlWN9xYnHzpWM__P9EDgbOBagRPy5ev-WndfFTjZra6JgIKKzKNF3efbxHi6f1-TBMCc_85Prf_SEbXjXIr5U9IzNP1ubzFuepjHlqcYCgTBCi9SS-5fco5c=)
+- **Impact:** High. Specific, independently (though AMD-commissioned) benchmark results showing AMD's MI355X matching or outperforming NVIDIA's B200 in key AI workloads directly challenges NVIDIA's performance leadership and could influence purchasing decisions.
+- **Consensus Check:** Overlooked. While AMD touts its performance, detailed benchmarks showing parity or superiority against NVIDIA's latest hardware might not be fully factored into NVIDIA's valuation, especially for specific workloads like inference.
+
+---
+**Finding 4:** AMD CEO's Claim of 40% More Tokens Per Dollar for Inference
+- **Snippet:** "From a competitive standpoint, MI355 matches or exceeds B200 in critical training and inference workloads and delivers comparable performance to GB200 for key workloads at significantly lower cost and complexity. For upscale inferencing, MI355 delivers up to 40% more tokens per dollar, providing leadership performance and clear TCO advantages."
+- **Date:** August 6, 2025
+- **Source:** Seeking Alpha (quoting AMD CEO Lisa Su), [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2hDJjHID4DpXnwRJClIm7G_xYj20Sz4R_JqwMcXQLM0vcQCJesVLL50BdtQwuCetA7ff-gScF3YhP2UXj8CERaos4yl89fUsMlHMo6uSio2jejnIHPfKmm83uy56o3zH4G3XE1u_Sr07c5qYcbCVDQICQOEQYFwe2yHBy9bOtkx9k-VSfRJzHyV3E](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2hDJjHID4DpXnwRJClIm7G_xYj20Sz4R_JqwMcXQLM0vcQCJesVLL50BdtQwuCetA7ff-gScF3YhP2UXj8CERaos4yl89fUsMlHMo6uSio2jejnIHPfKmm83uy56o3zH4G3XE1u_Sr07c5qYcbCVDQICQOEQYFwe2yHBy9bOtkx9k-VSfRJzHyV3E)
+- **Impact:** High. A direct, quantifiable claim from AMD's CEO about a significant TCO advantage (40% more tokens per dollar) in a rapidly growing segment (inference) could directly impact NVIDIA's perceived value proposition, especially for cost-sensitive customers.
+- **Consensus Check:** Overlooked. While CEO statements are part of the public record, the specific magnitude of the TCO advantage claimed might not be fully internalized or believed by the market without further independent validation, making it a non-consensus point.
+
+---
+**Finding 5:** Analyst Prediction of AMD MI350 Series 30% Lower Cost than Blackwell
+- **Snippet:** "MI350 Series, Matches Nvidia's Blackwell performance at ~30% lower cost (avg selling price ~$25,000 vs. $35,000 for Nvidia). Cost Advantage, Lower total cost of ownership (TCO) could attract hyperscalers like Meta, Microsoft, and AWS. ... Open software tools and ROCm platform improving fast, narrowing the CUDA advantage gap."
+- **Date:** July 11, 2025
+- **Source:** HSBC (via tech article), [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5Q-Xba6zBxZWeXR-Sq5cm6lhXqZ8ztHZwtHpo0AGvTtPzAGrPSj-dAyRpRs_Sp4BJenKuwrhRrqsOB05GcsdpF4bc6MxTjA7-AL77fkCraNoXEW_pIMzH_-WoaRld9PnGTbmTCI9XZY1n6en-X9qUg2BmNTZF_Q88rk7YOsIzz9Q_uNCoiEjdemNOt-DwMdR8bJoo-9kD9mVBUGDJqmPlMQRUhbsXP_wz-e_RJ9isskGpBz2MfvYUgOWmbh-y1hYyUSZKlgWBYeIXDW-AZL2ISQjt](https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQH5Q-Xba6zBxZWeXR-Sq5cm6lhXqZ8ztHZwtHpo0AGvTtPzAGrPSj-dAyRpRs_Sp4BJenKuwrhRrqsOB05GcsdpF4bc6MxTjA7-AL77fkCraNoXEW_pIMzH_-WoaRld9PnGTbmTCI9XZY1n6en-X9qUg2BmNTZF_Q88rk7YOsIzz9Q_uNCoiEjdemNOt-DwMdR8bJoo-9kD9mVBUGDJqmPlMQRUhbsXP_wz-e_RJ9isskGpBz2MfvYUgOWmbh-y1hYyUSZKlgWBYeIXDW-AZL2ISQjt)
+- **Impact:** High. An analyst firm (HSBC) predicting performance parity with a 30% cost advantage for AMD's MI350 series is a significant external validation of AMD's competitive positioning, directly impacting NVIDIA's pricing power and market share.
+- **Consensus Check:** Overlooked. While analyst reports are public, the specific details of cost advantage and its potential to attract major hyperscalers might not be fully priced into NVIDIA's stock, especially if the market is still heavily discounting AMD's ability to execute.
+
+---
+**Finding 6:** Critical Assessment of ROCm's "Last Mile" Optimization Gaps and Accuracy Issues
+- **Snippet:** "ROCm suffers from critical “last mile” optimization gaps. Performance often lags NVIDIA significantly, with users reporting “1/3 of the performance on a much faster card.” Benchmarks show ROCm slower than Vulkan for LLMs and even slower than CPU for larger models that exceed VRAM. The accuracy crisis is severe: 25% of tested models fail accuracy tests on AMD GPUs, making production deployment risky."
+- **Date:** June XX, 2025 (within 3 months, specific day not provided)
+- **Source:** Unlock the GPU, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhjtEVydtk7UHjvqsfPUPHjtla248Ih_7gRT2uXi27fOeafZCW0Hs9VHRLinZzxNdIbGAF7HtqkWwLPWMj9zF6MxDOOsVIC7ZLcfhPhSgoveNmSnkVUeVjSVTprA==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhjtEVydtk7UHjvqsfPUPHjtla248Ih_7gRT2uXi27fOeafZCW0Hs9VHRLinZzxNdIbGAF7HtqkWwLPWMj9zF6MxDOOsVIC7ZLcfhPhSgoveNmSnkVUeVjSVTprA==)
+- **Impact:** Very High. This directly contradicts the positive narrative around ROCm's maturity and performance. If these "last mile" issues and accuracy problems are widespread, it severely undermines AMD's competitive claims and reinforces NVIDIA's software moat, potentially leading to stronger-than-expected NVIDIA guidance.
+- **Consensus Check:** Highly overlooked. This is a critical, non-consensus perspective from a developer-focused source that directly challenges AMD's marketing and analyst optimism. Its severity (25% model failure rate) makes it extremely material.
+
+---
+**Finding 7:** ROCm Progress Acknowledged, But CUDA Still "A Full Lap Ahead"
+- **Snippet:** "ROCm is catching up in AI, but it is still a long ways behind in almost every other regard. AMD's pricing on their hardware isn't much better, but they lack integration with the rest of their platform. NVidia isn't just the Accelerators, they are also the CPU and Networking and you develop for their entire ecosystem in a single place. And when you develop code be it on 1 GPU or 10,000 accelerators it will compile and scale out accordingly. ROCm 7 is a great step forward but CUDA is still a full lap ahead."
+- **Date:** June 14, 2025
+- **Source:** [H]ard - HardForum, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGnZRuitGIGTZpuBcGl8bmoD3oJxbhpfzDKGiEwMW3Hr4syVrnqgu1e7ZPfJbW5r7wxVZOCsxkC4cQn43Utwe0AuRFB1MyIgPaNe8m24oVSATLmythjJ31fFGZUZD6WWoQ_-Noo6qSytsu5GedvyVi4OX8kZKYRS-fw3ZuLup_GAOLkUhEi2Jl2I4dl8aA41EiLiE-nQu8rMswtxkyB5g9I_ZsVP_btT9gXuoO6KWiLEUi7DIWeUr0ymiDrt_txtNATISRhmsU9VkQWCW1M4siCGCDWdOudWYQ6JW8Gw1SEOglhzNW2n5D5MFd8CIcoy4=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGnZRuitGIGTZpuBcGl8bmoD3oJxbhpfzDKGiEwMW3Hr4syVrnqgu1e7ZPfJbW5r7wxVZOCsxkC4cQn43Utwe0AuRFB1MyIgPaNe8m24oVSATLmythjJ31fFGZUZD6WWo6qSytsu5GedvyVi4OX8kZKYRS-fw3ZuLup_GAOLkUhEi2Jl2I4dl8aA41EiLiE-nQu8rMswtxkyB5g9I_ZsVP_btT9gXuoO6KWiLEUi7DIWeUr0ymiDrt_txtNATISRhmsU9VkQWCW1M4siCGCDWdOudWYQ6JW8Gw1SEOglhzNW2n5D5MFd8CIcoy4=)
+- **Impact:** Medium-High. This nuanced view, while acknowledging ROCm's progress, emphasizes NVIDIA's enduring advantage in ecosystem integration and scalability. This perspective suggests that while AMD is improving, NVIDIA's "moat" is still very much intact for large-scale, complex AI deployments.
+- **Consensus Check:** Overlooked. This provides a more grounded, less optimistic assessment of ROCm's current competitive standing compared to the more bullish AMD-centric narratives, offering a valuable counterpoint.
+
+---
+**Contradictions and Gaps:**
+
+*   **Contradiction in Performance and Maturity:** There's a direct contradiction between AMD's and its partners' claims of ROCm being "production-ready" with competitive/superior performance and TCO, versus the "Unlock the GPU" report detailing severe "last mile" optimization gaps, significant performance lags, and a "severe accuracy crisis" with 25% model failure rates. This gap in reported experience is highly material.
+*   **Lack of Specific Enterprise Case Studies:** While AMD claims "seven out of ten largest AI companies" use Instinct "at scale," and Modular speaks of "real cost optimization," there are no detailed, independent enterprise case studies explicitly citing migrations from CUDA to ROCm with concrete, verifiable TCO/performance comparisons from the customer's perspective. The information remains largely at the level of AMD's claims, analyst predictions, or general industry observations. This lack of specific, third-party validated migration success stories is a significant gap.
+*   **Scope of "At Scale" Adoption:** The term "at scale" used by AMD is ambiguous. It could mean small-scale deployments for specific workloads, or it could imply widespread adoption across entire AI infrastructure. The lack of detail leaves room for interpretation and potential overestimation of AMD's actual market penetration.

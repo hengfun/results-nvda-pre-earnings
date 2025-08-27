@@ -1,0 +1,61 @@
+# Research Query: NVIDIA involvement in climate modeling AI effect on new market revenue and Q3 guidance
+**Generated:** Wednesday, August 27, 2025 at 12:19:13 PM
+**Model:** gemini-2.5-flash
+
+## Search Queries Used
+- NVIDIA climate modeling AI revenue impact Q2 FY2026 Q3 guidance last 3 months
+- NVIDIA Earth-2 revenue forecast climate AI last 3 months
+- NVIDIA climate AI partnerships revenue guidance last 3 months
+- NVIDIA new market opportunities climate AI earnings impact last 3 months
+- non-consensus NVIDIA climate modeling AI revenue Q3 FY2026 guidance
+
+## Sources Referenced
+- [cloudcomputing.media](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuj-dz0M1J3ufob-xBEXY6W21HeYYjcHTJyulmVb48SOKCrqAfuCr2TstSySgNqrcs8kI8au2QD3ZBBquy3pk5_bSc7c4eo87SuK2F7hhGHpZ3ml0G3xrM0uSAQJup1g973Oe7Pt0GLTWoFz-DR-jw17vQFFXfIP-shbYFbBalWgsRxl57wsFAHsQnU8pP9BpsrLRFVC6SMQu2_I0=)
+- [itbrief.asia](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHym43V-PAILiZeYR0-9yD_ddbgaNmrH-yljiDu8h-xfHP74DelLFNEQ08ZKrs6KXz6Z4mQ1xiiW9zVZNKZQIsN123as2Pr_juM3woaZqxuIHcRhAmvtP6k-vSO8wUKsamudiSIiCTmiujqoPCiedrS04A0I_9f8U9Odmtp2W3tvbcoLU7VI8LvulMrvnOZyKi3Ow==)
+- [nvidia.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgaFykVCZV0cnHB8nld6_d-r7WzQbCLgxbBcgchZNykyr_BFyWyrVoCBjMncBejwCpCBmPCGP_VN_p-XZ7_piLN18WHVSjynrOXRJPjjfVX-2d67MkOikn7W0R2yVmLs-Bu-obdEgYz59m5V314GQy0Y_9NKKkfK1wwxqdwQkFV82pe_wYjA224E_NikYMrGhlf-aF-eYMhvUZa3YbOIip0-meUu0ELU8p)
+
+---
+
+## Analysis
+
+NVIDIA is poised to report its Q2 FY2026 earnings today, August 27, 2025, with market attention primarily focused on the continued strength of its data center segment, demand for Blackwell chips, and the impact of China export restrictions. While the company's involvement in climate modeling AI through its Earth-2 platform is a significant long-term strategic initiative, current pre-earnings research indicates a lack of specific, quantifiable non-consensus information directly linking this segment to NVIDIA's new market revenue or Q3 FY2026 guidance. Most analyst reports and earnings previews do not break out climate modeling AI as a distinct, material driver for the immediate upcoming earnings or forward-looking statements.
+
+However, the underlying technology and partnerships in the climate tech sector represent a substantial addressable market and a potential future revenue stream that may not be fully priced into near-term expectations. The Earth-2 platform aims to revolutionize climate and weather forecasting, addressing a global economic loss of billions due to extreme weather events.
+
+Here are key findings related to NVIDIA's climate modeling AI involvement, with an emphasis on its potential and the current lack of specific financial guidance for this segment in the immediate earnings context:
+
+### Research Findings:
+
+*   **Snippet:** "NVIDIA has unveiled its Earth-2 platform, a digital blueprint aimed at transforming the next generation of data centers for climate change combat. This move addresses the urgent need to mitigate the $140 billion in economic losses caused by extreme weather conditions. Part of the NVIDIA CUDA-X™ suite, Earth-2 introduces cloud APIs on NVIDIA DGX Cloud™, empowering users to generate AI-driven weather and climate simulations with unparalleled precision and speed."
+    *   **Date:** March 20, 2024 (Note: While this article is older than 3 months, it provides foundational context for Earth-2, which is referenced in more recent articles. More recent articles within the 3-month window reiterate the platform's capabilities and partnerships.)
+    *   **Source:** Cloud Computing, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuj-dz0M1J3ufob-xBEXY6W21HeYYjcHTJyulmVb48SOKCrqAfuCr2TstSySgNqrcs8kI8au2QD3ZBBquy3pk5_bSc7c4eo87SuK2F7hhGHpZ3ml0G3xrM0uSAQJup1g973Oe7Pt0GLTWoFz-DR-jw17vQFFXfIP-shbYFbBalWgsRxl57wsFAHsQnU8pP9BpsrLRFVC6SMQu2_I0=](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuj-dz0M1J3ufob-xBEXY6W21HeYYjcHTJyulmVb48SOKCrqAfuCr2TstSySgNqrcs8kI8au2QD3ZBBquy3pk5_bSc7c4eo87SuK2F7hhGHpZ3ml0G3xrM0uSAQJup1g973Oe7Pt0GLTWoFz-DR-jw17vQFFXfIP-shbYFbBalWgsRxl57wsFAHsQnU8pP9BpsrLRFVC6SMQu2_I0=)
+    *   **Impact:** Medium. This snippet establishes the significant problem Earth-2 aims to solve ($140 billion in economic losses), indicating a large addressable market for NVIDIA's technology. However, it does not provide specific revenue figures for NVIDIA.
+    *   **Consensus Check:** Widely known that NVIDIA is involved in climate modeling, but the scale of the economic problem it addresses might be overlooked in immediate earnings discussions.
+
+*   **Snippet:** "Within the USD $20 billion climate tech sector, the NVIDIA Earth-2 platform enhances developers' capacity to issue warnings and update forecasts swiftly, often in seconds compared to the minutes or hours required by traditional CPU-based models. G42 is incorporating various components of the Omniverse Blueprint into its advanced forecasting models for Earth-2 to provide the UAE's National Center of Meteorology with cutting-edge AI technologies for sophisticated weather forecasting and emergency management."
+    *   **Date:** March 19, 2025
+    *   **Source:** IT Brief Asia, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHym43V-PAILiZeYR0-9yD_ddbgaNmrH-yljiDu8h-xfHP74DelLFNEQ08ZKrs6KXz6Z4mQ1xiiW9zVZNKZQIsN123as2Pr_juM3woaZqxuIHcRhAmvtP6k-vSO8wUKsamudiSIiCTmiujqoPCiedrS04A0I_9f8U9Odmtp2W3tvbcoLU7VI8LvulMrvnOZyKi3Ow==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHym43V-PAILiZeYR0-9yD_ddbgaNmrH-yljiDu8h-xfHP74DelLFNEQ08ZKrs6KXz6Z4mQ1xiiW9zVZNKZQIsN123as2Pr_juM3woaZqxuIHcRhAmvtP6k-vSO8wUKsamudiSIiCTmiujqoPCiedrS04A0I_9f8U9Odmtp2W3tvbcoLU7VI8LvulMrvnOZyKi3Ow==)
+    *   **Impact:** Medium. This snippet quantifies the "climate tech sector" at $20 billion and highlights a specific partnership with G42 and the UAE's National Center of Meteorology. This demonstrates real-world adoption and the potential for revenue generation, even if the specific financial contribution to NVIDIA is not disclosed.
+    *   **Consensus Check:** The existence of the climate tech sector and NVIDIA's involvement is known, but the specific partnership with G42 and the UAE's National Center of Meteorology might be less widely discussed in mainstream earnings previews.
+
+*   **Snippet:** "NVIDIA has introduced the NVIDIA Omniverse Blueprint for Earth-2 weather analytics, aiming to advance the development of more precise weather forecasting solutions. ... Prominent climate tech companies like AI firm G42, JBA Risk Management, and Spire are adopting the blueprint for the creation of tailored AI-augmented solutions."
+    *   **Date:** March 19, 2025
+    *   **Source:** IT Brief Asia, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHym43V-PAILiZeYR0-9yD_ddbgaNmrH-yljiDu8h-xfHP74DelLFNEQ08ZKrs6KXz6Z4mQ1xiiW9zVZNKZQIsN123as2Pr_juM3woaZqxuIHcRhAmvtP6k-vSO8wUKsamudiSIiCTmiujqoPCiedrS04A0I_9f8U9Odmtp2W3tvbcoLU7VI8LvulMrvnOZyKi3Ow==](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHym43V-PAILiZeYR0-9yD_ddbgaNmrH-yljiDu8h-xfHP74DelLFNEQ08ZKrs6KXz6Z4mQ1xiiW9zVZNKZQIsN123as2Pr_juM3woaZqxuIHcRhAmvtP6k-vSO8wUKsamudiSIiCTmiujqoPCiedrS04A0I_9f8U9Odmtp2W3tvbcoLU7VI8LvulMrvnOZyKi3Ow==)
+    *   **Impact:** Medium. This highlights the adoption of Earth-2 by multiple climate tech companies, indicating a growing ecosystem around NVIDIA's platform. This broadens the potential for future revenue streams from this sector.
+    *   **Consensus Check:** The general idea of partnerships is known, but the specific names and the breadth of adoption by "prominent climate tech companies" might be overlooked in the context of immediate earnings.
+
+*   **Snippet:** "NVIDIA Unveils Earth-2 Generative AI Foundation Model to Simulate Global Climate at Kilometer-Scale Resolution. This first-of-its-kind AI model is set to transform climate modeling and analytics to better predict, understand, and respond to climate change. ... Ai2 and NVIDIA are collaborating to accelerate and enhance climate modeling using the Earth-2 AI stack and GPUs, focusing on making climate simulations faster, more energy efficient and more accessible at high resolutions."
+    *   **Date:** June 10, 2025
+    *   **Source:** NVIDIA, [https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgaFykVCZV0cnHB8nld6_d-r7WzQbCLgxbBcgchZNykyr_BFyWyrVoCBjMncBejwCpCBmPCGP_VN_p-XZ7_piLN18WHVSjynrOXRJPjjfVX-2d67MkOikn7W0R2yVmLs-Bu-obdEgYz59m5V314GQz0Y_9NKKkfK1wwxqdwQkFV82pe_wYjA224E_NikYMrGhlf-aF-eYMhvUZa3YbOIip0-meUu0ELU8p](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgaFykVCZV0cnHB8nld6_d-r7WzQbCLgxbBcgchZNykyr_BFyWyrVoCBjMncBejwCpCBmPCGP_VN_p-XZ7_piLN18WHVSjynrOXRJPjjfVX-2d67MkOikn7W0R2yVmLs-Bu-obdEgYz59m5V314GQz0Y_9NKKkfK1wwxqdwQkFV82pe_wYjA224E_NikYMrGhlf-aF-eYMhvUZa3YbOIip0-meUu0ELU8p)
+    *   **Impact:** Medium. This recent announcement (within the 3-month window) underscores NVIDIA's continued innovation and investment in climate AI, specifically with a new generative AI foundation model and collaboration with Ai2. This reinforces the long-term potential for new market revenue, even without immediate financial quantification.
+    *   **Consensus Check:** The announcement of a new generative AI foundation model for climate modeling is likely known within the AI community, but its specific implications for NVIDIA's near-term earnings might be underappreciated by the broader market.
+
+**Contradictions and Gaps:**
+
+The primary gap is the **absence of specific revenue figures or direct guidance from NVIDIA related to its climate modeling AI initiatives for Q2 FY2026 or Q3 FY2026.** While the potential market is large and partnerships are forming, current earnings previews and analyst reports do not isolate this as a material, quantifiable revenue stream for the upcoming quarter. The focus remains heavily on the broader data center segment, driven by general AI demand and the Blackwell platform. This lack of specific financial disclosure makes it challenging to assess the immediate impact on new market revenue and Q3 guidance.
+
+**Human-Readable Analysis:**
+
+NVIDIA's Earth-2 platform for climate modeling AI represents a strategically important long-term growth vector, addressing a substantial global market focused on mitigating climate-related economic losses. Recent developments, including new generative AI models and partnerships with entities like G42, the UAE's National Center of Meteorology, JBA Risk Management, Spire, and Ai2, demonstrate active development and adoption of this technology. The ability of Earth-2 to provide faster and more accurate weather and climate simulations positions NVIDIA as a key enabler in the burgeoning climate tech sector, estimated at $20 billion.
+
+However, for NVIDIA's Q2 FY2026 earnings report and Q3 guidance, the financial impact of climate modeling AI is unlikely to be a primary driver of consensus estimates. Analyst expectations are largely centered on the continued robust demand for NVIDIA's GPUs in the broader data center market, particularly with the ramp-up of the Blackwell platform, and navigating geopolitical challenges like China export restrictions. The revenue generated from climate modeling AI, while potentially significant in the long run, is not currently being broken out or highlighted as a material contributor to NVIDIA's near-term financial performance by mainstream analysts. Therefore, any commentary from NVIDIA's management during the earnings call that provides specific insights or forward-looking statements about the revenue contribution or growth trajectory of its climate modeling AI segment would be considered **material, non-consensus information** and could positively surprise the market, indicating a diversification of AI revenue streams beyond the core hyperscaler demand. Without such specific commentary, the market will likely continue to view this as a promising but nascent area of growth.
